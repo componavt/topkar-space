@@ -1,0 +1,3097 @@
+186	Terzoja
+294	Kanav
+387	Боровая река
+387	Боровушка
+387	Задняя река
+387	Кибручей
+399	Глушица
+416	Cotcoilanoja
+430	Сележный ручей
+452	Tomojaan’e
+487	Sar’oja
+571	Корежручей
+571	Корежскский ручей (НА РК)
+686	Юршичручей
+746	Боровая река. Боровой ручей
+746	Боровушка
+746	Задняя река
+845	Нюкша
+1094	Сенинский ручей
+1296	Pertioja
+1296	Pertiojein’e
+1296	Pert’ojain’e
+1319	Markouskioja
+1345	Лижма
+1439	Васиковский ручей
+1795	Ганьручей [К]
+2042	Habojain’e
+2224	Капшручей
+2348	Cuurulamminoja
+2355	Moudoja
+2355	Молдый
+2382	Sagonoja
+2494	Kodoioja
+2517	Sar’jaoja
+2565	Загубский ручей
+2565	Калеручей
+2565	Мельничная река
+2565	Пижай
+2759	Колгубска река
+2780	Юршинский ручей
+2816	N’us
+2816	N’usa
+2869	Ignatoi
+2937	Корежский ручей (НА РК)
+2937	Корежье
+2958	Курилиха
+3165	Половина
+3165	Ручей под Косельгой
+3165	Ручей у Половины
+3171	Suganoja
+3240	Маслоручей
+3314	Rihoi
+3314	Rihoirucei
+3314	Rihojain’e
+3317	Gostii
+3317	Gostija
+3322	Puskuoja
+3449	Mel’nicoja
+3625	Iitojain’e
+3645	Kanaaoja
+3684	Ключи
+3684	Ключиха
+3685	Kivojain’e
+3717	Lahtoja
+3863	Mel’n’icojain’e
+4049	Sur’oja
+4072	Jamogoi
+4073	Пижейручей
+4171	Житный ручей
+4350	Черная речка
+5834	Микковский ручей
+5846	Ковкозерский ручей
+5871	Ковкозерский ручей
+6276	Никитин ручей
+6276	Никитина река
+6277	Никитин ручей
+6277	Сяргозерка
+6388	Savoja
+6556	Речка
+6569	Андрияновская речка
+6617	Емичевская Речка
+6865	Залепручей
+7038	Šidroja
+7114	Великий ручей
+7183	Окунь
+8003	Карасозерский ручей
+8003	Ловги
+8046	Ловги
+8046	Ловгий
+8078	Кивручей
+8207	Каменный ручей
+8467	Важмори
+8884	Шитий ручей
+9290	isanioja
+9436	himzoja
+9476	haragohn’erova
+9505	gimzoja
+9505	himzaoja
+9505	himzoioja
+9505	himzoja
+9558	hurinoi
+9558	hurinoja
+9569	hämehkoja
+9589	suvagd’oja
+9613	d’anioja
+9632	kadaioja
+9632	kadaiojein’e
+9654	kal’l’aižojein’e
+9713	kimai
+9826	Hein’oja
+9859	Kirvešdärvenoja
+9859	Kirveždärvenoja
+9862	Kičonoja
+9948	Hallaoja
+9980	Kolosoja
+9980	Колусоя (карта)
+9984	Сергоя
+10035	Hiedizoja
+10069	Kenttioja
+10069	Nigalmanoja
+10123	Dualinoja
+10123	Duarinoja
+10127	Melliččaoja
+10420	Reboioja
+10427	Ridaoja
+10606	Чайцев ручей
+10674	Левийручей
+10692	Студеный
+10729	Косручей
+10739	Захарьев ручей
+10743	Вехручей
+10744	Избной
+10781	Пи
+10818	Грязной ручей
+10884	рус.: Хераноя
+10935	Koskioja
+10998	Melličoja
+11092	Šammaloja
+11095	Siigoja
+11103	Šulgamaizoja
+11103	Šulgomaisoja
+11115	Šärkkäoja
+11142	Vassileinoja (ЗВФ)
+11238	Koškuzet
+11238	Melliččäoja (ЕФК 1924)
+11287	Melentienoja
+11292	рус.: Кюнаручей
+11301	Madaroja
+11307	Kumšaoja (МАИ 1937)
+11314	Kallivolamminoja
+11314	Koškuzet (ГКМ 1934)
+11396	Čogaoja
+11396	Čogoja
+11396	Čoho-oja
+11411	Danššanoja
+11412	Duarmoja
+11413	Melliččäoja
+11415	Duarmoja
+11445	Šyvälamminoja
+11541	Nahkonoja
+11563	Ongimoja
+11732	Dualingo
+11732	Duarinoja
+11843	Šärkkäoja
+11845	Tunguonoja (ЗВЕ 1938)
+11950	Talviz’oja
+12032	Kallivod’ärvenoja
+12070	Norgoja
+12178	Siigoja
+12187	Šäynoja
+12287	Вилой ручей
+12332	Talvilahenoja
+12390	Löydoja
+12390	Löydö-oja
+12394	Tiitanoja (ПВВ 1930)
+12520	Haugioja
+12530	Marttilanoja (ЛЛД 1931)
+12651	Iivanoja
+12663	Leppäoja (ГГИ 1947)
+12869	Kangašlamminoja (ЕВС 1940)
+12896	Poža
+12970	Hočinoja
+13157	Nigalmanoja
+13202	речка Вьюнка
+13251	Širkka (ААЛ 1939)
+13251	Širkonoja
+13254	Šuarenoja
+13254	Šuarioja
+13264	рус.: Трошкаоя
+13684	Малый Кокручей
+13692	Большой Венихручей
+13693	Большой Венюхручей
+13712	Вильморучей
+13712	Вирминский Ручей
+13713	Вильминский Ручей
+13713	Вирминский Ручей
+13714	Вильминский Ручей
+13714	Вильморучей
+13753	Виржучей
+13753	Виручей
+13754	Виржучей
+13754	Вирручей
+13755	Вирручей
+13755	Виручей
+13804	Заруцкий ручей
+13805	Гринькин ручей
+13816	Винской ручей
+13817	Двинской Ручей
+13866	Зайкух ручей
+13881	Камаручей
+13965	Кокоручей
+13998	Лёнгоручей
+13998	Лёнручей
+13999	Лёнгоручей
+13999	Лёнгуручей
+14039	Малый Венихручей
+14043	Большой Коровий ручей
+14440	Черная речка
+14653	Верхний Хабаришный ручей
+14659	Верхний Дедушка Моисей
+14659	Дедушка Мосей
+14660	Верхний Коргуручей
+14772	Маткручей
+14994	Куноручей
+15023	Пудасы
+15136	Большой Маягоручей
+15137	Малый Маягоручей
+15426	Шуагуньский ручей
+15662	Майгоручей
+15663	Майручей
+15729	Пунручей
+15758	Подомаричный ручей
+15934	Чутручей
+16116	Toroja
+16304	Leivis’käoja
+17133	Телей
+18299	Порожская речка
+18610	Kallivoja
+18613	Kul’ovoja
+18640	Lanittoja
+18652	Miidronoja
+18735	Lavoja
+18789	Harakanlamminoja
+18800	Kokkoja
+18807	Ongimoja
+18865	Čogoja
+18878	Šordoja
+18894	Kin’ieoja
+18894	Orgoja
+18898	Kin’ieoja
+18898	Orgo-oja
+18926	Läksijäoja
+18926	Šuuren Ahvenlamminoja
+18927	Šuuren Ahvenlamminoja
+18931	Šiigoja
+18952	Rönttioja
+18952	Šäynyäoja
+18985	Kokkoja
+18987	Koudoja
+18992	Korgoja
+19022	Muštoja
+19029	Norgoja
+19053	Puogoja
+19053	Ruogoja
+19054	Ruogoja
+19163	Hiizoja
+19234	Kallivoja
+19272	Muštoja
+19323	Puvas
+19377	Siikoja
+19408	Viäräoja
+19417	Vermašoja
+19457	Alane Koudoja
+19465	D’oržoja
+19465	D’oužoja
+19466	D’olžoja
+19466	D’oržoja
+19467	D’olžoja
+19467	D’oužoja
+19471	D’yrgilänoja
+19490	Huapoja
+19492	D’oržoja
+19507	Karangoja
+19523	Koivikkoja
+19525	Korgoja
+19564	Lahnoja
+19566	Laitoja
+19590	Murtoja
+19634	Pujetta
+19634	Pujottajanoja
+19642	Päččoja
+19655	Riihenoja
+19686	Paha Leiviskä
+19686	Uramojogi
+19691	Užmanginoja
+19704	V’atonoja
+19705	Vetonoja
+19706	Vienoja
+19717	Yline Koudoja
+20240	Угольский ручей; ср. Дальний ручей
+20241	ср. Ближний ручей
+20295	Калей
+20295	Калейручей
+20495	Мегоручей
+20894	Поткозерский ручей
+20897	Пертручей
+20901	Палазручей
+21145	Маткоручей
+21377	Карандоручей
+21377	Каранручей
+21391	Лаккоручей
+21399	Лавренрека
+21580	Яндаручей
+21890	Косельгский ручей
+23657	Гягручей
+23730	Enigoja
+23730	Törizienoja
+23735	Čulkanoja
+23735	Čuukanoja
+23739	Pohd’oižoja
+23739	Šammakkolamminoja
+23749	Tuhkoja
+23758	Kylmingind’ogi
+23769	Madrooja
+23807	Kaijotšoorenoja
+24300	Eningoja
+24996	Сяргручей
+25008	Аниковский
+25036	Важручей
+25110	Лебежинский
+25202	Сяргучей
+25266	Мергаручей
+25266	Мергручей
+25268	Мельгручей
+25268	Мергоручей
+25268	Мергручей
+25337	Палоручей
+25636	Кисвидь
+25744	Retukoja
+25940	Hongoja
+25959	Koveroja
+25975	Šepänsuonoja
+26004	Lambazoja
+26007	Lahnoja
+26007	Лагноя
+26077	Кивоя
+26090	Востожоя
+26134	Ojäžed
+26173	Melničanoja
+26174	Heinoja
+26180	Čuuroja
+26182	Mustanlambinoja
+26235	Leppoi
+26251	Бургоя
+26270	Töržiioja
+26361	Šittoja
+26441	Azoja
+26485	Cuhakoja
+26485	Čuhakoja
+26494	Haigaroja
+26494	Хайгары
+26498	Hein’oja
+26500	Hirvoja
+26500	Лосручей
+26523	Kal’l’onoja
+26539	Kivoja
+26542	Koivoja
+26542	Березовый
+26588	Марина
+26607	Musteoja
+26607	Mustoja
+26607	Черный
+26619	Pezendoja
+26631	Rylmänoja
+26636	Someroja
+26638	Sordoja
+26646	Talvoja
+26646	Tarvoja
+26646	Tauvioja
+26653	Vehkoja
+26674	Laučoja
+26677	Kiimoja
+26677	Кимручей
+26679	Сорвияручей
+26679	Сордия
+26697	Tolingoja
+26789	Potkoja
+26835	Рагой-оя
+26897	Sargoja
+26897	Särgoja
+26955	Kallingubanoja
+26986	Hiiz’kuaranoja
+27026	Чувручей
+27026	Чурручей
+27026	Чуручей
+27027	Чувручей
+27027	Чуйручей
+27027	Чуручей
+27028	Чуйручей
+27028	Чурручей
+27028	Чуручей
+27029	Чуйручей
+27029	Чурручей
+27029	Чуручей
+27061	Ёлчеручей
+27061	Ламбинский ручей
+27063	Ёлочный ручей
+27063	Ёлчеручей
+27064	Ёлочный ручей
+27064	Ламбинский ручей
+27090	Чёчкин
+27281	Чечкой
+27310	Oja
+27310	Ojand’ogi
+27310	Муровручей
+27310	Муройручей
+27310	Муромручей
+27311	Muuroioja
+27311	Muuroja
+27311	Oja
+27311	Ojand’ogi
+27311	Муровручей
+27311	Муройручей
+27311	Муромручей
+27312	Muuroioja
+27312	Muuroja
+27312	Oja
+27312	Ojand’ogi
+27312	Муровручей
+27312	Муройручей
+27402	Чупский ручей
+27421	Latakaiženoja
+27426	Leppoi
+27426	Leppoja
+27438	Muuraižiinoja
+27669	Lambazoja
+27693	Шидра
+27878	Huadranoja
+27878	Huodroilambinoja
+27879	Nadeždand’ogi
+27879	Надежда
+28160	Кейдоваоя
+28170	Kuolatez
+28235	Сенручей
+28236	Героручей
+28251	Lapoja
+28268	Маткузручей
+28319	Per’t’t’oja
+28319	Пертоя
+28321	Pohd’oja
+28321	Похта
+28323	Пурноручей
+28326	Равдоя
+28336	Резмиоя
+28359	Чуроручей
+28406	Därvydoja
+28552	Ruozmoja
+28552	Рузмеручей
+28584	Шорп-ручей
+28584	Щорпручей
+28588	Черемуховый
+28599	Viloja
+28685	Leppoi
+28747	Pajad’ärvenoja
+28896	Sarbahtd’ogi
+28896	Sarbatoja
+28897	Sarbaht
+28897	Sarbahtoja
+28898	Sarbaht
+28898	Sarbahtd’ogi
+28945	Ičemoiojein’e
+29020	Tahkei
+29020	Тахручей
+29034	T’edroja
+29088	Ukomand’ögi
+29088	Ukomoja
+29088	Ukomrova
+29140	Vehkeliin’eoja
+29140	Vehkoin’eoja
+29140	Vehkoioja
+29154	Veneioja
+29302	And’žuk
+29500	Ренжеручей
+29505	Savoja
+29517	Joutsenoja
+29517	Suar’oja
+29517	Сараручей
+29520	Suhloioja
+29520	Suhlojanoja
+29520	Ташкенский
+29545	Suhloja
+29589	D’oučenoja
+29589	Saarioja
+29595	Saarioja
+29624	D’oučanoja
+29624	Saarioja
+29638	Kiržamoja
+29638	Kyržamoja
+29638	Кирзамоя
+29641	Kirzamoja
+29652	Kond’ogi
+29670	Hiilihautoja
+29745	Suaroja
+29745	Сараручей
+29824	Корбаручей
+29985	Pečeioja
+29986	Pečei
+29990	P’ečeiručeinoja
+30102	Put’kiioja
+30147	Pivuoja
+30365	Гороская
+30365	Гороя
+30366	Горайская речка.
+30375	Дунайрека.
+30425	Красный Кабак
+30470	Кивай
+30699	Пустушной
+30702	Пустошной
+30710	Силосручей
+30716	Чироручей
+30716	Чирручей
+30759	Kuit’aoja
+30762	Kuikeioja
+30818	Lehmoioja
+30819	Lepaja
+30819	Lepoioja
+30822	Leppojale
+30909	Mel’kanojein’e
+31045	Ozrai
+31318	Sildoi
+31318	Силдоя
+31427	Ohtija
+31427	Ohtijoja
+31427	Ohtoioja
+31427	Охтоя
+31429	Ohtijoja
+31429	Ohtoja
+31429	Oht’ianoja
+31561	Korgedsild
+31563	Korgedsild
+31563	Korktansildanoja
+31797	Kaidoja
+31811	Kiimsuonojan’e
+31811	Leppoja
+31868	Kiimoja
+31909	Mieklahtenojaan’e
+31932	Otsoja
+31958	Otsoja
+31958	Отсручей
+32234	Глубокий
+32370	Mel’l’ičoja
+32426	Agd’anoja
+32446	Huobajanoja
+32507	Oškudd’ärvenoja
+32507	Oškudoja
+32571	Surmoi
+32571	Сурручей
+32620	Särgoja
+32641	Hadaroi
+32641	Hadaroja
+32646	Hard’azoja
+32646	Hard’uzoja
+32667	Laudlambinoja
+32673	Leppoja
+32673	Липа
+32675	Lietoja
+32675	Литойоя
+32685	Muglazoja
+32702	Pohd’oja
+32702	Падарка
+32716	Sydämoja
+32722	Tolmozoja
+32826	Kond’oi
+32852	Ližmoi
+32852	Ližmoja
+32858	Mahoi
+32963	Kondiioja
+32963	Kon’d’oja
+33096	Raudoja
+33097	Ruozmoja
+33110	Поик-ручей
+33138	Гирви ручей
+33148	Хейноручей
+33180	Gutkuoioja
+33184	Hiedoja
+33184	Хедуя
+33196	D’oučuoioja
+33229	Lindoja
+33229	Linduoioja
+33254	Paloja
+33254	Палуя
+33260	Пезуя
+33283	Töržiioja
+33283	Töržoid’ogi
+33283	Тержия
+33360	Lahdärvenoja
+33360	Lahnuoja
+33360	Лагноя
+33381	Lindoja
+33381	Lindojand’ogi
+33385	Lindojanojaine
+33462	Raudorgija
+33462	Raudorgoja
+33501	Čuuroja
+33516	Kivojaine
+33554	Šittoja
+33585	Kivoja
+33626	Melličoja
+33668	Kondiioja
+33668	Кондий
+33702	Töržojand’ogi
+33702	Тержийоя
+33708	Бульхиоя
+33709	Teržiioja
+33737	Pien’niva
+33738	Kudžulambinoja
+33738	Kyläoja
+33738	Makrinoja
+33751	Viikšinoja
+33751	Викша
+33751	Келлоноя
+33753	Kyläoja
+33753	Markinoja
+33758	Pajad’ogi
+33775	Koskoja
+33881	Šillahtenoja
+33884	Šildoja
+33903	D’ouhoja
+33915	Louhoja
+33937	Vehkoja
+33952	Haugoja
+33967	Moisoušinanoja
+33971	Sagarvoja
+33971	Sagarvojanoja
+33992	Leppoja
+34337	Pert’oja
+34339	Čuksoja
+34449	Kuivoja
+34470	Peldoiženoja
+34491	Šärglambinoja
+34550	Mečoja
+34550	Мечейоя
+34551	Ланзиоя
+34671	Viningoja
+34671	Viningä
+34721	Lemoja
+34721	Лемай
+34812	Silinmägenoja
+34813	Kivisildanoja
+34848	Himoilambinoja
+34852	D’oučenoja
+34852	Ёлочный ручей
+34852	Ёлчеручей
+34891	Voijod’ärvenoja
+34895	Чечкин
+34895	Чечкойручей
+34931	Padedaid’ogi
+34931	Катручей
+35053	Жогоручей
+35068	Säynägoja
+35089	Haudanniemenoja
+35150	Mustjogi
+36654	Lambinoja
+36663	Ruogolambinoja
+36708	Viloja
+36708	Viluoja
+37033	Sorbolanoja
+37079	On’t’oineoja
+37081	Ont’oizet
+37098	Ruozmoja
+37108	Urinoja
+37122	Därvenoja
+37323	Lepistönjogi
+37327	Ongimuksenoja
+37368	Sammačunoja
+37375	Särgoja
+37588	Čovkunoja
+37592	Burunoja
+37592	Kaloinoja
+37592	Ul’l’ulanoja
+37594	Kaloinoja
+37594	Ul’l’ulanoja
+37594	Боруноя
+37595	Burunoja
+37595	Kaloinoja
+37611	Vehkaččy
+37614	Niädoja
+37709	Rajanoja
+37721	Korgeioja
+37729	Otuzoja
+37737	Mandroja
+37741	Niinoja
+37982	Novzemanoja
+38034	Koverlamminoja
+38034	Poulamminoja
+38040	Poulamminoja
+38050	Jarvipianoja
+38050	Piččupianoja
+38078	Bollos- ručei
+38085	Piččupianoja
+38090	Lahtenoja
+38090	Mel’ničyoja
+38113	Sirgoiniitynoja
+38146	Tervukangahanoja
+38741	Ильин
+38793	Килейручей
+38869	Кильручей
+38872	Койкручей
+38873	Койкоручей
+38888	Палручей
+38966	Тасин
+38970	Палоручей
+38976	Вареша
+38976	Вармишручей
+39064	Ведюга
+39261	Вагнеручей
+39466	Коловручей
+39624	Колов ручей
+40264	Шилта
+40265	Макаров
+40638	Пармиш
+40992	Ведюги
+41229	Трехверстка
+41405	Агнейручей
+41480	Пармешручей
+41481	Пармиш
+41582	Корчухручей
+41833	Рандручей
+42808	Коньдиручей
+42812	Кондеручей
+43369	Фёдорчёво
+43433	Дальной
+43472	Калойручей
+43473	Калыйручей
+43657	Долгий
+43671	Мелкой
+43702	Oravoja
+43702	Oravuoja
+43704	Oravoja
+43704	Oravuoja
+43753	Syvänoja
+43767	Niškanoja
+43768	Kiiskoja
+43828	Ojärvenoja
+43994	Huabuoja
+44087	Särgänoja
+44087	Särgärvenoja
+44210	Melličoja
+44210	Melliččyoja
+44216	Heinyoja
+44270	Pamastanoja
+44345	Čuuroja
+44375	Muižärvenjogi
+44375	Muižärvenoja
+44472	Paržoja
+44541	Madaroja
+44570	Kivoja
+44738	Pertoja
+44848	Hiižarvenoja
+44962	Kivoja
+45048	Висручей
+45122	Липручей
+45154	Bul’anoju
+46324	Дёготнюха
+46337	Ниндручей
+46338	Нинручей
+47199	Ristinoja
+47201	Ristanoja
+47226	Ruunkanoja
+47563	Lepistöjanoja
+47584	Meččuoja
+47602	Niepičänoja
+47602	Niäpičoja
+47602	Niäpičänoja
+47602	Näpičoja
+47602	Näpičynoja
+47668	Холма
+47682	Hargoja
+47718	Suvaoja
+47753	Vilojaine
+47872	Нарский
+47883	Кодача
+48288	Leppoja
+48289	Timokinoja
+48325	Ruogoja
+48325	Рогоя
+48330	Niižoja
+48330	Низоя
+48346	Ked’oja
+48346	Neidoja
+48449	Keidoja
+48482	Keidoja
+48559	Сармоя
+48601	Гакугская река
+48874	Долгой
+49010	Дальний [К]
+49010	Дальний ручей
+49065	Балабан
+49321	Мокеевская речка
+49582	Ruhkanoja
+50016	Leppoja
+50017	Timokinoja
+50053	Ruogoja
+50053	Рогоя
+50074	Ked’oja
+50074	Neidoja
+50177	Keidoja
+50210	Keidoja
+50287	Сармоя
+50329	Гакугская река
+50602	Долгой
+50700	Луппорга
+50875	Ямный
+51153	Аркин ручей
+51153	Варькин ручей
+51162	Немец
+51180	Имштар
+51231	Маловец
+51231	Средний
+51487	Пустынской
+52043	Kelloja
+52099	Pajoja
+52106	Leinie
+52106	Leinieoja
+52121	Suurioja
+52133	Šaloja
+52134	Hanhioja
+52153	Mändyoja
+52169	Kuusioja
+52169	Kuusutoja
+52169	Kuužutoja
+52171	Männikköoja
+52199	Merjausoja
+52200	Ortšousoja
+52229	Norvajoki
+52295	Norvaoja
+52322	Mäntyoja
+52387	Pajuoja
+52388	Yhaženoja
+52393	Leinie
+52393	Leinienoja
+52421	Hanhojat
+52423	Törtöttäjä
+52430	Salojat
+52434	Kuusutoja
+52434	Kuuzioja
+52434	Kuužut
+52435	Kuuzioja
+52435	Kuužut
+52435	Kuužutoja
+52438	Baziljanoja
+52478	Kellooja
+52487	Leinienoja
+52487	Leinieoja
+52519	Törtöttäjäoja
+52520	Kuusutoja
+52520	Kuužut
+52520	Kuužutoja
+52795	Во́йнручей
+52795	Во́йный ручей
+52797	Березовый ручей
+53229	Хадарусоя
+53230	Питкруч
+53254	Кавистосуоноя
+53264	Саммаоя
+53265	Sammaloja
+53266	Редуоя
+53268	Kivioja
+53269	Кивиоя
+53270	Туленоя
+53271	Tulenoja
+53301	Buolahanjogi
+53301	Buolahanoja
+53301	Buolehjogi
+53301	Болос Ручей
+53302	Buolahanoja
+53302	Buolehjogi
+53302	Buoloveh
+53302	Болос Ручей
+53302	Болос-Ручей
+53516	Lumaddärvendoroganoja
+53516	Lumananjogi
+53516	Lumanoja
+53517	Lumaddärvendoroganoja
+53517	Lumanoja
+53517	Лумбаноя
+54053	Niižoja
+54053	Nizoja
+54141	Viloja
+54142	Виллоя
+54162	Sargoja
+54163	Саргоя
+54190	Hadaruzoja
+54203	Borunoja, Kaloinoja, Ul’l’ulanoja
+54212	Raudoja
+54213	Равдоя
+54214	Čond’žoinoja
+54215	Ченженоя
+54217	Majoja
+54217	Майоя
+54240	Kor’boja
+54244	Kiržamoja, Kyržamoja, Kirzamoja
+54248	Suard’arvenoja, Suaroja
+54273	Riihioja
+54274	Ригоя
+54305	Šidronoja, Šidroja
+54318	Kaidoja
+54414	Tuulanoja, Tuultnoja
+54415	Tuultnoja
+54415	Туленоя
+54441	Pahkanoja
+54681	Šidroja
+54681	Шидроручей
+54682	Кайдаручей
+55449	Торлов ручей
+55926	Вешной Ручей
+55927	Лепручей
+56000	Лонадручей
+56002	Ви́тручей
+56016	Ива́нручей
+56048	Ки́мручей
+56579	Кунручей
+56606	Пахканоя
+56635	Сярь
+27	Боровуха
+41	Mustoja
+85	Lidnag’ärvenoja
+162	Малый ручей
+186	Toržojeine
+190	Paloja
+208	Krutaan’eoja
+223	Korkotai
+231	Savoja
+284	Sidoroja
+294	N’uš
+320	Каменный ручей
+339	Пичемский ручей
+387	Боровой ручей
+391	Niemenoja
+399	Itačoja
+416	Pertisel’l’anoja
+430	Сенинский ручей
+452	Tomištojaan’e
+473	Sernatoja
+487	Saroja
+500	Än’oja
+509	Burhanoja
+557	Čurojain’e
+560	Лазнаволоцкий ручей
+571	Корежье
+593	Mustoja
+641	Ahvenoja
+653	Kurzoja
+658	Mudoja
+686	Юршинский ручей
+703	Čuroja
+708	Lumbahkoja
+730	Kanaaoja
+740	Platomoja
+746	Кибручей
+789	Kur’goja
+835	Viloja
+845	Нюкручей
+847	Vastoja
+877	Pehkoja
+898	Надручей
+916	Мельничный ручей
+954	Vougedoja
+957	Kivioja
+1094	Сележный ручей
+1136	Šoudoja
+1154	Vaugedoja
+1198	Lepoja
+1216	Hagoja
+1245	L’epoja
+1253	Ukojain’e
+1296	Pert’oja
+1304	Гремячий ручей
+1319	Iitojain’e
+1322	Kul’jakojaan’e
+1330	Viigoioja
+1345	Ližmajain’e
+1358	Васькиных ручей
+1372	Grigoja
+1382	Čuroja
+1385	Ивкручей
+1413	Polovinnik
+1439	Васюковский ручей
+1447	Ojarvenoja
+1452	Kivioja
+1519	Mel’nicoja
+1579	Munaoja
+1581	Kivištoja
+1625	Ломовица
+1657	Vandezoja
+1689	Melnicoja
+1715	Ian’oja
+1727	Kor’boja
+1740	Sabija
+1795	Ганручей
+1820	Mustuoja
+1911	Urdoja
+1914	Haračoja
+1919	Kivištloga
+1924	Harkoja
+1948	Липов ручей
+2006	Vadoja
+2010	Septoja
+2020	Hodöja
+2042	Haboja
+2080	Sozoja
+2089	Tanoja
+2120	Hilizoja
+2179	Kl’učaažed
+2224	[Kapčus]
+2265	Kohtanoja
+2270	Kohtanoja
+2284	Grišinojain’e
+2286	Hagoja
+2296	Углицкий ручей
+2316	Kangazoja
+2327	Pehkoja
+2328	Burlahoja
+2348	Šagonoja
+2355	Moldoioja
+2382	Čuurulamminoja
+2386	Landezojain’e
+2403	N’emoja
+2432	Прокшинский ручей
+2467	T’ort’ot’oja
+2494	Kodoja
+2517	Šar’jakoja
+2554	Kўhkoja
+2562	Mўhroja
+2565	Пижейручей
+2627	Портомой
+2671	Čikoja
+2682	Gagarojaan’e
+2688	Pirdosoja
+2693	Ištumoja
+2708	Paioja
+2741	Pitküoja
+2759	Ковручей
+2777	Речевский ручей
+2780	Юршичручей
+2794	Pehkoja
+2808	Joutsar’voja
+2814	Kanaa
+2816	Kanav
+2826	Omoja
+2869	Ignatoja
+2882	Mustoioja
+2884	N’ekoja
+2888	Pen’oja
+2906	Глубокий ручей
+2937	Корежручей
+2958	Кургилов ручей
+2987	Большой ручей
+3005	Voudikoja
+3103	Заячий ручей
+3142	Jašoja
+3149	Hamačoja
+3150	Mar’kojain’e
+3165	Садамгубский ручей
+3171	Sugamoja
+3203	Mürkazoja
+3210	Андреевский ручей
+3240	Voioja
+3286	S’ägäoja
+3314	Rihoja
+3317	Gos’t’oja
+3322	Lўhtoja
+3403	Šestoioja
+3449	Sur’oja
+3509	Paloja
+3534	Šund’är’voja
+3548	Suks’oja
+3625	Markouskioja
+3626	Kukojain’e
+3642	Jamugoja
+3645	Vaagedoja
+3684	Макаровица
+3685	Kivoja
+3699	Pienioja
+3717	Puskuoja
+3761	L’ev’edaiženkoiv’hiiženaloja
+3786	Puoroinoja
+3788	Karaoja
+3817	Sondaloja
+3840	Заключи
+3841	Kangazoja
+3863	Mel’n’icoja
+3868	Ушкова речка
+3880	Redoja
+3928	Lariojain’e
+3945	Heinoja
+4005	Lagedansonoja
+4049	Mel’n’icoja
+4069	Bun’eioja
+4072	Jamogoja
+4073	Калейручей
+4171	Житная река
+4195	Кашина Речка
+4234	Межевуха
+4310	Савручей
+4316	Северный ручей
+4350	Черный ручей
+4519	Сявручей
+4739	Белый ручей
+4747	Быстрый ручей
+4819	Дёгтьозерский ручей
+4890	Лепручей
+4895	Липовский ручей
+4912	Липручей
+4920	Могильный ручей
+5012	Укошельгский ручей
+5086	Черный ручей
+5100	Каменный ручей
+5143	Холодный ручей
+5146	Черный ручей
+5212	Сенькин ручей
+5224	Чертов ручей
+5379	Савручей
+5593	Петров ручей
+5679	Каменный ручей
+5716	Порожек
+5834	Ковкозерский ручей
+5846	Микковский ручей
+5871	Сраная речка
+5986	Узкий ручей
+6151	Злобинщина
+6154	Каменный ручей
+6172	Ольховский ручей
+6178	Гахкозерская речка
+6184	Сергеевский ручей
+6222	Малиновый ручей
+6228	Савручей
+6276	Сяргозерка
+6277	Никитина река
+6388	Savioja
+6418	Otsoja
+6421	Kaidoja
+6538	Гарьюсручей
+6556	Емичёвская Речка
+6569	Калейручей
+6607	Обочей ручей
+6617	Речка
+6641	Язовец
+6797	Пушный ручей
+6865	Лепручей
+6924	Koiviioja
+6998	Härgoja
+7007	Laukoja
+7038	Šidronoja
+7074	Великий ручей
+7114	Каменный ручей
+7148	Порожек
+7183	Ahvenoja
+7524	Ямный ручей
+8003	Ловгий
+8046	Карасозерский ручей
+8078	Каменный ручей
+8128	Умпагский ручей
+8179	Наборавлещины ручей
+8207	Кивручей
+8275	Судмозерский ручей
+8286	Чёрная река
+8435	Дальний Ручей
+8460	Петрика
+8467	Важморь
+8530	Глинянник
+8726	Чалька
+8884	Шидий
+8914	Шумячий ручей
+9236	Akimanoja
+9253	Čupojein’e
+9290	D’anioja
+9309	Bajar’oja
+9394	D’änioja
+9417	Ez’mein’eoja
+9436	Gimzoja
+9474	Hapšomojein’e
+9476	Haragonrova
+9499	Heremoja
+9505	Himz’eioja
+9546	Hougeioja
+9547	Hougeioja
+9549	Hougoioja
+9551	Houkšomoja
+9558	Hureinoja
+9569	Hämehkoja
+9585	H’öbonoja
+9589	Ičemoiojein’e
+9602	Il’l’anitoja
+9611	Isakoja
+9613	Išaninoja
+9632	Kadaid’ögi
+9654	Kal’l’aižoja
+9693	Kaskezoja
+9713	Kimoioja
+9721	Kivoioja
+9751	Kivoioja
+9752	Kivoja
+9811	Korn’eihiin’ed’ögi
+9818	Čigronoja
+9826	Heinäoja
+9843	Haugipohjanoja
+9859	Kirvezjärvenoja
+9862	Kiičonoja
+9864	Kivioja
+9923	Melliččäoja
+9928	Norganoja
+9948	Halloja
+9951	Hännikäs
+9980	Kolusoja
+9984	Kortehoja
+10035	Hočinoja
+10061	Muštaoja
+10064	Möykynoja
+10068	Niemozenoja
+10069	Nigalmonoja
+10072	Peigalo-oja
+10086	Ruočinoja
+10096	Triifonoja
+10098	Timonoja
+10102	Vaslizenoja
+10123	Dualingo
+10127	Melliččoja
+10154	Heinäoja
+10170	Kokkoja
+10309	Закаменный ручей
+10420	Reboja
+10427	Ridoja
+10464	Sianoja
+10504	Ландега
+10559	Пармин ручей
+10606	Чаичев ручей
+10616	Глиняный ручей
+10650	Могучий ручей
+10672	Собачий ручей
+10674	Левий ручей
+10675	Сосновый ручей
+10676	Ладручей
+10683	Юковский ручей
+10692	Костручей
+10694	Борисручей
+10729	Студёный ручей
+10731	Спорный ручей
+10739	Захарий
+10743	Вёхручей
+10744	Избной ручей
+10781	Пиручей
+10789	Майгубский ручей
+10792	Хмельной ручей
+10794	Простокишный ручей
+10797	Габручей
+10799	Тёгручей
+10808	Яжручей
+10818	Хабаришный ручей
+10868	D’ärvenpiänoja
+10870	Goldanoja
+10873	Heinäoja
+10884	Häränoja
+10896	Kaidaoja
+10897	Kaivoja
+10914	Keskimmäizenoja
+10928	Kondieoja
+10935	Koskoja
+10947	Kälgipado
+10998	Melliččäoja
+11021	Nimioja
+11083	Ruožmoja
+11092	Sammaloja
+11095	Siigaoja
+11103	Sulgomaisoja
+11115	Särkkäoja
+11131	Tedrioja
+11142	Tunguonoja
+11149	Vasl’anoja
+11163	Vuadoja
+11164	Väijänoja
+11206	D’uurikanoja
+11216	Hangašoja
+11238	Kallivolamminoja
+11257	Kodioja
+11287	Kumšaoja
+11292	Kynäoja
+11301	Madaraoja
+11307	Melentienoja
+11314	Melliččäoja
+11315	Melliččäoja
+11358	Ramaoja
+11364	Riihioja
+11379	Runnušoja
+11396	Čoganoja
+11411	Danšanoja
+11412	Duarinoja
+11413	Duarmoja
+11415	Melliččäoja
+11445	Syvälamminoja
+11492	Toroja
+11541	Nahkaoja
+11560	Kortehoja
+11563	Ongimo-oja
+11732	Dualinoja
+11785	Ezilietelahenoja
+11794	Harakkaoja
+11814	Korbuška
+11829	Lanittaoja
+11843	Särkkäoja
+11845	Vassileinoja
+11895	Perošoja
+11942	Syvälahenoja
+11950	Talvizoja
+11953	Toroja
+11958	Zakunoja
+12032	Kallivojärvenoja
+12070	Norgo-oja
+12126	Кибручей
+12138	Кобылий ручей
+12178	Siigaoja
+12187	Säynyäoja
+12287	Вилозёрский ручей
+12326	D’ogioja
+12332	Haugioja
+12342	Kaiskoja
+12363	Koiranoja
+12367	Kokkoja
+12390	Löydyoja
+12394	Marttilanoja
+12409	Muštaoja
+12447	Исаков ручей
+12456	Костинский ручей
+12478	Peräoja
+12507	St’opananoja
+12520	Talvilahenoja
+12530	Tiitanoja
+12635	Diälamminoja
+12650	Hočinoja
+12651	Ievanoja
+12663	Kangaslamminoja
+12770	Еминка
+12869	Leppäoja
+12896	Požaoja
+12904	Ruogovodkanoja
+12970	Hiedizoja
+12974	Iudanoja
+12976	Вонтарский ручей
+12986	Денник
+13027	Падунский ручей
+13034	Попов ручей
+13084	Каменный ручей
+13137	Великая Грязь
+13156	Ижозерский ручей
+13157	Kenttioja
+13169	Кривой ручей
+13188	Larinoja
+13202	Спировский ручей
+13237	Peigoja
+13251	Sirkonoja
+13254	Suarenoja
+13264	Troškonoja
+13513	Ламбасручей
+13541	Хотеиха
+13642	Каменный ручей
+13655	Алёнкин ручей
+13680	Бобровый ручей
+13684	Большой Коровий ручей
+13691	Безымянный ручей
+13692	Большой Венюхручей
+13693	Большой Венихручей
+13712	Вильминский ручей
+13713	Вильморучей
+13714	Вирминский ручей
+13753	Вирручей
+13754	Виручей
+13755	Виржучей
+13767	Вёхручей
+13785	Гремячий ручей
+13798	Глубокий ручей
+13803	Гавручей
+13804	Гринькин ручей
+13805	Заруцкий ручей
+13816	Двинской ручей
+13817	Винской ручей
+13828	Дедов ручей
+13831	Дьячевский ручей
+13846	Зацерковский ручей
+13866	Зайков ручей
+13868	Закорожный ручей
+13881	Камручей
+13885	Кимручей
+13890	Кокручей
+13893	Капустин ручей
+13925	Каменный ручей
+13932	Касочный ручей
+13957	Кунопацкий ручей
+13961	Королин ручей
+13965	Кокручей
+13995	Лодручей
+13998	Лёнгуручей
+13999	Лёнручей
+14011	Малый Вёхручей
+14039	Малый Венюхручей
+14043	Малый Кокручей
+14044	Малый Коровий ручей
+14045	Маленга
+14426	Попов ручей
+14440	Черный ручей
+14590	Тобручей
+14591	Кумшручей
+14593	Павручей
+14594	Чёрный
+14646	Студёный
+14652	Трясливый ручей
+14653	Грязной ручей
+14658	Медвежий ручей
+14659	Моисеек
+14660	Коргоручей
+14661	Загубской ручей
+14676	Мальгоручей
+14763	Сортовский
+14764	Ямручей
+14765	Колодин ручей
+14772	Маткоручей
+14793	Шивручей
+14849	Рябручей
+14912	Вёхручей
+14994	Кунручей
+15019	Вёхручей
+15021	Зашураевский ручей
+15022	Поперечный ручей
+15023	Пудас
+15104	Палищенский ручей
+15114	Костин ручей
+15136	Большой Маягручей
+15137	Малый Маягручей
+15196	Кимручей
+15197	Капручей
+15198	Чижерецкий ручей
+15239	Каменный ручей
+15393	Виганский ручей
+15416	Савкин ручей
+15426	Шавгунский ручей
+15647	Муромручей
+15654	Межной ручей
+15662	Майручей
+15663	Майгоручей
+15729	Пуноручей
+15754	Поперечный ручей
+15755	Пилосозерский ручей
+15758	Подомаришный ручей
+15765	Продольный ручей
+15768	Подтайбольский ручей
+15783	Попов ручей
+15784	Петручей
+15789	Пихручей
+15815	Родионов ручей
+15835	Сотниковский ручей
+15841	Старцев ручей
+15842	Саручей
+15867	Собачий ручей
+15873	Санручей
+15888	Травяной ручей
+15892	Тонкой ручей
+15934	Чудручей
+15939	Черничный ручей
+15944	Чёрный ручей
+15951	Шамалуев ручей
+15961	Яванручей
+15982	Табола
+15999	Яковлевский ручей
+16006	Ладручей
+16013	Морщихин ручей
+16030	Половинный ручей
+16032	Ренгоручей
+16035	Рознехручей
+16057	Калмаручей
+16064	Большой Нокручей
+16065	Малый Нокручей
+16079	Соручей
+16114	Talvizoja
+16116	Toraoja
+16304	Leiviskäoja
+16319	Padronoja
+16337	Ukonoja
+17133	Келей ручей
+17175	Рюча
+17635	Ежжовица
+18031	Савручей
+18299	Порожек
+18456	Малинов ручей
+18584	Griidanoja
+18610	Kallivo-oja
+18613	Kul’onoja
+18640	Lanittaoja
+18652	Midronoja
+18735	Lavaoja
+18740	Nahkanoja
+18745	Pedraoja
+18746	Ramoja
+18760	Murdo-oja
+18761	D’oušanvuaranoja
+18789	Harakanoja
+18800	Kokko-oja
+18807	Ongimo-oja
+18865	Čogaoja
+18878	Sordo-oja
+18881	Tappajanoja
+18894	Orgo-oja
+18898	Kinieoja
+18924	Pienen Ahvenlamminoja
+18926	Suuren Ahvenlamminoja
+18927	Läksijäoja
+18931	Siigaoja
+18941	Häränoja
+18952	Säynyäoja
+18965	Burlonoja
+18973	Hiizioja
+18980	Hailivanoja
+18985	Kokko-oja
+18987	Koudaoja
+18992	Korgo-oja
+19012	Louhušoja
+19016	Luovušoja
+19022	Mustaoja
+19029	Norgo-oja
+19049	Padunaoja
+19053	Ruogo-oja
+19054	Puogoja
+19078	Šorgioja
+19094	Tedrioja
+19131	Ahvenoja
+19163	Hiizioja
+19183	Kuarnizoja
+19233	Kulist’oja
+19234	Kallivo-oja
+19262	Liettienoja
+19272	Mustaoja
+19323	Puvasoja
+19338	Redulahenoja
+19377	Siigaoja
+19391	Užvangioja
+19401	Vuaranoja
+19405	Viččaoja
+19408	Venginoja
+19409	Viäräoja
+19417	Vermazoja
+19426	Ontonoja
+19430	Halinoja
+19433	Šorvaoja
+19434	Karmaoja
+19435	Sammaloja
+19436	Uramaoja
+19445	Lykynoja
+19454	Alapiänoja
+19457	Alane Koudaoja
+19465	D’olžoja
+19466	D’oužoja
+19467	D’oržoja
+19471	Jyrgilänoja
+19483	Homanoja
+19487	Honganoja
+19488	Hon’unoja
+19490	Huabaoja
+19492	Hukanoja
+19507	Karango-oja
+19512	Kevätoja
+19521	Kiurunoja
+19522	Kivioja
+19523	Koivikko-oja
+19525	Korgo-oja
+19559	Kylmäpieli
+19562	Kyyrynoja
+19564	Lahnaoja
+19566	Laidaoja
+19584	Meččizenoja
+19590	Murdo-oja
+19598	Mändeläizenoja
+19601	Nimetöinoja
+19620	Outtuonoja
+19634	Pujottajaoja
+19642	Päččioja
+19655	Riihioja
+19668	Zavilanoja
+19671	Talvioja
+19676	Tuahoja
+19686	Uuranoja
+19691	Užmangioja
+19703	Vezioja
+19704	Vetonoja
+19705	V’atonoja
+19706	Vienaoja
+19708	Viidaoja
+19709	Vikeioja
+19713	Vuassilanoja
+19717	Yline Koudaoja
+19721	Vijaneoja
+19723	Kurjuksenoja
+19729	Rajaoja
+19730	Sorvaoja
+19795	Каменный
+19863	Бесовка
+20240	Ближний ручей
+20241	Дальний ручей
+20251	Ямный ручей
+20295	Гарийручей
+20309	Белый ручей
+20325	Вастаручей
+20358	Грязной ручей
+20360	Горькоручей
+20423	Кондручей
+20453	Лиморучей
+20475	Малдоручей
+20495	Мегручей
+20551	Сюрежный ручей
+20603	Чёрный ручей
+20612	Щучьи ручьи
+20649	Волчий ручей
+20652	Вистручей
+20694	Жабручей
+20727	Каменный ручей
+20757	Керкоручей
+20764	Кукколов ручей
+20769	Ларионов ручей
+20770	Малдоручей
+20796	Майгубский ручей
+20849	Остречий ручей
+20894	Поткоручей
+20897	Петручей
+20901	Палоручей
+20920	Рябручей
+21066	Кургоручей
+21096	Кетькозерский ручей
+21114	Лавторучей
+21145	Маткаручей
+21213	Реборучей
+21231	Семеручей
+21234	Самоварный ручей
+21246	Тарбанручей
+21250	Тарасручей
+21268	Юркоручей
+21298	Габоручей
+21314	Домашний ручей
+21377	Карангоручей
+21384	Лебяжий ручей
+21391	Лахкаручей
+21399	Лавренручей
+21447	Савин ручей
+21452	Сарайручей
+21475	Середний ручей
+21521	Гонгоручей
+21530	Кеськаручей
+21535	Кузоручей
+21539	Койвуручей
+21546	Колручей
+21549	Колдоручей
+21550	Колдоручей
+21572	Мельничный ручей
+21580	Ояндоручей
+21584	Павлов ручей
+21606	Тервостровский ручей
+21609	Терворучей
+21614	Табойручей
+21666	Белый ручей
+21669	Старцева река
+21890	Косельгская речка
+21931	Канганский ручей
+22073	Копаный ручей
+22101	Белый ручей
+22287	Каменка
+22321	Сигача
+22588	Студенец
+22657	Песчаха
+22758	Лонгасский ручей
+22784	Середская Ручейка
+23054	Бобров ручей
+23207	Жабручей
+23208	Кивручей
+23220	Гапшемский ручей
+23229	Ластручей
+23413	Красный ручей
+23540	Вазручей
+23543	Габручей
+23544	Габручинский ручей
+23550	Глубокий ручей
+23590	Кешкоручей
+23591	Кешкручей
+23596	Лахтинский ручей
+23599	Ручей
+23610	Каменный ручеек
+23657	Ягручей
+23661	Кивручей
+23662	Келяйручей
+23665	Крутой ручей
+23730	Eningoja
+23735	Šuukanoja
+23739	Šammakkooja
+23749	Tuhkaoja
+23758	Kylminginoja
+23769	Madroja
+23777	Raudamuanoja
+23807	Kaijotšuarenoja
+23814	Kivilamminoja
+23894	Lein’anoja
+24017	Šujenoja
+24023	Ojaine
+24038	Madrojanoja
+24160	Putizoja
+24162	Račuganoja
+24176	Kodilamminoja
+24192	Елайручей
+24260	Вавулинский
+24300	Törizienoja
+24442	Гапсельгский
+24457	Илесручей
+24541	Максимков
+24550	Пашков
+24555	Пихручей
+24564	Салов
+24600	Куржейручей
+24612	Лепручей
+24619	Лупручей
+24634	Маткаручей
+24641	Хараручей
+24688	Игнатручей
+24717	Лотаков
+24724	Мельничый
+24750	Пугнатручей
+24980	Пичаручей
+24996	Сяргучей
+25008	Аникуев
+25012	Бабий
+25036	Вожручей
+25040	Габручей
+25048	Грязный
+25083	Кеткоручей
+25106	Лапатручей
+25110	Лебёжевский
+25116	Лидручей
+25166	Пороги
+25187	Серебряный
+25202	Сяргручей
+25217	Хабозерский
+25252	Явручей
+25266	Мельгручей
+25268	Мергаручей
+25275	Палоручей
+25314	Майручей
+25316	Кондиручей
+25337	Палручей
+25348	Соболевский ручей
+25375	Репручей
+25376	Рехтиручей
+25377	Ропручей
+25458	Хватайручей
+25483	Савин ручей
+25487	Соболев ручей
+25498	Tapparaoja
+25510	Malinoja
+25526	Tervaoja
+25537	Tedrioja
+25546	Oja
+25556	Kurhonoja
+25559	Törizijäoja
+25636	Кисведь
+25684	Ahvenoja
+25689	Ahvenoja
+25733	Rugižoja
+25744	Retukoioja
+25750	Retugoja
+25754	Roudoja
+25772	Redeioja
+25940	Hongaoja
+25959	Koveraoja
+25975	Sepänsuonoja
+26004	Lammasoja
+26007	Lahnaoja
+26077	Kivioja *
+26090	Vostožoja *
+26134	Ojaine
+26173	Melličänoja
+26174	Heinäoja
+26180	Čuuroioja
+26182	Mustanlamminoja
+26235	Leppäoja
+26251	Burhaoja *
+26270	Törizieoja
+26361	Šittaoja
+26441	Azaoja
+26485	Čuhakko-oja
+26492	Grin’anoja
+26494	Haigaraoja
+26498	Heinäoja
+26500	Hirvioja
+26508	Homanoja
+26513	Iukunoja
+26523	Kallivonoja
+26539	Kivioja
+26542	Koivuoja
+26551	Lemenoja
+26588	Marinaoja
+26596	Marjanoja
+26600	Mättähänoja
+26607	Mustaoja
+26619	Pezendöoja
+26631	Ryymänoja
+26636	Somero-oja
+26638	Sordo-oja
+26643	Syväoja
+26646	Talvioja
+26653	Vehkaoja
+26674	Lauččaoja
+26677	Kiimaoja
+26679	Sorvijaoja
+26697	Tolingo-oja
+26789	Pitkäoja
+26835	Rahoioja
+26897	Särgioja
+26953	Suurioja
+26954	Pienioja
+26955	Kallivongubanoja
+26986	Hiizikuaranoja
+27026	Чуйручей
+27027	Чурручей
+27029	Чувручей
+27060	Чикулаевский ручей
+27061	Ёлочный ручей
+27063	Ламбинский ручей
+27064	Ёлчеручей
+27090	Чёчкин ручей
+27281	Чечкойручей
+27283	Сторонной ручей
+27288	Ламбасручей
+27291	Габручей
+27310	Muuroioja
+27311	Ojanjogi
+27312	Муромручей
+27337	Чупский ручей
+27402	Пуросручей
+27421	Latakaizenoja
+27426	Leppäoja
+27438	Muuraizienoja
+27669	Lammasoja
+27685	Boltunoja
+27693	Šidra
+27694	Шидра
+27878	Huodroilamminoja
+27879	Nadeždanjogi
+27880	Надежда
+28160	Keidovaoja
+28170	Kualatez
+28188	Koivužoja
+28192	Lehtioja
+28196	Mustaoja
+28233	Han’hoja
+28235	Heinoja
+28236	Heroja
+28251	Lapinoja
+28268	Matkuzoja
+28280	Mustoja
+28283	Muurdoja
+28286	Mägränoja
+28297	Oinazoja
+28308	Padoja
+28319	Pertoja
+28321	Pohdoja
+28323	Puurnoja
+28326	Raudoja
+28328	Riihoja
+28336	Ruozmoja
+28352	Tahkoja
+28359	Čuuroja
+28364	Vas’kanoja
+28406	Där’voja
+28510	N’iitojaan’e
+28552	Ruozmenoja
+28584	Šorpoja
+28588	Tuomoja
+28599	Viluoja
+28646	Hebožoja
+28662	Kiäbänoja
+28685	Leppoja
+28736	Ojaaženoja
+28745	Pajad’ärvenoja
+28747	Pajaoja
+28749	Paltteoja
+28762	Pohd’aaženoja
+28812	Tervoja
+28840	Viluoja
+28862	Redai
+28884	Ropaioja
+28896	Sarbaht
+28897	Sarbahtd’ogi
+28898	Sarbahtoja
+28928	Surennitunoja
+28945	Suvagd’oja
+28948	S’uv’ad’ar’voja
+29020	Tahkoioja
+29034	T’edriioja
+29053	T’esaranoja
+29069	Tobeisildoja
+29074	Toin’eoja
+29083	Tul’ija
+29088	Ukomanoja
+29140	Vehkeioja
+29150	Veneioja
+29154	Veniioja
+29163	Vil’deg
+29165	Vil’degoja
+29295	Redud’ar’vojein’e
+29302	And’žukanoja
+29381	Hongoja
+29500	Rönd’žoja
+29505	Savioja
+29517	Suarioja
+29520	Suhloja
+29545	Ташкенский
+29589	D’oučand’ogi
+29595	D’oučenoja
+29616	Huaboja
+29624	Joučanoja
+29638	Kirzamoja
+29641	Kirzamojand’ogi
+29652	Kond’ogenojaan’e
+29670	Kuočanoja
+29745	Suard’arvenoja
+29817	Kat’uunrandanoja
+29820	Kažioja
+29824	Kor’boja
+29829	L’eihibor’kanoja
+29837	Mihalanoja
+29877	Suur’oja
+29893	Mel’l’ičoja
+29916	Ostašoja
+29980	Patiimoja
+29985	Pečei
+29986	Pečeioja
+29990	P’ečeiručei
+29992	Ped’d’arvojein’e
+29996	Pel’akoja
+30016	Per’t’ioja
+30102	Put’kijoja
+30109	Päl’akoioja
+30147	Pivoja
+30346	Гёрайская речка
+30351	Гирвасгубская речка
+30365	Горайская речка
+30366	Гороя
+30375	Дунай
+30406	Габручей
+30425	Красный Кабачок
+30427	Каменный
+30439	Конёв
+30470	Кивая
+30557	Пенчийская речка
+30610	Сухой
+30660	Ливручей
+30699	Пустошной
+30702	Пустушной
+30710	Силаручей
+30716	Чираручей
+30759	Kuikeioja
+30762	Kuit’aoja
+30790	Kussal’ojeine
+30812	Lamuoja
+30818	Lehmoja
+30819	Lepoja
+30822	Leppoja
+30909	Mel’kanoja
+30941	Mirkanoja
+30975	Mustojein’e
+31044	Oja
+31045	Oja
+31081	Onteinoja
+31129	Глубокий ручей
+31174	Kivioja
+31177	Kobelinoja
+31178	Kortasildanoja
+31242	Siavoja
+31296	Čuurojaan’e
+31318	Sildoja
+31326	Auhoja
+31358	D’aris’ovanoja
+31380	Härgkuaranoja
+31427	Oht’oja
+31429	Ohtija
+31498	Viluvedenoja
+31542	Heboja
+31561	Korktansildanoja
+31563	Korgedsildanoja
+31668	Purdeoja
+31693	Sofonovinpurdeoja
+31704	Syrd’anoja
+31720	Akoja
+31732	Cigankuaranoja
+31733	Čuuruoja
+31797	Kaidankuaranoja
+31811	Kiimoja
+31829	Kivid’ärvenoja
+31850	Korboja
+31868	Leppoja
+31909	Mieklahtenoja
+31915	Miastuorandanoja
+31932	Očoja
+31958	Otskuaranoja
+31962	Pahad’ärvenoja
+32103	Ahojanoja
+32179	Pihl’oja
+32180	Per’t’oja
+32234	Syväoja
+32238	Unduzoja
+32244	Čogantinoja
+32323	Oja
+32370	Melliččäoja
+32426	Agjanoja
+32446	Huabaojanoja
+32455	Kivioja
+32507	Oškutoja
+32547	Ššeliššanoja
+32556	Sištalmenoja
+32571	Surmoja
+32576	Suvisuonoja
+32620	Särgioja
+32641	Hadaraoja
+32646	Harjusoja
+32667	Laudanlamminoja
+32673	Leppäoja
+32675	Lieteoja
+32685	Muglasoja
+32702	Pohjaoja
+32716	Sydänoja
+32722	Tolmazoja
+32807	Hiirenoja
+32819	Karpanoja
+32826	Kondieoja
+32837	Kylmänoja
+32852	Ližmaoja
+32858	Mahoja
+32902	Ruozmeoja
+32963	Kondieoja
+32988	Pergivönoja
+33007	Sydänoja
+33033	Gauruunoja
+33064	Ahvenoja
+33078	Kul’l’ukanoja
+33088	Ort’oinoja
+33096	Raudaoja
+33097	Ruozmeoja
+33110	Poikoja*
+33138	Hirvioja*
+33148	Heinäoja*
+33162	Нюрмаручей
+33180	Gutkoioja
+33184	Hiedaoja
+33196	Joučuoioja
+33229	Linduoja
+33254	Palo-oja
+33260	Pezoja
+33283	Törizieoja
+33302	Kondieoja
+33323	Ogonoja
+33360	Lahnaoja
+33381	Linduoja
+33385	Linduojanojaine
+33462	Raudaorgo-oja
+33501	Čuuruoja
+33516	Kiviojaine
+33554	Sittaoja
+33585	Kivioja
+33626	Melliččaoja
+33668	Kondieoja
+33669	Tohmaoja
+33702	Teržiioja
+33708	Bul’hinoja
+33709	Sammalsuonoja
+33715	Vehkojanoja
+33737	Pieniniva
+33738	Markinoja
+33751	Kellonoja
+33753	Kudžulamminoja
+33758	Pajajogi
+33775	Koskioja
+33813	Kuz’manoja
+33881	Sildalahenoja
+33884	Sildaoja
+33903	Jouhioja
+33915	Louhioja
+33937	Vehkaoja
+33952	Haugioja
+33964	Lipoušinanoja
+33967	Lotkanoja
+33971	Sagarvo-oja
+33992	Leppäoja
+34205	Čočkoioja
+34337	Perttioja
+34339	Čuksoioja
+34349	Naudoja
+34449	Kuivaoja
+34453	Lavaoja
+34459	Lavasuonnoja
+34460	Luokanoja
+34466	Mustaniemenoja
+34470	Peldoizenoja
+34478	Ruozmeoja
+34491	Särgilamminoja
+34550	Meččäoja
+34551	Lanzinoja
+34567	Lužmanoja
+34568	Jogioja
+34572	Ulangonoja
+34671	Viningäoja
+34673	Kačoja
+34674	Laurinoja
+34721	Lemoioja
+34753	Sigoja
+34764	Čoramručei
+34785	Melličänoja
+34811	Kuaranoja
+34812	Siilinmäjenoja
+34813	Kivisillanoja
+34848	Himoilamminoja
+34852	Joučenoja
+34891	Voijärvenoja
+34895	Čočkoioja
+34931	Padedaijogi
+35053	Žogaoja
+35068	Säynyäoja
+35089	Hauvanniemenoja
+35107	Kangahanoja
+35150	Mustajogi
+35223	Karpanniemenoja
+35231	Сяргоручей
+35233	Сордия
+35235	Шейчугручей
+35347	Mossoranoja
+35363	Rapeikonpuro
+35620	Vehkapuro
+35665	Rauhkanpuro
+35667	Hiisipuro
+35804	Pennisenpuro
+35892	Viččapuro
+35982	Huajuapuro
+36014	Čikkurinpuro
+36019	Tamminpuro
+36029	Lahnajärvenpuro
+36042	Šyrjävuaranpuro
+36105	Ryyšänpuro
+36119	Heinäpuro
+36129	Piilokorvenpuro
+36221	Linkapuro
+36224	Haukipuro
+36437	Šukšipuro
+36544	Катручей
+36548	Ближняя река
+36555	Нигручей
+36654	Lamminoja
+36663	Ruogolamminoja
+36695	Vino-oja
+36727	Tuulenoja
+36759	Rajaoja
+36761	Annukinoja
+36769	Riihiselgyoja
+36770	Kattilsepänoja
+36778	Pahaoja
+36792	Meloja
+36800	Mägränoja
+36805	Pahkanoja
+36813	Kihanoja
+36819	Rajaoja
+36830	Korgeioja
+36841	Virdilanoja
+36845	Niemioja
+36850	Vaarečkoinoja
+36880	Suurikortezlamminoja
+36907	Kapanoja
+36913	Čondžoinoja
+36931	Kanačunoja
+36939	Čakinoja
+36942	Gauronoja
+36948	Ul’l’unanoja
+36984	Reduoja
+37024	Mustoja
+37051	Korboja
+37083	Mustoja Pieni
+37085	Piäjärvenoja
+37122	Järvenoja
+37161	Goranoja
+37176	Vallasoja
+37186	Vallazoja
+37191	Kevikkosildaizenoja
+37194	Törzoja
+37207	Papinoja
+37236	Puskoja
+37246	Veidoja
+37323	Lepistöoja
+37327	Ongimusoja
+37349	Matinojaine
+37364	Kal’l’oja
+37368	Sammatuzoja
+37375	Särgioja
+37431	Kaloja
+37433	Lamminoja
+37467	Korgeioja
+37525	Rajanoja
+37527	Taibaloja
+37588	Čoukunoja
+37594	Borunoja
+37595	Ul’l’ulanoja
+37620	Keidoja
+37644	Kuikanoja
+37687	Tuomoja
+37707	Rauduoja
+37781	Ahvenoja
+37982	Nouzemanoja
+38040	Koverilamminoja
+38085	Jarvenpianoja
+38190	Екимов
+38191	Ламбушручей
+38221	Пельма
+38222	Банный
+38247	Артемьевский
+38262	У Зимника
+38263	Копьев
+38307	Сухотский
+38331	Кудозерский
+38383	Вироручей
+38389	Кеткоручей
+38403	Тагольский
+38417	Равдручей
+38424	Мельничный
+38498	Илесенский
+38562	Вирручей
+38570	Заячий
+38586	Пурмручей
+38591	Абай
+38624	Волчий
+38630	Гремячий
+38642	Захаровский
+38650	Каменный
+38668	Лепручей
+38731	Сенный
+38741	Тасин
+38756	Четвертной
+38790	Калиручей
+38793	Кильручей
+38827	Хвощовский
+38832	Черевский
+38833	Чёрный
+38839	Шумечий
+38869	Килейручей
+38872	Койкоручей
+38873	Койкручей
+38888	Палоручей
+38895	Святручей
+38904	Чёрный
+38966	Ильин
+38970	Палручей
+38976	Варешручей
+39039	Емручей
+39059	Стебельный
+39064	Ведюги
+39070	Колонда
+39071	Логинов
+39074	Пучаги
+39082	Гуминаволоцкий ручей
+39135	Филатов ручей
+39156	Дьяков
+39180	Попов
+39221	Кужаров
+39238	Подгорский
+39258	Юкшаручей
+39261	Агнейручей
+39281	Захарков
+39284	Казёный
+39290	Коровин
+39319	Сартлахтинский
+39357	Бураков
+39386	Макариха ручей
+39398	Ялганда
+39466	Колов ручей
+39521	Репный
+39550	Ченежский
+39577	Кулгалоручей
+39600	Ялгандский ручей
+39608	Земной ручей
+39621	Омут
+39624	Коловручей
+39630	Йоров ручей
+39648	Кимручей
+39768	Продольницкий ручей
+39782	Сафронова
+39812	Ялгонда
+39825	Глубокий
+39851	Пизручей
+39863	Сельгаручей
+39869	Сигручей
+39904	Масляный ручей
+39919	Пистручей
+39923	Радручей
+40028	Ягодный ручей
+40046	Винный ручей
+40084	Каменный ручей
+40104	Лавручей
+40116	Пажаручей
+40131	Сагручей
+40139	Сенный ручей
+40147	Синоброд
+40175	Антоновский
+40185	Богородицкий
+40204	Глубокий
+40259	Лягручей
+40262	Майморучей
+40264	Макаров
+40265	Шилта
+40292	Пихручей
+40324	Славручей
+40336	Часторучей
+40340	Чихручей
+40361	Кулгозероручей
+40369	Северный ручей
+40419	Амбручей
+40446	Ганручей
+40485	Зяблуха
+40490	Иручей
+40554	Прокшин
+40555	Прокшино ручей
+40565	Рогой Нижний
+40566	Рогой Верхний
+40568	Рогой ручей
+40576	Сеноброд
+40633	Ливручей
+40638	Пармишручей
+40649	Чёрный
+40705	Гришинский
+40730	Ливий
+40732	Максимовский
+40771	Саручей
+40833	Гришинский
+40880	Саручей
+40927	Бабий
+40952	Вадеги
+40962	Вепсручей
+40964	Вехручей
+40968	Гажий
+40992	Ведюга
+40993	Кривой ручей
+41004	Гороховый
+41030	Гондручей
+41047	Заперть
+41050	Каларучей
+41051	Каларучей
+41053	Кашаручей
+41055	Кашручей
+41059	Кобылий
+41061	Корбаручей
+41102	Лепручей
+41105	Лухтручей
+41106	Магручей
+41125	Мутаручей
+41141	Петручьи
+41143	Петручей
+41147	Погрека
+41166	Пятивёрстный
+41167	Ранин
+41229	Трёхвёрстный
+41242	Чуручей
+41244	Шестивёрстный
+41277	Грунин ручей
+41283	Евручей
+41290	Кобылий
+41295	Макаровской ручей
+41317	Селецкой ручей
+41340	Гажий ручей
+41349	Магручей
+41355	Ранин ручей
+41363	Топорный ручей
+41398	Петручей
+41405	Вагнеручей
+41427	Гавручей
+41446	Жилой
+41448	Лузский
+41456	Ериручей
+41480	Пармиш
+41481	Пармешручей
+41492	Аглимручей
+41522	Самба
+41525	Тыноватый
+41581	Короткий
+41582	Кортюхручей
+41590	Курья
+41606	Портомойный
+41609	Пурмручей
+41611	Пурмручей
+41621	Становой
+41629	Чуручей
+41663	Каменный
+41664	Каменный
+41710	Рандручей
+41737	Барановский
+41773	Гавручей
+41820	Лимручей
+41829	Лебежий
+41833	Ландручей
+41847	Куйручей
+41848	Кудельный
+41906	Юргручей
+41930	Салмручей
+41988	Мельничный
+41993	Пашручей
+41995	Петручей
+42067	Гавручей
+42103	Лебедевский
+42168	Второй
+42203	Первый
+42221	Антипущин
+42224	Бабий
+42228	Ближний
+42250	Вожеручей
+42251	Вож(а)ручей
+42265	Горлов
+42276	Дальний
+42284	Еборучей
+42304	Имакручей
+42348	Ландаручей
+42369	Майморучей
+42389	Мустрикучей
+42428	Паларучей
+42446	Ржаной
+42447	Рубцов
+42451	Ручеек
+42459	Святой
+42467	Серебряный
+42469	Сладенький
+42506	Тулморучей
+42509	Туморучей
+42578	Пагручей
+42710	Кондаковский
+42737	Бережнуха
+42794	Ёксин
+42801	Кожручей
+42808	Кондеручей
+42812	Коньдиручей
+42847	Реборучей
+42859	Савручей
+42895	Кортеручей
+42973	Гарванручей
+42978	Ельникручей
+42990	Корневский ручей
+43019	Гайжало
+43021	Гарбанручей
+43032	Кескамручей
+43050	Ревиручья
+43053	Самборучей
+43073	Конский ручей
+43088	Буев ручей
+43102	Евчин ручей
+43106	Пустошь
+43144	Ваварицин ручей
+43168	Замошьеручей
+43189	Рагручей
+43225	Войручей
+43228	Волохручей
+43251	Кривой
+43309	Нинёка
+43348	Васьковский
+43360	Вераручей
+43369	Висручей
+43378	Высокий
+43397	Глиняный
+43417	Грунин
+43418	Грязномручей
+43433	Дальний
+43442	Долгий
+43443	Долгий
+43444	Долгий
+43445	Долгий
+43459	Ершовый
+43471	Калий
+43472	Калой
+43473	Калый
+43475	Каменный
+43477	Карасручей
+43484	Киверный
+43494	Корбенный
+43495	Корбинручей
+43498	Корехручей
+43611	Лефтий ручей
+43629	Лухтинский
+43642	Маленький Карасручей
+43657	Манохинский
+43670	Мелкий
+43671	Мелкий
+43702	Oravaoja
+43704	Oravaoja
+43753	Syväinoja
+43763	Lehmoilamminoja
+43766	Platoinoja
+43767	Nišanoja
+43768	Kiiskioja
+43794	Rahioja
+43828	Ojajärvenoja
+43854	Turkanoja
+43877	Syväinoja
+43881	Vongi
+43936	Somadoja
+43960	Lidmanoja
+43994	Huabaoja
+43995	Ruočinoja
+44027	Paloinoja
+44074	Siilahanoja
+44087	Särgijärvenoja
+44151	Rihoja
+44153	Rajanoja
+44159	Puoroinoja
+44161	Viluoja
+44210	Melliččäoja
+44211	Čuuruoja
+44216	Heinäoja
+44249	Haugioja
+44270	Keidoja
+44322	Kanapagluksenoja
+44345	Čuuruoja
+44375	Muižjärvenoja
+44381	Ahvoinoja
+44436	N’orpanoja
+44472	Parzoja
+44483	Čorranoja
+44541	Madaraoja
+44558	Hannilamminoja
+44570	Kivioja
+44628	Önttyrinoja
+44639	Törtöttäjäine
+44670	Selgimysoja
+44676	Kanabroja
+44686	Hämehenoja
+44694	Pertoja
+44697	Pyöröilänoja
+44701	Kalinoja
+44738	Pirttioja
+44744	Motovkanoja
+44754	Мельничный
+44800	Паланручей
+44805	Паларучей
+44815	Hanhenoja
+44846	Happamuksenoja
+44848	Hiižjärvenoja
+44869	Пелтручей
+44875	Пидерский
+44891	Töröinoja
+44893	Urdoja
+44940	Hammičanoja
+44942	Hongoja
+44945	Kadaioja
+44951	Katinoja
+44962	Kivioja
+44992	Рябов ручей
+45002	Сахарручей
+45003	Свиной ручей
+45012	Сельгручей
+45030	Трёхвёрстный
+45048	Фёдорчёво
+45052	Хмельной
+45077	Сараеручей
+45099	Вераручей
+45122	Лепручей
+45131	Нижручья
+45154	Bul’anoja
+45876	Heinoja
+45882	Hevosoja
+45887	Huohlanoja
+45890	Huponoja
+45909	Jurikkapuro
+45922	Kauronoja
+45927	Kerkiešoja
+45962	Kostjanoja
+45964	Kotijoki
+46021	Nuoluttioja
+46025	Ojalanperä
+46038	Patrolanoja
+46271	Sampienoja
+46274	Kattilaoja
+46297	Гангручей
+46298	Кулмусручей
+46324	Дёкотнюха
+46337	Нинручей
+46338	Ниндручей
+46382	Камасручей
+46427	Abramanoja
+46444	Alhonoja
+46445	Buukkuoja
+46455	Bovarnioja
+46461	Buukkuojanniemi
+46498	Harajinoja
+46507	Haukioja
+46513	Hepo-oja
+46515	Hepo-oja
+46522	Herranoja
+46555	Hyytynoja
+46580	Jaamaoja
+46581	Jalo-oja
+46620	Kaarilammenoja
+46629	Kaitaoja
+46635	Kaivuoja
+46647	Kanabro-oja
+46652	Kanninoja
+46655	Kapakkaoja
+46671	Karutoja
+46724	Kivioja
+46725	Kivioja
+46726	Kivioja
+46734	Koivuoja
+46754	Korkeansillanoja
+46755	Korkeaoja
+46756	Korkeaoja
+46787	Kurenoja
+46792	Kurjenoja
+46793	Kurjenoja
+46794	Kurjenoja
+46802	Kurtsunoja
+46806	Kylänoja
+46816	Kääppäoja
+46824	Lakeanluhdanoja
+46835	Lehmäoja
+46858	Lahioja
+46859	Lohioja
+46860	Lohioja
+46861	Lohioja
+46871	Lukanoja
+46879	Murronoja
+46882	Lysinoja
+46896	Maisivonoja
+46897	Maissienoja
+46901	Makasiininoja
+46912	Matinoja
+46922	Mellitsäoja
+46923	Mellitsäoja
+46924	Mellitsäoja
+46928	Merioja
+46942	Miitsunalhonoja
+46943	Miitsunoja
+46944	Minkinoja
+46948	Molotovanoja
+46963	Mustaoja
+46964	Mustaoja
+46977	Myllyoja
+46978	Myllyoja
+46983	Mäkräoja
+46996	Niemioja
+47012	Nurmosienoja
+47015	Ojanurmenoja
+47033	Otuksenoja
+47051	Pannuoja
+47057	Papusenoja
+47090	Peukalo- oja
+47095	Pienikivioja
+47107	Pienioja
+47116	Piilo-oja
+47124	Pirttilamminoja
+47169	Rajaoja
+47180	Retuoja
+47182	Retusillanoja
+47192	Riihioja
+47199	Ristanoja
+47201	Ristinoja
+47202	Ristioja
+47203	Ristioja
+47225	Ruhkanoja
+47226	Ruhkanoja
+47229	Ruoko- oja
+47240	Räbinäoja
+47268	Satulinoja
+47271	Savioja
+47287	Siikaoja
+47327	Sutimusoja
+47328	Sutimusoja
+47364	Syväoja
+47375	Tavioja
+47389	Timonoja
+47404	Tsuuruoja
+47416	Tunnisenoja
+47418	Tuomioja
+47421	Tuulenoja
+47425	Törisenoja
+47426	Törisenoja
+47430	Törönoja
+47441	Vaalunoja
+47447	Vaaretskoinoja
+47465	Viluoja
+47466	Viluoja
+47467	Viluoja
+47468	Viluoja
+47484	Vehkaoja
+47485	Vehjaoja
+47503	Alhonoja
+47507	Ala-Ristioja
+47559	Lepisellänoja
+47563	Lepistönoja
+47572	Liitilänoja
+47580	Majaoja
+47584	Mečcoja
+47602	Näpičänoja
+47634	Pulč’oinoja
+47637	Puuroja
+47657	Šogarven oja
+47663	Mikkelin oja
+47668	Holmanoja
+47675	Rahkoioja
+47682	Sargoja
+47718	Syväoja
+47722	Särgoja
+47736	Toronoja
+47745	Ukonkodojamoja
+47753	Viloja
+47789	Hammičanoja
+47808	Hiizojanoja
+47824	Ситручей
+47843	Глиняный
+47845	Кривой
+47862	Ситручей
+47872	Нярский
+47883	Кодач
+47885	Щучий
+48276	Ved’d’esoja
+48277	Kemoja
+48278	Majoja
+48279	Raudoja
+48286	Linnoja
+48287	Maldoja
+48288	Timokinoja
+48289	Leppoja
+48290	Duuralanoja
+48321	Kalloja
+48322	Matkoja
+48326	Kerežoja
+48328	Sargoja
+48330	Nizoja
+48331	Vil’oja
+48336	Mustuoja
+48337	Keržoja
+48346	Keidoja
+48347	Pärzimysoja
+48348	Puuroja
+48381	Kivoja
+48384	Soarenoja
+48390	Kangahanoja
+48398	Lepistoja
+48416	Karunoja
+48425	Riihoja
+48434	Sammatuzoja
+48449	Ked’oja
+48450	Porunoja
+48452	Kanambroja
+48453	Lukanoja
+48459	Särgilamminoja
+48460	Korboja
+48482	Neidoja
+48520	Puoroinoja
+48525	Niižoja
+48532	Sillankorvanoja
+48559	Saarenoja
+48563	Ladvoja
+48567	Tuomoja
+48594	Лепручей
+48601	Магручей
+48612	Нижручей
+48626	Пойкручей
+48634	Руданки
+48647	У Кожзавода
+48653	Чакручей
+48725	Ручей
+48777	Глиняный
+48789	Карасручей
+48849	Тундручей
+48874	Долгий
+48907	Свиной
+48935	Высокий
+48991	Ближний
+49010	Дальний Ручей
+49041	Кауручей
+49042	Щучий
+49046	Моторный
+49065	Барабан
+49075	Бочаров ручей
+49127	Ебручей
+49129	Холодная Вода
+49240	Кавгаручей
+49270	Катешручей
+49289	Шидручей
+49321	Мокеевский
+49332	Сухой
+49334	Угольская речка
+49533	Vaalunoja
+49553	Koivuoja
+49565	Murronoja
+49582	Ruuhkanoja
+49648	Ровручей
+49652	Студёный
+49753	Дунайрека
+49761	Гороя
+49879	Торпручей
+49919	Орсельский
+50004	Ved’d’esoja
+50005	Kemoja
+50006	Majoja
+50007	Raudoja
+50014	Linnoja
+50015	Maldoja
+50016	Timokinoja
+50017	Leppoja
+50018	Duuralanoja
+50049	Kalloja
+50050	Matkoja
+50054	Kerežoja
+50056	Sargoja
+50059	Vil’oja
+50064	Mustuoja
+50065	Keržoja
+50074	Keidoja
+50075	Pärzimysoja
+50076	Puuroja
+50109	Kivoja
+50112	Soarenoja
+50118	Kangahanoja
+50126	Lepistoja
+50144	Karunoja
+50153	Riihoja
+50162	Sammatuzoja
+50177	Ked’oja
+50178	Porunoja
+50180	Kanambroja
+50181	Lukanoja
+50187	Särgilamminoja
+50188	Korboja
+50210	Neidoja
+50248	Puoroinoja
+50253	Niižoja
+50260	Sillankorvanoja
+50287	Saarenoja
+50291	Ladvoja
+50295	Tuomoja
+50322	Лепручей
+50329	Магручей
+50340	Нижручей
+50354	Пойкручей
+50362	Руданки
+50375	У Кожзавода
+50381	Чакручей
+50453	Ручей
+50505	Глиняный
+50517	Карасручей
+50577	Тундручей
+50602	Долгий
+50635	Свиной
+50663	Высокий
+50700	Лупкорга
+50773	Мельничный
+50818	Онечий ручей
+50821	Корбовский ручей
+50848	Речка
+50875	Боркун
+50881	Полевой ручей
+50894	Мосин ручей
+50909	Каменный ручей
+50935	Шумячий ручей
+50961	Черноборисовский ручей
+50963	Золотой ручей
+50965	Буриков ручей
+50973	Чёрный ручей
+50986	Клементьевский ручей
+50991	Кибуй
+50994	Солбуй
+50995	Чёрный
+51153	Аркинский ручей
+51161	Каменный ручей
+51162	Имштар
+51164	Ершовик
+51165	Боркун
+51167	Второй ручей
+51168	Третий ручей
+51180	Немец
+51201	Никитин ручей
+51203	Андогский ручей
+51206	Пучкас
+51219	Куринский ручей
+51231	Маровец
+51265	Ручей
+51287	Каменный ручей
+51343	Попов ручей
+51351	Боровской
+51355	Мишкин ручей
+51363	Винный ручей
+51408	Тёмновский ручей
+51487	Пустынский
+51533	Чёрный
+51534	Назаровский
+51535	Черноборисовский
+51536	Золотой
+51570	Поганый
+51573	Стёпкинский ручей
+51581	Железный
+51611	Стрешков ручей
+51648	Матребский
+51669	Колдомский ручей
+51676	Колдовский ручей
+51687	Берёзовый ручей
+51986	Šortoja
+52042	Šanhenoja
+52043	Kellooja
+52044	Netkonoja
+52057	Puanalaoja
+52062	Melnitšaoja
+52092	Matkapuvas
+52095	Murtopuvas
+52098	Pohjoja
+52099	Pajuoja
+52100	Tarvinoja
+52106	Leinienoja
+52120	Kondienoja
+52121	Šuurioja
+52133	Salojat
+52134	Hanhojat
+52146	Hietaoja
+52153	Mäntyoja
+52156	Alini Marjaoja
+52160	Lahnaoja
+52169	Kuužut
+52171	Baziljanoja
+52199	Merjaušoja
+52200	Ortšoušoja
+52207	Paškaoja
+52208	Paha Paškaoja
+52212	Nuolioja
+52213	Ahvenoja
+52217	Kuivausoja
+52229	Norvaoja
+52231	Mokinoja
+52232	Piäoja
+52233	Mustapuro
+52236	Kälkkäysoja
+52248	Alini Ypäys
+52249	Ylini Ypäys
+52254	Metšjonoja
+52271	Kangasoja
+52281	Suuripiäoja
+52287	Veneheittooja
+52295	Norvajoki
+52318	Nivaoja
+52320	Mualioja
+52322	Mändyoja
+52365	Tuuromenoja
+52366	Purnoja
+52387	Pajoja
+52388	Yhazenoja
+52393	Leinieoja
+52418	Marjaojat
+52421	Hanhioja
+52423	Törtöttäjäoja
+52425	Hallinoja
+52430	Šaloja
+52434	Kuužutoja
+52435	Kuusutoja
+52438	Männikköoja
+52440	Viskiesoja
+52463	Ontonoja
+52470	Ypäykset
+52478	Kelloja
+52479	Šärkioja
+52480	Hiizioja
+52483	Murtoja
+52487	Leinie
+52491	Jalonoja
+52503	Šorvieoja
+52504	Ukonoja
+52516	Alani Marjaoja
+52517	Ylini Marjaoja
+52519	Törtöttäjä
+52520	Kuuzioja
+52647	Vihtoja
+52670	Karinoja
+52683	Pahaoja
+52685	Keväysoja
+52770	Глубокий ручей
+52781	Коко́рино
+52795	Во́йноручей
+52797	Берёзовый ручей
+52958	Ше́йручей
+53047	Ahvenoja
+53229	Hadaruzoja
+53230	Pit’koja
+53253	Ченженоя
+53254	Koivistosuonoja
+53264	Sammaloja
+53265	Саммаоя
+53266	Redoja
+53268	Кивиоя
+53269	Kivioja
+53270	Tulenoja
+53271	Туленоя
+53301	Болос-Ручей
+53302	Buolahanjogi
+53516	Лумбаноя
+53517	Lumananjogi
+54053	Низоя
+54141	Виллоя
+54142	Viloja
+54162	Саргоя
+54163	Sargoja
+54190	Хадарусоя
+54203	Боруноя
+54212	Равдоя
+54213	Raudoja
+54214	Ченженоя
+54215	Čond’žoinoja
+54217	Maioja
+54240	Корбаручей
+54244	Кирзамоя
+54248	Сараручей
+54273	Ригоя
+54274	Riihioja
+54303	Плотинручей
+54305	Шидроручей
+54310	Отсручей
+54318	Кайдаручей
+54395	Хангоручей
+54397	Пагаручей
+54414	Туленоя
+54415	Tuulanoja
+54434	Канаоя
+54441	Пахканоя
+54681	Šidronoja
+54682	Kaidoja
+54710	Ко́чкомский
+54752	Медвежий
+54762	Виловатый
+54818	Сухогубский
+54819	Шоромлуги
+54997	Глубокий
+55080	Со́нручей
+55122	Тарасов
+55123	Собачий
+55175	Кильмячный
+55176	Куньжаручей
+55216	Мурдоручей
+55246	Гангоручей
+55341	Раяселянпуро
+55342	Пюэреясуоноя
+55414	Kos’telioja
+55415	Pilanoja
+55439	Vaččoja
+55449	Orlovaoja
+55634	Финский
+55641	Хабаоя
+55779	Глубо́кий
+55809	Медвежий
+55810	Оста́нин
+55815	Гли́няный
+55845	Медве́жий
+55892	За́лазный ручей
+55894	Оста́нин ручей
+55895	Ма́шкин ручей
+55897	Попере́чный ручей
+55925	Лариониха
+55926	Вешной ручей
+55927	Лепруцкий ручей
+55928	Межной ручей
+55930	Петручей
+55931	Сольнопечный ручей
+55932	Торлов Малый ручей
+55933	Черный Ручей
+55964	Гу́моручей
+55973	Медвежий ручей
+55974	Бере́зовый ручей
+55975	Бере́стяный ручей
+55993	Вися́чий Мост
+56000	Ло́унатручей
+56002	Ви́дручей
+56016	Ва́назручей
+56048	Кю́ндручей
+56051	Ся́ргручей
+56083	Га́рвиручей
+56090	Тогоручей
+56188	Карп-ручей
+56238	Лариониха Нижняя
+56248	Леп-ручей
+56260	Межной Ручей
+56325	Сольнопечной Ручей
+56344	Торлово Большое
+56345	Торлово Малое
+56451	Вегручей
+56507	По́ткручей
+56579	Куноручей
+56583	Ладручей
+56598	Малдоручей
+56606	Pahkanoja
+56616	Крова́вый ручей
+56635	Сярьручей

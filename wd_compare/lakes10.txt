@@ -1,0 +1,6770 @@
+3	Pahag’ärvut
+38	Ojalambi
+50	Корбозеро
+89	Корытовское озеро
+91	Шугозеро
+161	Курбозеро
+178	Kangazg’arvut
+185	Ламбо
+185	Лимозеро
+185	Римбозеро
+185	Рымбозеро
+214	Salain’eg’ar’f Шольское
+214	Salg’ar’f
+315	Salain’eg’ar’f
+315	Sur’g’ar’f Шольское
+317	Tit’t’ar’jarveet
+329	Sod’jar’v
+406	Vouktar[v]
+458	Pihajar’v
+458	Pihar’jar’v
+458	Pihar’v
+458	Pihar’vjar’v Святозеро
+468	Вягозеро
+519	Valgeipesku
+528	Ярбозеро
+529	Вягозеро V
+533	Пажемское [К]
+645	Sagar’jar’v Сягозеро
+647	Мостозеро
+654	Sagazg’ar’v
+656	Пялозеро
+677	Пашезеро
+725	T’ikjar’v Чикозеро
+763	Pehkjarvut
+795	Керацкое
+830	Мятозеро
+896	Pit’kjar’v
+912	Sojar’jar’v Мохозеро
+937	Корытово
+937	Корытовсько озерко
+992	Vest’ar’jar’v
+992	Ves’t’jar’v
+1092	Hil’l’ar’v
+1098	Kodirandu
+1111	Sar’d’ar’f
+1130	Вадозеро
+1189	Ojajarvi
+1321	Vaugedg’arvut
+1381	And’arv
+1381	Яндозеро
+1381	Яндорра
+1384	Kangas
+1483	Ahneg’arvut
+1503	Печевское
+1514	Вареж
+1514	Варежозеро
+1514	Варишозеро
+1601	Andar’v
+1614	Sang’jar’v
+1644	Маслозеро
+1672	Val’har’jar’v
+1672	Вялгозеро
+1714	Vastk’ar’
+1766	Kond’jar’v Kondiijar’v Кондозеро
+1801	Озерское
+1807	Sid’dar’v Прокушевское
+1807	Sid’jar’v
+1828	Калозеро
+1840	Ukg’arvut Стариковское
+1840	Ukoig’arvut
+1841	Levdolambi
+1926	Pelajar’v
+1995	Ojarvi
+2003	Aзмозеро
+2014	Melnicjarv
+2014	Vougetjarv
+2103	Sondaljarv
+2117	Buukucg’ar’v
+2117	Buukuckg’ar’v
+2143	Sivar’v
+2186	Kaidag’ar’f
+2312	Oks’ar’jar’v
+2320	Пижей
+2320	Пижейка
+2373	Шильтя
+2383	Керака
+2387	Пелушское
+2391	Iitong’ar’f
+2395	Kirvezd’arvut
+2437	D’enisg’ar’v
+2448	Kaidag’ar’v
+2492	Sugamg’ar’v
+2492	Sugang’arvut
+2580	Tuulasjarvi
+2698	Sepad’ar’v
+2698	S’epag’ar’f
+2698	S’epatg’arvut Сепозеро
+2698	S’epatg’ar’v
+2720	Pit’kdär’v
+2720	Pit’kjär’v
+2720	Pit’kudärvi
+2720	Долгое озеро
+2739	Лапозеро
+2745	Levotlambi
+2765	Ганьозеро [К]
+2773	Ярбозерское озеро
+2822	Щукозеро
+2830	Redujarveet Грязное
+2886	Orehd’ar’f
+2886	Orehg’ar’v
+2901	Sar’g’akg’ar’f
+2901	Sar’jag’ar’f
+2901	Sar’jakg’ar’vut
+2920	Яндозеро
+3055	Ламбо
+3055	Лимбозеро
+3055	Лимозеро
+3055	Рымбозеро
+3105	Коткие Ламбы
+3105	Коткиламбы
+3208	Istung’ar’v
+3234	Sod’d’ar’v Сидоровское
+3244	Iukinjarvi
+3252	Ukoijarvut
+3252	Ukojar’v
+3252	Ukujarvut
+3252	Ukujar’v
+3285	Sar’jar’v
+3285	Сарозеро
+3291	Kodalambi
+3356	Kodar’jar’v
+3356	Kodar’v
+3356	Kodijar’v
+3356	Kodoijar’v
+3356	Кодозеро
+3387	Lidnag’arvut
+3450	Keicg’ar’v
+3546	Вареж
+3546	Варешозеро
+3592	Vaagedjarvut
+3632	Joucar’
+3632	Joutsar’v
+3661	Сарозеро
+3688	Екшезеро
+3693	Niemi
+3716	Варежозеро
+3716	Варешозеро
+3723	Natkag’ar’v
+3734	Vas’k’ar’v
+3748	Шугозеро
+3860	Loid’jar’v Loit’jar’v
+3948	T’ikjar’v Чикозеро
+3960	Печевское
+3994	Abod’arvi
+3994	Abuad’arvi
+4194	Кончезеро
+4194	Нижнее Контозеро
+4199	Озерко
+4221	Канчезеро
+4221	Кончезеро
+4641	Пивгозеро
+4641	Пивозеро
+4642	Пивгозеро
+4642	Пилгозеро
+4708	Верхнее Контозеро
+4708	Коткиламба
+4709	Верхнее Контозеро. Котколамбы
+4709	Контозеро
+4771	Вехнозеро
+4771	Керакское озеро
+4775	Шадрово озеро
+4775	Шадровское озеро
+4793	Верхнее Контозеро
+4800	Клепозеро
+4800	Озёрко
+4800	При дороге
+4802	Шадрово озеро
+4802	Шадровское озеро
+4802	Шидрозеро
+4931	Контозеро
+4936	Клёпозеро
+4971	Ругозеро
+4971	Рузеро
+5032	Малое Корехозеро
+5032	Северное Корехозеро
+5037	Среднее Корехозеро
+5048	Малое Хмелезеро
+5049	Большое Хмельозеро. Хмелезеро
+5052	Малое Корехозеро
+5052	Южное Корехозеро
+5084	Рузеро
+5084	Руйзеро
+5202	Палтинское озеро
+5202	Шидрозеро
+5227	Палтегское озеро
+5227	Шиброзеро
+5227	Якорьлядинское озеро
+5392	Гахкозеро
+5392	Шадровское озеро
+5408	Шидрозеро
+5408	Якорьлядинско озеро
+5505	Верхнозеро
+5505	Вехнозеро
+5505	Керацкое озеро
+5559	Калезеро
+5628	Чулозеро
+5628	Чурозеро
+5867	Большое Хмелезеро и Малое Хмелезеро
+5972	Решетово
+6010	Глухое
+6012	Ламба
+6292	Paloniemend’ärv
+6292	Михайловское
+6293	Tuašlandärvi
+6299	Kondiand’är’v
+6394	Каменное
+6402	Korbdär’v
+6402	Корбозеро
+6435	Niemen Pajad’är’v
+6435	Yličin <pajad’är’v
+6509	Дальнее озеро
+6509	Пицесное озеро
+6704	Hidniemend’ärv
+6704	Hodud’är’v
+6704	Hodund’ärv
+6704	Hoduud’är’v
+6704	Ходозеро
+6718	Остречевское озеро
+6782	Бездонное озерко
+6852	Падмозеро
+6932	D’oučandärved
+6940	Roksand’är’v
+6940	Рокса
+7004	Lepd’är’v
+7004	Leppäd’är’v
+7004	Лебозеро
+8016	Сямникозеро
+8021	Чиркозеро
+8042	Сянькозеро
+8103	Нижнее
+8103	Нижнее Мижозеро
+8124	Тютезеро
+8124	Тютозеро
+8237	Кальгезеро
+8237	Кальгизеро
+8274	Судмозёрки
+8285	Черная Лампина
+8356	Загубское озеро
+8357	Глухое озеро
+8558	Глухое
+8855	Бездонное
+8856	Ближнее озеро
+9471	hapšomd’ar’v
+9562	onaškinoidid’är’v
+9606	isakand’arved
+9614	ivnad’arv
+9768	Акандъярви
+9816	Čigronlammit
+9841	Haugijdärvi
+9841	Häygärvi
+9841	Šuaridärvi
+9852	Kirvešdärvi
+9852	Kirveždärvi
+9855	Kiippärvi
+9855	Kipändärvi
+9861	Kiiččolammit
+9861	Kičolammit
+9885	Котчозеро
+9886	Leivis’kä
+9898	Lumbehlambi
+9906	Marjadärvi
+9925	Mečäizdärvi
+9941	Pit’kädärvi
+9958	Kaidarvi
+9959	Озеро Безглазое
+9959	озеро Кайдаъярви (карта)
+9966	Kartiččanlambi
+10005	Луобалтеозеро (карта)
+10007	Maimarvi
+10009	Маймъярви (карта)
+10018	Matfeillambi
+10018	Matfijanlammet
+10022	рус.: Асипалампи
+10027	Ala Nigalmo
+10034	Čirčeslambi
+10048	Koismusd’ärvi
+10048	Kos’musd’ärvi
+10071	Puz’vašlambi (ТИС 1926)
+10073	Heinälambi
+10077	Ruogovodko
+10079	рус.: Камышовое
+10081	рус.: оз. Окунь (Риголамбина)
+10085	Шведская ламбина
+10085	рус.: Рочалампи
+10087	Šepänlambi
+10089	Šepänlambi
+10093	Šuarilambi
+10095	T’ort’onlambi
+10103	Vassilanlambi
+10109	Nigalma
+10109	Yline Negalma
+10109	Ylä Nigalmo
+10109	рус.: Верхнее Нигалмаозеро
+10116	D’ormoška
+10117	Danššanlambi
+10140	Hiizarvi
+10165	Kurjazlambi
+10166	Kallivolambi
+10184	Kež’ärvi
+10233	Мельяки (ТК)
+10241	Осипа Лампи (карта)
+10244	Пайккатуламби (карта)
+10245	Таскодалампи (карта)
+10389	Paskoda
+10390	Paskodandärvi
+10393	Peädärvi
+10396	Pohdoinepuoli; Pohdoiželpuolel
+10411	Пувшиналампи (карта)
+10424	Реболампи (карта)
+10429	Савиярви (карта)
+10433	Ниж.Ругозеро (карта)
+10439	Руагъярви (карта)
+10452	Залебежское озеро
+10463	Сяонлампи (карта)
+10472	озера Талая Лампи (карта)
+10480	Верхнее Ругозеро (карта)
+10521	озеро Безглазое (карта)
+10525	Tarazmozendärvi
+10527	Тауконлампи (карта)
+10537	Валгелампи (КАРТА)
+10538	Волгислампи (карта)
+10541	Видъярви (карта)
+10544	Ülinedärvi
+10544	Угликъярви (карта)
+10564	Посульское
+10699	Большое Обозеро (ТК)
+10800	Подщетиноватая Ламбина
+10801	Щетинка
+10845	рус.: Ниж. Михайловское
+10852	Huumarlambi (МРА 1928)
+10854	Jottarvi
+10878	Huah(a)larvet
+10882	Čigronlambi (ЗВФ)
+10893	D’öttarvi; рус. Еттозеро
+10913	Keskimmäine
+10913	рус.: оз. Среднее
+10920	рус.: оз. Каменистое
+10924	рус.: Кондиелампи
+10957	Levanlambi
+10962	Pieni Pörcönlambi
+10974	Luobašlambi (МРА 1928)
+11006	Pomppi (МРА 1928)
+11012	рус.: оз. Глубокое
+11044	Luobašlambi
+11044	Pörčönlambi
+11058	Pit’kälambi
+11058	рус.: оз. Длинное
+11091	Šammallambi
+11094	Siigarvi
+11102	Šulgamaislambi
+11102	Šulgumaislambi (ЗВЕ 1938)
+11102	рус.: Шулгомаислампи
+11105	рус.: оз. Шоба
+11122	Tarkoizd’ärvi
+11122	рус.: Таркозеро
+11156	рус.: оз. Косое
+11173	Yline Miihkali
+11177	Koivušuonlambi
+11177	рус.: Койвусуонлампи
+11182	рус.: Нижнее Машозеро
+11188	рус.: оз. Боленламби
+11189	рус.: Кюлялампи
+11190	Šuuri Šärgilambi (РЭП 1930)
+11205	D’uurikanlambi
+11205	D’uurikkašuarilambi
+11208	D’uurikkalambi
+11215	рус.: оз. Коковалгамонлампи
+11218	рус.: Долгое (Хаугилампи)
+11221	рус.: оз. Уривалампи (Сенное)
+11227	Muštalambi (ГКМ 1934)
+11228	Muštalambi (ГКМ 1934)
+11231	рус.: оз. Кайдолампи
+11232	Kaizlammit
+11237	Kallivolambi
+11243	Karinlambi
+11243	рус.: Кирилампи
+11246	Matkalammit
+11250	рус.: Кевятюрлампи
+11253	Šulgulambi
+11264	Kos’musd’ärvi
+11267	Ahvenlambi
+11273	Korbarvi
+11273	рус.: оз. Корбоярви
+11281	Kutilambi
+11281	Kuutilambi (ГКМ 1934)
+11281	рус.: Хеболампи (Кутилампи)
+11290	Burkenlammit
+11290	Purkenlammit
+11300	Lugolambi
+11305	Keškimatanlammit
+11321	Juurikkalambi (РЭП 1930)
+11332	Rajalambi
+11342	Šärgilambi
+11350	Pukšaizd’ärvi
+11350	рус.: оз. Тукшеярви
+11351	Pukšud’ärvi
+11351	рус.: оз. Тукшеярви
+11357	Pajulambi
+11359	Riešanlambi (РЭП 1930)
+11361	рус.: Повкололамби
+11362	рус. : Риголампи
+11368	Umbilammit (ГКМ 1934)
+11375	Runnušlakši (МАИ 1937)
+11401	Kodalambi
+11401	Šulgulambi
+11405	Šuolammit
+11407	Šuuri Ahvenlambi
+11438	Šuuri Marjalambi
+11442	Butinlambi (ГКМ 1934)
+11442	Šuuri Šärgilambi
+11443	Šyvälambi
+11449	Pieni Šärgilambi
+11461	Šäyn’yälambi
+11474	рус: Киппозеро
+11482	Pieni Pukšaizd’ärvi
+11491	Torarvi (ЧВА 1935)
+11491	Torodärvi
+11499	Riijonlammit (МАИ 1937)
+11503	Miško(nd’ärvi)
+11503	Votulmad’ärvi
+11505	Kaizlambi
+11506	рус.: Коверолампи
+11507	рус.: оз. Тахколампи
+11512	Kuz’kärvi
+11512	рус: Кузькозеро
+11514	Kuiskärvi
+11514	рус: Кузькозеро.
+11532	рус. Лебери
+11538	рус. Матколампи
+11565	Onginlambi
+11566	Ongimolambi
+11604	Šagojärvi
+11604	Šägäjärvi
+11604	рус. Шагозеро
+11625	Šuurenšuonlambi
+11639	Toravuaranjärvi
+11639	рус.Зимнее
+11640	Talvizvuarand’arvi
+11640	рус.Зимнее
+11738	Kuittilambi
+11738	Kutilambi
+11738	рус.: Хеболамби (Кутиламби)
+11747	Toini Pukšaizd’ärvi (МАИ 1937)
+11750	Šuarislambi
+11752	Rauvunlambi (ГКМ 1934)
+11753	Šuurenvuaranlambi
+11763	Šyvälambi
+11763	Šärkilambi (РЭП 1930)
+11767	Šyvälambi (ГКМ 1934)
+11767	Šärkilambi
+11799	Hil’onjärvi
+11799	Perttid’ärvi
+11833	Perčonlambi
+11840	Molčankka (ЗВЕ 1938)
+11841	Nimilambi (МРА 1928)
+11938	Šuigärvendärvi
+11946	Šärkänlambi
+11952	рус.Тароламба
+12024	Hiizid’ärvi
+12024	Hiiz’ärvi
+12029	рус.: Егорова ламба
+12033	Kallivod’ärvi
+12055	Ležol’and’ärvi
+12059	рус.: оз. Лобуш
+12160	Rautušjärvi
+12177	Siigad’ärvi
+12185	Šuarilambi
+12192	T’erozenlambi
+12192	рус.: Торосозеро
+12309	Kivišärkänlambi
+12309	Šäyn’ärvi
+12323	Čuružd’ärvi
+12323	рус.: Чуруж (Лагна)
+12355	Abajalambi (ВВК 1935)
+12368	Korbilamua (ВВК 1935)
+12371	Kukkamarvi
+12371	Kukkomad’ärvi
+12371	рус.: Куккамозеро
+12373	рус.: Плавучее
+12383	Luobuzlambi
+12383	рус.: Большой Лобуш
+12389	Löydölambi
+12404	Mujärvi
+12404	рус.: Муезеро
+12434	Большое Вилозеро
+12434	Малое Вилозеро
+12436	Ближнее Вилозеро
+12473	Ongomond’ärvi
+12473	рус.: Анкама
+12506	рус.: оз. Степаново
+12513	Symärvend’ärvi
+12513	рус.: Сумоярви
+12514	рус.: оз. Плотвица
+12517	Šäyn’järvi
+12518	Šäynyäd’ärvi
+12518	Šäynärvenlambi (ЛЛД 1931)
+12518	рус.: Шавля
+12523	Tarkond’ärvi
+12546	рус.: Воингозеро
+12549	Ylenärvi
+12629	Alin’e Kuužengi
+12629	Enžimmäini Kuužengi (БИГ 1925)
+12629	рус.: Нижняя Куженга
+12630	рус.: Диалампи
+12631	рус.: Перти
+12634	Alimmaini Diälambi
+12634	рус.: Диалампи
+12677	рус.: Кибохайни
+12688	рус.: Берёзовое
+12699	рус.: Когу
+12712	Тявзинское
+12843	Падмозеро
+12860	рус.: Лабьеозеро
+12861	Lahnalambi
+12861	Lahnauš
+12877	Markizenvuarand’ärvi
+12877	Markozenvuarankeški
+12878	Markkezenvuarand’ärvi
+12878	рус.: Марковское озеро
+12891	Tagalambi (ЕВС 1940)
+12909	Šammallambi
+12909	Šordalambi (ЕВС 1940)
+12912	Šavilammit
+12916	Šammallambi (ГВИ 1939)
+12916	Šordalambi
+12922	Sydänänlambi
+12922	Timonlambi(БИГ 1925)
+12922	Šytinanlambi
+12927	Šäynyälambi
+12934	Sydänlambi (ГВИ 1939)
+12934	Sydänänlambi
+12934	Šutinanlambi
+12938	Tungu(o)njärvi
+12938	рус.: Тунгудское
+12946	рус.: оз. Белое Ламбина
+12969	Purhaislambi (ЕСИ 1932)
+13149	Ковшезеро
+13168	Koivuniemend’ärvi
+13250	? Čirčeslambi
+13266	Tunguonjärvi
+13266	Tungusd’ärvi
+13266	рус.: оз. Тунгудское
+13268	Ylini Suovanlambi
+13530	Леликозеро
+13614	Лодейозерко
+13614	Лодиозерко
+13672	Светлое Озеро
+13715	Ламбина
+13716	Варбозеро
+13735	Ванозеро
+13736	Светлое Глухое Озеро
+13737	Васильюшкино озеро
+13800	Глухи Озёра
+13870	Заруцкие Озёра
+13871	Задворские озёра
+13950	Кривы Озёрки
+13954	Коламинские озёра
+13955	Каламинские озёра
+14002	Чёрная ламбина
+14002	Чёрная ляга
+14049	Huahlarvet
+14054	Yline Kylynperttilambi
+14307	Куйко-озерко
+14307	Куйкозерко
+14409	Ванзеозеро
+14409	Ванзозеро
+14409	Ванчезерою
+14409	Ванчишозеро
+14437	Верхнее Мягрозеро
+14462	Чёлозеро
+14462	Щёлозеро
+14952	Папиковское
+14958	Нижнее Мягрозеро
+15111	Верхозёрки
+15321	Турасмозеро
+15344	Важмезерко
+15344	Важмозерко
+15344	Вамиозеро
+15389	Войбозеро
+15389	Ойбозеро
+15633	Белое озеро
+15633	Малое Майозеро
+15634	Малое Маезеро
+15634	Малое Майозеро
+15645	Муромец
+15646	Муромозеро
+15650	Малое Ваньгозеро
+15651	Малое Ванозеро
+15652	Большое Майозеро
+15657	Белое озеро
+15657	Малое Майозеро
+15665	Малое Майозеро
+15668	Малое Сельгозеро
+15669	Малое Сеньгозеро
+15727	Песчано озеро
+15743	Пилозеро
+15744	Пилосозеро
+15855	Васильюшкино озеро
+15858	Скамейно озеро
+15859	Белое озеро
+15859	Светло озеро
+15865	Сивозёрко
+15926	Чернично озеро
+15932	Лебяжье озеро
+15932	Чёрная ляга
+15933	Лебяжье озеро
+15933	Чёрная ламбина
+16104	Pieni Dančunlambi
+16105	Pieni Danšanlambi
+16117	Toravuaranjärvi
+16118	Talvizvuaranjärvi
+16119	Toralambi
+16123	Šärkänlambi
+16125	Alinelambi
+16125	Kurjazlambi
+16126	Kurjuzlambi
+16295	Häydärvi
+16295	Šuaridärvi
+16296	Haugidärvi
+16296	Häydärvi
+16296	Häygärvi
+16296	Šuaridärvi
+16305	Haugidärvi
+16305	Häydärvi
+16305	Šuaridärvi
+16308	Lummehlambi
+16326	Rokkovandärvi
+16328	Šoržadärvi
+16333	Tomutdärvi
+16340	Voidärvi
+16346	Viärädärvi
+16621	Полотенце
+16784	Ажебское
+16890	Бездонное озёрко
+17221	Чернозеро
+18073	Хаш
+18399	Здвиженское
+18399	Сдвиженское
+18401	Здвиженское
+18401	Могильное
+18404	Худое
+18540	Колмозеро
+18551	Цилополь
+18582	D’uakonlambi
+18593	Ehät’yšlambi
+18597	Han’henlambi
+18601	Hil’ondärvi
+18601	Perttärvi
+18602	Hil’onjärvi
+18602	Perttärvi
+18611	Kal’l’varvi
+18634	Koveranlambi
+18635	Kippajärvi
+18637	Kuiskodärvi
+18638	Lanittajärvi
+18638	Lanittärvi
+18650	Midronvuarandärvi
+18650	Miidronlambi
+18663	Pukšulambi
+18686	Uudanlammit
+18688	Vuarnaizlambi
+18689	Vuaraizlambi
+18695	Uudandärvi
+18700	Pit’kälambi
+18716	Lehondärvi
+18722	Alinelambi
+18722	Kurjusjärvi
+18723	Kurjuslambi
+18727	D’ormuška
+18730	Keškilambi
+18734	Kil’bodärvi
+18737	Muštalambi
+18742	Pit’kälambi
+18747	Šuurenšuonlammit.
+18766	Šägärvi
+18779	Riihidärvi
+18779	Riihivuarandärvi
+18799	Восьмерка
+18808	Onginlambi
+18809	Ongimolambi
+18813	Šalmilambi
+18816	Šärgilambi
+18826	Hangašlambi
+18840	Pit’kälambi
+18852	D’ogilambi
+18860	Luobašdärvi
+18862	Aline Šuobarvi
+18863	Keški Šuobarvi
+18864	Yline Šuobarvi
+18867	Šordolambi
+18887	Šägärvi
+18888	Aline Matkarvi
+18889	Yline Matkarvi
+18893	Lahnadärvi
+18895	Pit’kädärvi
+18896	Kividärvi
+18907	Kallivodärvi
+18907	Kallivolambi
+18917	Šuuri Šuovalambi
+18918	Pieni Šuovalambi
+18925	Šuuri Ahvenlambi
+18928	Hebolambi
+18929	Kuittilambi
+18933	Kivilambi
+18934	Miinanlambi
+18942	Ylimmäine
+18944	Muštalambi
+18945	Šiigadärvi
+18950	Rönttilambi
+18951	Šäynyälambi
+18954	Yline Miihkalindärvi
+18955	Aline Miihkalindärvi
+18958	Alarvendärvi
+18961	Ahvendärvi
+18962	Alarvenlambi
+18963	Kel’l’äkkä
+18967	Dängärvi
+18972	Hiizärvi
+18976	Hiizärvenlambi
+19006	Kuivatlambi
+19010	Lukkalambi
+19014	Luovušlambi
+19015	Luovušdärvi
+19026	Mosorindärvi
+19035	Pyhä-Vel’li’nlambi
+19071	Rövynlambi
+19072	Rävynlambi
+19073	Rauttuizdärvi
+19073	Rautušdärvi
+19086	Šäynuälambi
+19088	Šäynyädärvi
+19089	Šärgidärvi
+19090	Stepanandärvi
+19106	Vaškišilmänlambi
+19110	Ylädärvi
+19110	Ylärvi
+19158	Hiekkadärvi
+19168	Hiizdärvi
+19194	Šuuri Keihäizendärvi
+19200	Keškidärvi
+19204	Kangahandärvi
+19218	Kangažlambi
+19222	Kuarnizdärvi
+19223	Omadärvi
+19223	Piebärvi
+19232	Kulist’ojanlambi
+19241	Pieni Keihäizendärvi
+19242	Keihäizenlambi
+19271	Muštalambi
+19308	Kodidärvi
+19308	Kylänlambi
+19308	Omadärvi
+19308	Piebärvendärvi
+19308	Piebärvi
+19308	Pienidärvi
+19309	Kodidärvi
+19309	Kylänlambi
+19309	Omadärvi
+19309	Piebärvi
+19310	Kodidärvi
+19310	Kylänlambi
+19310	Piebärvi
+19310	Pienidärvi
+19311	Kodidärvi
+19311	Omadärvi
+19311	Piebärvi
+19311	Pienidärvi
+19349	Šuurilambi
+19369	Šuuridärvi
+19372	Sortolambi
+19381	Ter’ozienlambi
+19386	Ala Äynädärvi
+19390	Viidadärvi
+19412	Vengienlambi
+19413	Valkielambi
+19429	Pedradärvi
+19437	Karmadärvi
+19891	Калье озеро
+20301	Бела ламбина
+20318	Ельники
+20320	Большая Туесова ламбина
+20323	Семьдезеро Среднее
+20329	Воеполье
+20329	Воеполя
+20366	Долгое плёсо
+20373	Большее озеро
+20373	Большое озеро
+20401	Кузозеро Нижнее
+20418	Кислые ламбины
+20462	Лавдозеро
+20462	Лавты
+20463	? Порцезеро
+20467	Лавнозеро
+20467	Лаунозеро
+20468	Лавнозеро
+20468	Ладозеро
+20474	Ельнеозеро
+20485	Максимозеро
+20486	Малая Туесова ламбина
+20489	Худое озеро
+20489	Чёрная ламбина
+20515	Востречья ламбина
+20537	Вицкозеро
+20543	Робогорка
+20570	Ельнозеро [ТК]
+20597	Мегозеро
+20597	Худо озеро
+20650	Ве́рмозеро
+20653	Вицкозеро
+20661	Ви́хламбы
+20702	Загородное
+20723	Тарболамби
+20725	Кевотозеро
+20739	Карлыварлы
+20739	Карлывары
+20744	Нижнее Курошозеро
+20745	Курошозеро Верхнее
+20749	Ку́кколово озеро
+20749	Ку́коламбина
+20758	Кодаламба
+20766	оз. Щучье
+20783	Пертозеро
+20793	Монастырское озеро
+20872	Монастырский Омут
+20875	? Поповы ламбины
+20880	Петру́шиха
+20914	Рогастые озёра
+20914	Сармосозеро (ТК)
+20916	Ромбакозеро
+20917	Васькозеро [ТК]
+20917	Ромбакозеро
+20931	Рога
+20931	Рогастые озёра
+20937	Соба́чья ла́мба
+20939	Гнилое (ТК)
+20943	Трясливое (ТК)
+20948	Клочковатое
+20995	Лайдаламбина
+21019	Дальнее Пиккозеро
+21019	Дальнее Пихкозеро [ТК]
+21022	Витчозеро
+21049	Ёлчеламбины
+21070	Корожнева Ламбина
+21070	Корожневска ламбина
+21127	Ламбина
+21132	Антошкина ламбина
+21132	Лайдоламбина
+21133	Меччезеро
+21134	Меччезеро Худое
+21156	Нижнее Пиккозеро
+21240	Котовья ламбина
+21341	Колежмаозеро
+21342	Колежмаозеро
+21349	Цепсозеро
+21390	Лаккозеро
+21395	Ласковая ламбина
+21441	Рыгачное
+21450	Сосново озеро Малое
+21451	Сосново озеро Большое
+21503	Ценозеро
+21574	Нилозеро
+21576	Нёлозеро
+21607	Тукколамбины
+22071	Копанец
+22071	Нюккозеро
+22071	Нюхча
+22071	Нюхчаозеро
+22080	Копанец
+22080	Нюхчаозеро
+22280	Гахкозеро
+23450	Немеш
+23456	Уницозеро
+23673	Soudarvendärvi
+23678	ТК: Ломнезерка
+23682	ТК: Питькалампи
+23684	Mylläkkö
+23689	Putizdärvi
+23690	Vuaranlambi
+23692	Enigd’ärvi
+23692	Eningid’arvi
+23692	Энингилампи (ТК)
+23733	Стекольна Лампи (ТК)
+23734	Симонлампи (ТК)
+23737	Шаммиклампи (ТК)
+23745	Šongo
+23745	Сонго (ТК)
+23746	Hiizdärvi
+23746	Хизъярви (ТК)
+23748	Рачугалампи (ТК)
+23750	Ohreižend’ärvi
+23751	Верхнее Меретозеро
+23751	Верхнее Мярат
+23752	Нижнее Меретозеро
+23752	Нижнее Мярат
+23754	Yline Kylmingi
+23755	Pilvetlammit
+23759	Šäpšangä
+23770	Barbalammit
+23770	Борьба Лампи (ТК)
+23824	Суавъярви (ТК)
+23825	Ботьолампи (ТК)
+23834	Гармозеро (ТК)
+23839	Mapalambi
+23839	Mapallambi
+23874	Hard’užd’arvi
+23874	Harjuzjärvi
+23876	Koveralambi
+23939	Kodilambi
+23939	Lužmanlambi
+23947	Hiržilambi
+23980	Uurasdärvi
+23997	Alini Kylmingi
+24082	Ruočullambi
+24085	Tuhkalambi
+24089	Pörčönlambi
+24094	Des’vonlambi
+24151	Šyrkälambi
+24175	Lužmolambi
+24185	Särgärvi
+24289	Kalatoilambi
+24534	Большое Лебяжье
+24534	Лебёжьё
+24579	Хабозеро
+24580	Хабозерко
+24581	Рагозеро
+24661	Уросъярви?
+24696	Карасозеро
+24723	Мельгозеро
+24754	Ровдозеро
+24759	Рудно
+24765	Скоморохово озерко
+24798	Ширяево
+24876	Паланьгское
+24876	Палонское
+24908	Юрочное
+24954	Курасово
+24966	Черчезерко
+24994	Саргозеро
+25010	Аниково
+25020	Сухое
+25024	Важнеозеро
+25041	Гарозеро
+25056	Долгое
+25058	Дубово озеро
+25087	Кивозеро
+25087	Кижозеро
+25103	Качкозеро
+25104	Лапотозеро
+25104	Лапотьозеро
+25105	Лапотозеро
+25114	Ливозерко
+25115	Либозеро
+25124	Малое озеро
+25125	Мельняк
+25171	Малое Пялозеро
+25173	Харагозеро
+25188	Скоморохи
+25226	Чоргозеро
+25244	Шолмозеро
+25256	Вехозеро
+25272	Палозеро
+25276	Падозеро
+25493	Terozenlambi
+25494	Tapparalambi
+25496	Kos’kizenlambi
+25497	Eländälambi
+25558	Ruumanniemenlambi
+25646	Боровое
+25671	Чергозеро
+25742	Redud’ar’v
+25769	Регозеро
+25823	Homselgändärvi
+25823	оз. Гомсельга
+25825	Lahndärv Tob’
+25825	Бол. Лангозеро
+25831	Lahndärvi pieni
+25831	Мал. Лагнозеро.
+25833	Mustlamb
+25833	Mustlambi
+25833	Mustulambi
+25833	Мустолампи
+25835	Särgilambi Tobie
+25835	Särglambi
+25835	Бол. Сярголампи
+25839	Tabarlambi
+25839	Tabarskoilambi
+25839	Tabarulambi
+25839	Tabaruoilambi
+25839	Табарлампи
+25842	Madarlambi
+25842	Madarulambi
+25842	Madožlambi
+25842	Мадалампи
+25845	Lobanallambi
+25845	Lobanlambi
+25845	Лобанламби
+25847	Pitklamb
+25847	Pitkulambi
+25850	Kaidlamb
+25850	Kaidulambi
+25850	Узкая-Лампи
+25851	Kokuoilambi
+25851	Кокойлампи
+25853	Тедралампи
+25855	Oškuddärv
+25855	Ошкуд
+25858	Pohd’lambi
+25858	Pohjulambi
+25858	Pohlambi
+25858	Похлампи
+25860	Sammallamb
+25860	Самалампи
+25861	Hal’därvi Yläine
+25861	Верхнее
+25863	Hal’därvi Alaine
+25863	Гальозеро
+25864	Mustlambi
+25867	Lindoilamb Pieni
+25867	Линдолампи Мал.
+25870	Вазарузлампи
+25870	Вазарукса
+25870	Телячье
+25871	Lindoilamb Tob’ (Suuri)
+25871	Линдолампи Бол.
+25872	Геболамби
+25875	Melliččylambi
+25875	Melničlamb
+25878	Рагуйлампи
+25879	Pit’klambi
+25879	оз. Долгая Лампи
+25882	Koverlamb
+25882	Koverolambi
+25882	Крюкламба
+25884	Suurdärv
+25886	Viidlamb
+25886	Viidulambi
+25886	Видлалампи
+25890	Angdärvi
+25890	Angiedärvi
+25890	Angudärvi
+25890	Ангозеро
+25917	Himoidlambi
+25917	Гимойлампи
+25918	Därvenagd’
+25918	Järvenagju
+25924	Лаголампи
+25950	Selgylambi
+25965	Matklambi
+25965	Матклампи
+25981	Šärglamb Pien’
+25995	Viiksärvi
+25995	Viikšarvi
+26010	Ristandärv
+26011	Alainedärvi
+26011	Alaizdärvi
+26011	Allaizdärvi
+26037	Kal’l’olambi
+26158	Madarlambi
+26158	Мадалампи
+26166	Suurdärv’
+26166	Tob’därv’
+26264	Pertgarvi
+26264	Пертозеро
+26299	Ližmärv’
+26299	Лижмозеро
+26307	Sordlamb
+26307	Сордолампи
+26342	Akimanlambi
+26342	Makšimanlambi
+26342	Акмаламби
+26357	Huablambi
+26371	Kalatoinelamb. Калатойнелампи
+26372	Särglamb
+26373	Habuklamb
+26373	Хабуклампи
+26377	Säynägdärvi
+26377	Синягозеро
+26387	Šäidämdärvi
+26389	Särglamb
+26389	Сярлмабина
+26399	Hämäglambit
+26399	Хямяго
+26407	Korblamb
+26407	Корбалампи
+26408	Redulamb Pien’
+26408	Редулампи
+26409	Redulamb tob’
+26409	Редулампи
+26412	Rugižlambi
+26412	Большая Ржаная Лампи
+26417	Видалампи
+26418	Утоковское
+26482	Čoramdärvi
+26482	Чором
+26531	Kaškuod’ärvi
+26531	Kaškuoijärvi
+26531	Кашкозеро
+26547	Randarvi
+26658	Valgedlambi
+26658	Белая Ламбушка
+26669	Видлампи
+26671	Kondeilambi
+26705	Akkelambi
+26705	Aklambi
+26706	Lötyilambi
+26707	Pyydyzdärvi Ala
+26708	Pyydysdärvi Ylä
+26709	Lehmälambit
+26710	Mustelambi
+26710	Mustoilambi
+26712	Majaglambi
+26713	Rispyldyslambi Ala
+26714	Rispyldyslambi Ylä
+26715	Piklambi Ala
+26715	Пихоламби
+26716	Pihlambi Ylä
+26716	Пихоламби
+26717	Dan’ukke
+26718	Alahainejärvi
+26718	Melliččajärvi
+26718	Melniččedärvi
+26718	Prokke Ala
+26718	Prokundˇärvi
+26718	Алагайнерви
+26719	Melliččedärvi
+26719	Prokke Ylä
+26720	Ristimägenlambi
+26722	Pleššilambit
+26723	Kiehkerlambi
+26723	Кехкерламби
+26727	Lidžmindärvi
+26727	Лижменское
+26735	Haiždärvi
+26803	Калотойне-ламба
+26904	Čurlambi
+26909	Koveranlambit
+26910	Sordolambi
+26911	Särdärvi
+26911	Särgärvi
+26920	Lahtenlambi
+26920	Čärniemenlambi
+26925	Kožovn’anlambi
+26925	Saralambi
+26929	Ulangolambit
+26930	Mustelambi
+26935	Ylälambi
+26935	Юлюламби
+26939	Ristanlambi
+26951	Čiirakkolambit
+26973	Törziilambit
+26973	Торжиламби
+27022	Ёлочная ламба
+27022	Ёлчеламба
+27022	Чёрная ламба
+27024	Ёлчеламба
+27024	Ёучеламба
+27024	Чёрная ламба
+27087	Имойламба
+27087	Тимойлампи
+27088	Гимойламба
+27088	Тимойлампи
+27089	Гимойламба
+27089	Имойламба
+27093	Северное Восозеро (карта)
+27095	Южное Восозеро (карта)
+27097	Ламба
+27097	Суналампи
+27098	Ламба
+27098	Маловороновская ламба
+27098	Суналампи (карта)
+27099	Маловороновская ламба
+27099	Суналампи
+27296	Kendärvend’är’v
+27296	Kent’därv’
+27296	Кончезеро
+27297	Kendärvend’är’v
+27297	Kenttijärvi
+27297	Kent’därv’
+27350	Koverlambi
+27353	Syvälamb
+27353	Syvälämbi
+27407	Heinaine
+27410	Kangazlambiine
+27414	Kr’uuklamb
+27455	Pikoilambiine
+27456	Pollamb
+27456	Pollambiine
+27516	Turuttai
+27516	Turuttajallamb
+27681	Havuklamb
+27681	Хабуклампи
+27743	Puad’där’v
+27744	Puad’där’v
+27809	Zaborjallamb
+27809	Ламба (Тюпега)
+27872	Pertärvi
+27872	Pirt’niemendär’v
+27895	Huodroilambi
+27895	Korblamb
+27895	Корбаламба
+27898	Huodroilamb
+27898	Korbilambi
+27923	Kartlamb
+27981	Huabd’är’v’
+27981	Габозеро
+27982	Huabd’ärv’
+27982	Huabend’o
+27982	Габозеро
+28024	Typpegenlamb
+28035	Tobd’lamb
+28036	Pien’lamb
+28046	Pertärvi
+28046	Pert’niemendär’v
+28046	Пертозеро
+28047	Pertärvi
+28060	Zaborjanlambi (в Чупе)
+28134	Kondiilambi
+28138	Siiglambit
+28149	Valgedlambi
+28150	Koverdärvi
+28151	Vuačinkondunlambi
+28159	Valgeddärvi
+28159	Белое озеро
+28180	Alahainedärvi
+28180	Melniččedärvi
+28180	Prokku Ala
+28180	Алагайнерви
+28195	Luamat’därvi
+28195	Luomatjärvi
+28195	Ламатозеро
+28201	Petkelambi
+28237	Hongd’är’v
+28237	Гонгоз
+28263	Lumlamb
+28293	N’iilamb
+28316	Peit’t’är’v
+28317	Pert’t’ar’v
+28337	Sambd’är’v
+28349	Šožma
+28349	Šožmand’är’v
+28349	Шожма
+28350	Šožmand’är’v
+28350	Шожма
+28375	Ahvoid’ärvi
+28375	Ahvuod’är’v
+28375	Ahvuud’är’v
+28375	Окунь
+28375	Окуньозеро
+28384	Čabl’and’är’v
+28444	Kiehrad’ärvi
+28444	Kiehrand’är’v
+28444	Крехозеро
+28449	Kirzamd’är’v
+28511	Novikuond’är’v
+28587	Шожма
+28598	Белое
+28642	Hangd’ärv
+28642	Хангозеро
+28643	Haudd’är’v
+28661	Kiäbd’ärvi
+28661	Киебушка
+28661	Кябозеро
+28691	Peidold’är’v
+28714	Mustd’är’v
+28714	Mustjärv’
+28714	Черное
+28721	Мягозеро
+28750	Melajärvi
+28804	Šivad
+28804	Šivad’är’v
+28839	Viheldod
+28839	Viheldund’är’v
+28839	Vihelduzd’är’v
+28839	Vikkel’där’v
+28839	Вигельдус
+28851	Нюховское
+28854	Yličpajad’är’v
+28885	Rugižd’är’v
+28946	S’uv’ad’arvut
+28946	S’yv’äd’är’v
+29376	Tuašland’ärvi
+29399	Каллиж
+29438	Ташкенское
+29488	Hodud’är’v
+29488	Ташкенское
+29502	Sagiland’är’v
+29502	Sagland’är’v
+29502	Согинское
+29538	Kostinand’är’v
+29538	Tuošland’är’v
+29538	Ташкенское
+29540	Tuašland’är’v
+29556	Vehd’är’v
+29556	Vehid’ärvi
+29556	Вехкозеро
+29596	Lupand’är’v
+29630	Kalližd’är’v
+29630	Каллехярви
+29630	Каллеярви
+29655	Kond’iand’är’v
+29655	Kon’d’d’ar’v
+29655	Медвежье
+29656	Kondiedärvi
+29676	Madald’är’v
+29676	Плоское
+29743	Сарозеро
+29901	Rizd’är’v
+29969	Ped’d’ärv
+29988	Pedaid’ar’v
+30013	Per’t’kär’gär¨v
+30023	Перзак
+30158	Sojär’
+30332	Верхнее озеро
+30396	Варгачное Корбозерское
+30416	Мягозеро Дорожное
+30432	Киозеро
+30448	Лаезеро
+30448	Лойозеро
+30451	Кудозеро
+30496	Ламбушка
+30497	Ламба
+30657	Худо
+30658	Чашкозеро
+30659	Чивчозеро
+30968	Черное озеро
+31067	Onashkasdärv
+31067	Onashkinoidedärv
+31067	Гузозеро
+31135	Верхняя ламба
+31136	Палдозеро
+31277	Kanguod’är’v
+31277	Kanguusuond’är’v
+31277	Конгозеро
+31332	Haršuud’är’v
+31341	Pinkuud’är’v
+31341	Pin’kud’ärvi
+31341	Pin’kuud’ärved
+31341	Пинкозеро
+31343	Red’d’ärvi
+31343	Реду
+31349	Жабозеро
+31373	Hir’vd’är’v
+31373	Хирвиярви
+31374	Хирвиярви
+31381	Kalgold’är’v
+31381	Kauklond’är’v
+31381	Калкозеро
+31381	Келкозеро
+31408	Lambasd’är’v
+31408	Овечьи
+31527	D’ärvensel’g
+31527	D’ärvysel’g
+31781	Hubakortezd’är’v
+31799	Кайо
+31853	Huba Kortezd’är’v
+31853	Большая Кортес-ламба
+31862	Kosd’är’v
+31862	Костель
+31863	Kud’ärvend’är’v
+31863	Лоянское
+31960	Pahad’är’v
+31960	Pahasd’ärv
+31960	Пагаярви
+32072	Undusd’är’v
+32072	Undused
+32072	Unduzd’ärved
+32131	Mägräddärvi
+32131	Мегрозеро
+32148	Рижное
+32160	Лоянское
+32163	Pagast’t’är’v
+32163	Лоянское
+32186	Annukd’är’v
+32190	Ташкенское
+32195	Kodid’är’v
+32195	Долгое
+32233	Глубокое
+32236	Чаром
+32261	Kard’aažend’är’v
+32261	Kard’aižend’är’v(i)
+32293	Karjaiženjärvi
+32293	Niemend’är’v
+32306	Čaunand’är’v
+32327	Верхнее
+32327	Верхнее Галлезеро
+32328	Gudkoi
+32328	Gutkoilamb
+32328	Gutkuoilambi
+32328	Гудкойлампи
+32329	D’oučenlamb
+32329	D’oučoilambi
+32329	D’oučuoilambi
+32329	Девчейлампи
+32343	D’ärvi
+32417	Uud’d’ärv
+32417	Uud’ärv
+32417	Урозеро
+32485	Mustlambi
+32491	Nuomoiland ’ärvi
+32491	Nuomoiland’ärv
+32491	Ukšjärvi
+32530	Pohpiehellambi
+32530	Pohpiellambi
+32561	Surlahtend’ärv
+32567	Surlambi
+32572	Surlahtend’ärv
+32572	Surmojand’ärv
+32589	Ugžd’ärv
+32589	Ukšt’ärv
+32589	Uukšt’ärv
+32589	Uuštt’ärv
+32589	Uužd’ärv
+32589	Укшозеро
+32626	Alaižaagd’and’ärvi
+32627	Enžimaine Puad’d’ärvi
+32627	Нижнее Падозеро
+32636	D’oučellambi
+32636	Девчойлампи
+32664	Kuivelambi
+32666	Laudelambi
+32666	Laudlambi
+32684	Muglazlambi
+32692	Mustelambi
+32692	Черное
+32694	Черное
+32695	Noroselge
+32700	Pohd’elambi
+32700	Пегллампи
+32730	Čed’želambi
+32730	Čeuželambi
+32730	Чапел
+32733	Valgedlambi
+32733	Valgeilambi
+32733	Valgiilambi
+32733	Белое
+32738	Viidand’ärvi
+32751	Toine Puad’d’ärvi
+32787	Doroglambi
+32889	Pol’ankoinaluste
+32929	Ahvellamb
+32929	Ahvellambi
+32953	Kangazlambi
+32960	Koivojallambi
+32964	Kovažd’ärv
+32991	Rand’d’ärv
+32994	Riipuzd’ärvi
+32995	Riižnazd’ärv
+32995	Рижное
+33040	Vuažalambid
+33040	Важаозера
+33065	Ahvenolallambi
+33072	Kiimilambi
+33074	Kondiilambi
+33079	Kyberlambi
+33122	Мельничан Ламби
+33123	Рандо Дярви
+33145	Лаг-ламба
+33206	Кодолампи
+33214	Kondiilamb
+33231	Lindulambit
+33231	linduoilambid
+33329	Padasa
+33376	Guiklambi
+33446	Pohd’anlambi
+33467	Huablamb
+33468	Kešklamb
+33468	Utukallamb
+33468	Utukand’ärv
+33474	Redulamb
+33477	Viidalamb
+33485	Lambiine
+33492	Rugižlamb
+33500	Alanelamb
+33503	D’ešullamb
+33553	Šittalambi
+33646	Kaidelambi
+33650	Mustelambi
+33673	D’yrgämmägellamb
+33673	Lambi
+33673	Pälärvenlammed
+33673	Пялозерская Лампи
+33705	Koivulambi
+33705	Койвулампи
+33706	Hitroilambi
+33706	Березовая Лампи
+33716	Hauglamb
+33716	Hayugilambi Enžimäini
+33717	Haugilambi Toine
+33717	Hauglamb
+33730	Huablambi
+33731	Karvakokoillambi
+33731	Kokoilambi
+33731	Карукокой Лампи
+33732	Pit’klambi
+33733	Kandarehlamb
+33735	Viikšar’v
+33736	Kuivd’är’v
+33739	Melliččlambi
+33739	Кудьзюлампи
+33744	D’uralambi
+33744	Дюри
+33747	Hokallambi
+33747	Гонгилампи
+33749	Kondžoilambi
+33749	Конджелампи
+33750	Кангаслампи
+33757	Мюрюс
+33761	Вихондлампи
+33785	Kirvezlambit
+33805	Heinlämbi
+33808	Koivoarallambi
+33818	Luokillambi
+33819	Marfallambi
+33822	Rod’ukallambi
+33825	Suarid’ärvi
+33827	Sydällambi
+33828	Šuvalambi
+33828	Šyväšogalambi
+33829	Valgedlambi
+33830	Vašilambi
+33830	Vaškilambi
+33833	Huadžulambi
+33838	Hebozdärv
+33838	Hebärv
+33905	D’oučellambi
+33932	Тухтолампи
+34001	Pert’lamb
+34006	Rokolamb
+34006	Роколампи
+34011	Sund’ärv
+34011	Suunund’ärvi
+34011	Сундозеро
+34031	Heinlamb
+34039	D’oučenlamb
+34039	Лебединые Лампи
+34064	Lohilamb
+34064	Логилампи
+34067	Mustjärv?
+34067	Муталампи
+34100	Šiäkšlamb
+34192	Päl’ärv
+34240	Ruoglambi
+34240	Руоколампи
+34300	Viäčärv
+34315	Ругозеро
+34316	Kiviselgänlambi
+34328	Kiviselgänlambi
+34330	Naud’ärv
+34330	Навдозеро
+34340	Mustlamb
+34404	Rebolambi
+34404	Ребалампи
+34405	Куоккалампи
+34405	Окунево
+34406	Каллиева Лампи
+34407	Midreilamb
+34407	Midrillamb
+34407	Митрей-Лампи
+34409	Кивилампи
+34410	Ligalamb
+34410	Лиялампи
+34414	Pit’klamb
+34415	Lavalamb
+34440	D’äniššelgällambi
+34440	D’änoždärv
+34440	Яниш
+34447	Kodalamb
+34452	Лосетавалампи
+34457	Lavasuollambi
+34463	Mustalamb
+34464	Mustansuarellambi
+34468	Паалампи
+34469	Peldožellamb
+34472	Puusuollambi
+34474	Rede
+34474	Реда
+34490	Šärglamb
+34490	Шаргилампи
+34503	Анги
+34513	Okšatlambi
+34513	Ояламби
+34514	Tedruoilambi
+34563	Lužme
+34563	Лужма
+34579	Suosilmäd
+34697	Koverjärv
+34700	Гошкеярви
+34701	Pieni Kover
+34702	Šitlambi
+34703	Soržjärvi
+34703	Šord’järvi
+34704	Haud’järvi
+34704	Холтъярви
+34711	Šord’järvi
+34751	Valgeilambi
+34752	Mustelambi
+34755	Laudlambi
+34775	Haugijärvi
+34775	Щучье озеро
+34796	Hiižarvi
+34804	Mustalambi?
+34804	Mustepaskuoijärvi
+34805	Valgeilambi?
+34805	Valgeipaskulambi
+34808	Kaidijärvi
+34810	Pyöryžlambi
+34831	Hristjananlambi
+34847	Гимойламба
+34851	D’oučellambi
+34851	Ёучеламба
+34876	Суналамба
+34881	Voidärv Pohd’aine
+34882	Voidärv Suvine
+34913	Kaidlamb
+34913	Узкая Ламба
+34920	Kešklamb
+34920	Среднее
+34926	Lamb
+34938	Pit’klamb
+34938	Долгая Ламба
+34947	Sandal
+34947	Sandaland’ärv
+34947	Сандал
+34958	Ahvenlambid
+34989	Kločoillamb
+34989	Клочон-ламба
+35057	Stihoolambid
+35222	Vehkuolamb
+35288	Бездонное Болото
+35736	Ко́рмило
+36545	Деревенская Ламбушка
+36640	Nivalamb
+36675	Mägrädjärvi
+36750	Аннук
+36798	Hierunjärvi
+36798	Omajärvi
+36801	Hierunjärvi
+36829	Laadogandärvi
+36848	Kaijanpää
+36870	Saarijärvi
+37052	Sorbolandärvi
+37272	Priäžändärvi
+37294	Šan’gimändärvi
+37294	Šan’gimänjärvi
+37294	Шаньгима
+37301	Koverlambi
+37301	Ковера-лампи
+37303	Loginandärvi
+37317	Rajavanlambi
+37322	Kalijärvi
+37324	Lepistönlambi
+37328	Ongimuksendärvi
+37328	Ongimuksenjärvi
+37374	Saarijärvi
+37388	Fadijärvi
+37400	Kad’därvi
+37400	Keddärvi
+37402	Kad’d’ärvi
+37402	Keddärvi
+37407	Pertidärvi
+37407	Perttidärvi
+37432	Mukallammit
+37466	Ahvendärvi
+37511	Huoslambi
+37519	Kalajärvi
+37519	Kalid’ärvi
+37586	Kaugoidärvi
+37623	Kohtijärvi
+37628	Niinijärvi
+37630	Suurijärvi
+37632	Niinijärvi pieni
+37635	Pienijärvi
+37636	Valgiejärvi
+37639	Ängerijärvi
+37641	Iänimänjärvi
+37662	Kinärvi
+37680	Nouzemandärvi
+37680	Nouzemdärvi
+37680	Novzemand’ärvi
+37680	Novzemdärvi
+37680	Новземское, Новзима, Новзимское, Навзимское, Новоземское
+37738	Madratjärvi
+37862	Pohdatoilambi
+38032	Pohjupia
+38074	Piččupia
+38166	Сяргозеро
+38181	Мильняг
+38184	Ширеево
+38198	Кулмозеро
+38215	Киозеро
+38218	Озерко
+38237	Долгозеро
+38278	Вирозеро
+38283	Кучкозеро
+38294	Долгое
+38305	Равдозеро
+38330	Лесное
+38360	Лемгино
+38360	Лемтино
+38360	Ленгино
+38384	Гаргозеро
+38387	Чертизерко
+38392	Мягозеро Подгорное
+38406	Мягозеро
+38461	Райдозеро
+38475	Ижозеро
+38530	Райдозерко
+38553	Карасозерко
+38555	Курасовские Рога
+38676	Матсарское озеро
+38677	Малоё
+38719	Роньжозеро
+38720	Ронжозеро
+38791	Тергозеро
+38791	Чергозеро
+38792	Кильозеро
+38828	Частезеро
+38828	Чащево
+38829	Частёво
+38829	Чащево
+38830	Частезеро
+38830	Частёво
+38846	Большое
+38868	Кореньговатое
+39031	Голюшозеро Среднее
+39226	Лучебник
+39953	Бол. и Мал. Болтинько
+40514	Лейбозеро
+40515	Лейбушкозеро
+40738	Могжозеро
+40752	Пайозеро
+40888	Тавасозеро
+40933	Айранне
+40971	Гак
+40972	Гакозеро
+40975	Хюмпёлянъярви
+41071	Ляппяярви
+41091	Кармаланъярви
+41096	Мариланлампи
+41157	Мурмозеро
+41249	Хелмиярви
+41315	Саниково
+41627	Чепшезеро
+41675	Кукшезеро
+41689	Мойсеево
+41799	Новгудозеро
+41800	Ноугудозеро
+41827	Лебяжье
+41843	Кукшозеро
+42727	Купецкое
+42934	Большо Боровое
+43064	Борово
+43539	Укшезеро
+43557	Таласозерко
+43591	Куккозеро
+43592	Куккозерко
+43599	Лебяжье
+43600	Лебединое
+43672	Карьязъярви
+43676	Särgärvi
+43683	Куккозеро
+43684	Vieljärven Särgärvi
+43684	Вялдсяренъярви
+43689	Oravujärvi
+43703	Oravujärvi
+43792	Koirolambi
+43792	Koironlambi
+43801	Nälmärvi
+43806	Kainaizjärvi
+43820	Ojarvi
+43937	Somaddärvi
+44024	Pitkylambi
+44025	Pörzulambi
+44082	Suar’lambi
+44116	Vield’ärvi
+44128	Kin’älahtend’ärvi
+44204	Lehmoilambi
+44214	Salojärvi
+44214	Suarijärvi
+44214	Suojärvi
+44214	Suol’järvi
+44215	Tyrymyzdärvi
+44254	Heinylambi
+44255	Valgei Heinylambi
+44265	Suojärvi
+44265	Suol’järvi
+44266	Suarijärvi
+44266	Suol’järvi
+44267	Valgeidärvi
+44269	Varoilambi
+44272	Mustulambi Pieni
+44273	Mustulambi Suuri
+44274	Pomastanlambi
+44282	Mustudärvi
+44290	Kangasjärvi
+44323	? Pamastujärvi
+44364	Muižarvi
+44364	Mužärvi
+44365	Ahvoilambi
+44380	Ahvenlambi
+44411	Valgeijärvi
+44412	Riäpäčynlambi
+44415	Muštulambi
+44416	? Čomulambi
+44417	Čougolammit
+44417	Čougulammit
+44418	Hannilambi
+44420	Anninlambi
+44438	Ladvulambi
+44478	Hebolambi
+44478	Valgeilambi
+44482	Kahtetlammit
+44482	Čougolammit
+44494	Šaraluhtu
+44577	Lambine
+44611	Suarijärvi
+44611	Suol’järvi
+44627	Puavoinakku
+44681	Vaimussijärvi
+44681	Vaimučči
+44758	Нигижемское
+44838	Hiižari
+44838	Hiižarvenjärvi
+44838	Hiižarvi
+44845	Gappamus
+44845	Happamusjärvi
+44860	Kuikoilambi
+44861	Kormelistonlambi
+44864	Lepistönlambi
+44933	Bokinjärvi
+44933	Bokkinjärvi
+44967	Нигижемское
+44973	Рандоозеро
+45076	Саниковское
+45107	Корчагинское
+45108	Карельское
+45108	Корчагино
+45156	Kaččilanlambi
+45156	Kaččilu
+45294	Суоенлампи
+45301	Вехкалампи
+45355	Хулконлампи
+45361	Токолампи
+45386	Уолевилампи
+45404	Кельелампи
+45415	Ладожское озеро
+45431	оз. Глухое
+45442	Силеялампи
+45460	Мусталампи
+45495	Рюекялампи
+45501	Риутталампи
+45524	Лавансельга
+45527	Pšulambi
+45542	Katičču
+45543	Katičču
+45613	Čikkilambi
+45850	Ахтозеро
+45853	Alajoutangi
+45860	Valkielampi
+45901	Isakkalalampi
+45923	Kellä
+45955	Korppijärvi
+45987	Malvisenjärvi
+46076	Ylä Joutanki
+46092	Syvälampi
+46099	Töppini
+46102	Čikšajärvi
+46147	Hantajärvi
+46150	Keskimäjärvi Pieni Keskimäjärvi Suuri Keskimäjärvi
+47540	Omajärvi
+47597	Niäpičanjärvi
+47597	Näpičänjärvi
+47619	Pertjärvi
+47619	Pertozero
+47640	Ad’järvi
+47643	Kaidulambi
+47658	Šogajärvi
+47658	Šogozero
+47658	Шогарви
+47708	Крошнозеро
+47720	Särgilambi
+47720	Särgjärvi
+47720	Sär’järvi
+47748	Vaimučči
+47754	Vihtoijärvi
+47754	Viuhtoinjärvi
+47791	Happamus
+47791	Happamusjärvi
+47799	Hiizarvenjärvi
+47799	Hiižarvenjärvi
+47946	Niilambi
+47951	Nilärvi
+47960	Luokkalambi
+47999	Čikkilambi
+48280	Linnud’ärvi
+48280	Lintud’ärvi
+48308	Tohtazd’ärv
+48308	Векколалахти
+48309	Peizd’arv
+48311	Kimuselläd’ärvi
+48313	Valgeid’arvi
+48314	Pyhäd’ärvi
+48315	Sändämänd’arv
+48318	Kalid’arv
+48318	Kalid’arvi
+48319	Kyländ’ärvi
+48327	Soarimägend’ärvi
+48345	Ked’d’ärv
+48366	Kin’ärv
+48366	Kin’ärvi
+48382	Uurad’d’ärvi
+48423	Хонго
+48429	Kanambrod’arvi
+48430	Pert’t’arv
+48436	Ongimusd’arvi
+48442	Lambisensellänlambi
+48448	Kal’l’ärvi
+48478	Lahtazd’arv
+48484	Sändämä
+48484	Sändämäd’arv
+48485	Mudajärv
+48486	Särgid’arv
+48514	Niiselländ’arvi
+48516	Ärz’arvi
+48518	Ridd’arvi
+48521	Havvatselländ’arvi
+48522	Puskuselländ’arvi
+48523	Somed’d’arvi
+48524	Ižž’arvi
+48526	Uut’t’arvi
+48527	Jelkenlamb
+48528	Villaland’arvi
+48558	Lummazd’arvi
+48561	Nouzemand’arvi
+48565	Ahvend’arvi
+48565	Агвинярви
+48606	Муромское
+48606	Пречистинское
+48627	Нигижемское
+48677	Горское
+48677	Пелтозеро
+48677	Якушевское
+49009	Дальнее
+49012	Долгое
+49012	Долгое Озеро
+49091	Авдеевское
+49093	Тягозь
+49095	Тубозеро
+49309	Бездонное озерко
+49634	Ровкозеро Северное
+49881	Южное
+49934	Нурмозеро
+49935	Мурмозеро
+50008	Linnud’ärvi
+50008	Lintud’ärvi
+50036	Tohtazd’ärv
+50036	Векколалахти
+50037	Peizd’arv
+50039	Kimuselläd’ärvi
+50041	Valgeid’arvi
+50042	Pyhäd’ärvi
+50043	Sändämänd’arv
+50046	Kalid’arv
+50046	Kalid’arvi
+50047	Kyländ’ärvi
+50055	Soarimägend’ärvi
+50073	Ked’d’ärv
+50094	Kin’ärv
+50094	Kin’ärvi
+50110	Uurad’d’ärvi
+50151	Хонго
+50157	Kanambrod’arvi
+50158	Pert’t’arv
+50164	Ongimusd’arvi
+50170	Lambisensellänlambi
+50176	Kal’l’ärvi
+50206	Lahtazd’arv
+50212	Sändämä
+50212	Sändämäd’arv
+50213	Mudajärv
+50214	Särgid’arv
+50242	Niiselländ’arvi
+50244	Ärz’arvi
+50246	Ridd’arvi
+50249	Havvatselländ’arvi
+50250	Puskuselländ’arvi
+50251	Somed’d’arvi
+50252	Ižž’arvi
+50254	Uut’t’arvi
+50255	Jelkenlamb
+50256	Villaland’arvi
+50286	Lummazd’arvi
+50289	Nouzemand’arvi
+50293	Ahvend’arvi
+50293	Ahvenjärvi
+50334	Муромское
+50334	Пречистинское
+50355	Нигижемское
+50405	Горское
+50405	Пелтозеро
+50405	Якушевское
+50712	Келкозеро
+50712	Телгозеро
+50788	Харютинское
+50807	Андозерское
+50846	Солмас
+50847	Филинка
+50852	Куфтея
+50852	Куфтийка
+50865	Карасье
+50866	Белое
+50877	Кутусово
+50877	Кутусовское
+50949	Дмитровка
+50960	Погостское
+50970	Бекреневское
+50970	Колдамо
+51129	Дмитрово
+51437	Ухтомярское
+51442	Телькозеро
+51538	Переднее
+51539	Первое
+51745	Суоенлампи
+51752	Вехкалампи
+51806	Хулконлампи
+51812	Токолампи
+51837	Уолевилампи
+51855	Кельелампи
+51866	Ладожское озеро
+51882	оз. Глухое
+51893	Силеялампи
+51911	Мусталампи
+51946	Рюекялампи
+51952	Риутталампи
+52045	Pohjalambi
+52069	Hiižijärvi
+52108	Valkieizjärvi
+52238	Norvajärvi
+52239	Matkajärvet
+52240	Шаали
+52240	Шаль
+52282	Pappilalambi
+52283	Papinlambi
+52294	Norva
+52299	Matkat
+52301	Лебединое озеро
+52302	Средняя Матка
+52304	Suarijärvi
+52304	Шаали
+52315	Mualijärvi
+52316	Мальва
+52361	Pohjalampi
+52394	Valkieisjärvi
+52805	Све́тла ламбина
+52963	Га́рье
+53227	оз. Новинское
+53228	оз. Линдоярви
+53232	Riidlambi
+53232	Ридламби
+53234	Lumatjärvi, Lumadjärvi, Lumaddärvendärvi
+53235	Lumaddärvi
+53236	Riidulambi
+53237	Čond’žoijärvi
+53238	Ченжекескозеро
+53241	Ченжекескозеро
+53246	Jeusinlambi
+53247	Евсиламби
+53252	Кавгоярви
+53255	Valgeilambi
+53258	Ladvijärvi
+53258	Ladvujärvi
+53259	Ladvijärvi
+53259	Ладва
+53276	Omel’l’anlambi
+53280	Uradlambi, Ur’atlambi
+53285	Palolambi
+53286	Палоламби
+53287	*Syvä Kaidulambi
+53288	*Kurgilambi
+53289	*Madallambi
+53290	Regamoilambi
+53292	Каскесъярви
+53294	Ur’atlambi, Урядламби
+53295	Нииттуламби
+53296	Niittülambi
+53298	Pehkolambi
+53299	Пехкуламби
+53307	Heinijärvi
+53307	Heinülambi
+53308	Heinijärvi
+53308	Хейнуламби
+53309	Torasjärvi, Torazdärvi
+53310	Torazdärvi, Torasjärvenjärvi
+53310	Торосозеро
+53314	Mustulambi
+53315	Мусталамби
+53316	Vehtozero
+53317	Вехтозеро
+53318	Palolambi
+53319	Палоламби
+53319	Пололамби
+53320	Suojärvi, Suolambi
+53324	Suar’mäinlambi
+53329	Valgeijärvi
+53331	Белое
+53342	Koverlambi
+53376	Kuadiilambi
+53381	Коветламби
+53384	Ojajärvi
+53384	Ojärvi
+53386	Ojajärvi
+53386	Оярви
+53388	Heinülambi
+53425	Kovera
+53425	Koveranlambi
+53425	Koveri
+53425	Koverlambi
+53425	Kovero
+53426	Kovera
+53426	Koveri
+53426	Koverlambi
+53426	Kovero
+53426	Ковер
+53467	Villalanjärvi
+53468	Виллалское
+53469	Kotkaddärvi
+53469	Kotkadjärvi
+53469	Kotkatjärvi
+53470	Kotkaddärvi
+53470	Kotkadjärvi
+53470	Коткозеро
+53471	U(u)tärvi
+53471	Uutjärvi
+53471	Uutärvenjärvi
+53472	U(u)tärvi
+53472	Uutärvenjärvi
+53472	Утозеро
+53500	Kuadiilambi
+53500	Куаделамби
+53518	Uradlambi
+53518	Урядламби
+53519	Емельяново
+53520	Сювя-Кайдламби
+53525	Кургиламби
+53529	Мадауламби
+53530	Suolambi
+53530	Суярви
+53614	Hoilambi
+53614	Hoilampi
+53614	Гойламба
+53615	Hoilampi
+53615	Гойламби, Гойламба
+53691	Fadilan Kaidulambi
+53693	Majalambi, Mailambi
+53694	Маяйламби
+53695	Suarijärvi
+53696	Суариярви
+53703	Valgeijärvi
+53704	Белое
+53720	Tedrilambi, Tedrulambi
+53721	Tedrulambi
+53721	Тедерламби
+53725	Lohkolambi
+53726	Локоламби
+53731	Kalatoijärvi
+53732	Калатайярви
+53735	Kaidulambi
+53736	Кайдуламби
+53758	Mägräddärvi, Mägrätjärvi
+53758	Мегро-Озеро, Мегр-озеро, Мягрозеро
+53759	Мегрозеро, Мегро-Озеро, Мегр-озеро, Мягрозеро
+53818	Валгиламби
+53819	Čil’mitjärvi, Čil’miijärvi, Čil’minjärvi
+53819	Чильмозеро, Челмозеро
+53820	Čil’miijärvi, Čil’minjärvi
+53820	Чилмозеро, Чильмозеро, Челмозеро
+53877	Hebolambi
+53878	Хеболамби
+53879	Joučenlambi
+53880	Евченламби
+53883	Фодила-Кайдуламби
+53887	Эйнуламби
+53968	Tuomijärvi
+53969	Туомиярви
+53970	Valgeijärvi
+53971	Валгеярве
+54001	Sorbol
+54002	Сорбала
+54024	Mustulambi
+54025	Kiimusellänjärvi
+54026	Кимусельгское
+54027	Pyhäjärvi
+54028	Пюгяярви
+54034	Kalijärvi
+54035	Коллярви, Калльярви
+54047	Niisellänjärvi
+54048	Нинисельгское
+54054	Sometinjärvi, Sometjärvi, Somettijärvi, Someddärvi
+54054	Сометъярви
+54055	Sometjärvi, Somettijärvi, Someddärvi
+54055	Сометярви, Сометъярви
+54058	Tu(u)losjärvi
+54058	Тулосъярви
+54059	Тулосозеро
+54059	Тулосъярви
+54060	Puskujärvi
+54061	Пускуярви
+54065	Arzijärvi
+54066	Ирзиярви
+54069	Peizjärvi
+54070	Пейзиярви
+54073	Suojärvi
+54074	Суярви
+54075	Mudajärvi, Mudažinjärvi
+54076	Mudažinjärvi
+54076	Мудоярви
+54079	Ahvoilambi
+54080	Ахвейламби
+54083	Soŋgoijärvi
+54084	Сонгое
+54087	Lambero, Lamberonjärvi
+54088	Lamberonjärvi
+54088	Ламбера
+54094	Kohtjärvi
+54095	Кохтинское
+54135	Lindudärvet
+54136	Линдоя
+54153	Külüjärvi
+54154	Кюлюярви
+54155	Sändämänjärvi
+54156	Сяндебское
+54164	Tenhu(n)järvi
+54165	Тенгусельга
+54166	Kaŋgasjärvi
+54167	Конгозъярви
+54171	Lemijärvi
+54172	Лемозеро
+54176	Pühäjärvi
+54176	Постное озеро, Святое озеро, Голубое озеро
+54177	Пигаярви, Постное озеро, Святое озеро, Голубое озеро
+54178	Kalajärvi
+54179	Рыбное
+54182	Žilčoinjärvi
+54183	Новинское
+54186	Särgijärvi
+54187	Сяргиярви
+54188	Pitküjärvi
+54189	Питкоярви
+54204	Nouzemdärvi, Nouzemandärvi, Nouzemanjärvi, Nouzemudärvi
+54204	Новземское, Новзима, Новзимское, Навзимское
+54231	Kiäbändär’v, Kiäbd’ärvi
+54231	Киебушка
+54232	Kodid’är’v
+54232	Kodijärvi
+54234	Mägid’är’v, Mägräddärvi
+54236	Hangd’ärv, Hangad’är’v
+54241	Kividär’v
+54243	Lepd’är’v, Leppäd’är’v, Lebdärv
+54246	Madalajärvi, Madald’är’v
+54247	Kalližd’är’v, Kal’l’ehd’är’v
+54247	Каллехярви
+54249	Suard’ärvi
+54250	Sagiland’är’v, Sagland’är’v, Sagilanjärvi
+54252	Kud’ärvend’är’v, Kujärvend’är’v
+54254	Vehd’är’v, Vehid’ärvi, Vehkd’är’v
+54264	Meid’ed’ärvi
+54307	Kalgold’är’v, Kauklond’är’v, Kaukold’ärv
+54307	Калкозеро
+54309	Undusend’ärved, Undused, Undusd’är’v, Unduzd’ärved
+54309	Уннуксатские озёра
+54311	Annukki
+54406	Karnižjärvi
+54407	Карниж
+54478	Vaugedd’är’v
+54683	Undused, Undusd’är’v, Unduzd’ärved
+54683	Уннуксат, Уннуксатские озёра
+54684	Kordär’v, Korbdär’v
+54817	Шоролужско
+54990	Пойдомско
+55020	Гнездовая Ламбина
+55022	Мурашев
+55067	Большая Яголамба
+55067	Большая Яголамбина
+55264	Kavadjärvi
+55265	Кавадъярви
+55280	Ламбушка
+55288	Латвалимпи
+55291	Онгйлампи
+55310	Кайтаярви
+55370	Tulomdjärvi
+55448	Ahvenlambi
+55479	Сольярви
+55482	Кадаламби
+55486	Pehuslambi
+55487	Пехус
+55631	Тулмозеро
+55652	Напичъярви
+55686	Туркалампи
+55689	Särgijärvi
+55689	Vieljärven Särgärvi
+55708	Vieljärvi
+55709	Ведлозеро
+55752	Солъярви
+56053	Vadasalmi
+56054	Лувозеро
+56215	Га́бозеро
+56217	Северное Ча́позеро
+56497	Топозеро
+56498	Tuoppajärvi
+56643	Мустламби
+3	Pahag’ärv
+12	Pohjatomg’är’f
+23	Pitkülambi
+37	Čorg’är’f
+38	Kodalambi
+43	Viel’järvenvalgamo
+50	Курбозеро
+60	Rogjär’v
+64	Šoudjärv
+75	Pert’g’är’v
+89	Корытово
+91	Šund’är’v sur’
+161	Корбозеро
+174	Suolambi
+178	Kangazg’är’v
+185	Лимбозеро
+187	Pondag’är’v
+209	Tuulasjärvenvalgamo
+214	Sur’g’är’f
+222	Lumbahg’är’v
+276	Ivadg’är’v
+311	Sernatjärv
+315	Šalg’är’v
+317	Titjär’v
+329	D’er’oon’jär’v
+357	S’änkäg’är’v
+373	Mudar’v
+406	Vouktarvut
+415	Hebojär’v sur’
+426	Meijänrandu
+455	Vauktain’eg’ärvut
+458	Pihär’
+468	Vähärjarv
+471	Ближнее озеро
+475	Grigd’ärvut
+482	Plotinanrandu
+508	Pen’gär’v
+519	Kodirandu
+520	Hir’jär’v
+528	Большое озеро
+529	Vähär’
+533	Пажемское озеро
+574	Habg’är’v sur’
+583	Perevozniig’är’v
+584	Укошельские ламбы
+626	Gagar’järveet
+645	Sägär’(v)
+647	Siidjär’v
+654	Sagažd’är’f
+656	Pärjär’v
+672	Hebolambi
+677	Paks’ar’v
+680	Černeckiig’är’f
+701	Mustg’är’v
+725	Čikjär’v
+726	Lukinjärvi
+738	Kil’arv
+751	Suuri Čuurulambi
+759	Alan’edärvi
+763	Pehkoijär’v
+764	Мунозеро
+794	Poh’g’ätomg’ärvut
+795	Керака
+806	Katkazg’är’v
+830	Määt’jär’v
+838	Pičuin’e sepatg’är’v
+841	Kurčanlambi
+848	Mit’unvalgamo
+872	Šärkilampi
+896	Nikanorjär’v
+910	Pal’ar’v’
+912	Sojär’v
+937	Корытовское озеро
+949	Пичемское озеро
+965	Eitg’är’f
+966	Natg’är’f
+978	Sokol
+992	Veht’jär’v
+1016	Bojär’v
+1027	Emajär’v
+1092	Hil’jär’v
+1098	Valgeipesku
+1111	Sar’g’är’f
+1130	Lad’jär’v
+1134	Petar’v’
+1175	Haadsojär’v
+1184	Šid’jär’jär’v
+1188	Кемское озеро
+1189	Ojärvi
+1221	Mežer’g’är’f
+1251	Pang’är’v(ut)
+1300	Lamang’är’v
+1321	Vaugedg’är’v
+1369	Pert’k’är’(v)
+1376	Puskujärvi
+1381	Än’järv
+1384	Niemi
+1388	Majakg’är’v
+1404	Niemenrandu
+1424	Itačg’är’v
+1433	Kon’d’jär’v
+1445	Bušakjär’v
+1461	Iand’är’v
+1479	Kehrag’är’f
+1483	Ahnog’är’v
+1491	Čur’g’är’f
+1503	Pečoijär’v
+1514	Варешозеро
+1547	Poh’g’ätond’är’f
+1560	Куйкозеро
+1564	Niisel’l’anjärvi
+1582	S’üväg’är’f
+1587	Мунозеро
+1601	Hibjoiljär’v
+1608	Säggärv
+1614	Säng’är’v
+1642	Лопозеро
+1644	Vojar
+1672	Väl’här’v
+1714	Vastg’är’v
+1766	Kond’är’v
+1801	Küläjär’v
+1807	Šidär’v
+1819	Čaigjär’v
+1821	Lahnjarvut
+1825	Šižlikd’är’f sur’
+1828	Калезеро
+1829	Tagičjär’v
+1840	Ukog’är’v
+1841	Levotlambi
+1885	Muske(d)d’är’f
+1899	Čumoilambi
+1913	Ičemoijär’v
+1926	Pagastjär’v
+1927	Platang’är’v
+1951	Kähkjär’v
+1958	Sur’ ves’tjär’v
+1968	Kivijär’v
+1995	Ojajärvi
+2003	Azam’jär’v
+2014	Vougedjärv
+2017	Čuurulambi
+2103	Sondärv
+2117	Buukuč
+2143	Sijär’v
+2155	Čotčoilanlambi
+2186	Kaitg’är’f
+2199	Časounulambi
+2225	Tutikjär’v
+2244	Šil’td’är’f
+2262	Filistjär’v
+2311	Ламба
+2312	Oks’ar’v
+2320	Пижайка
+2344	Ahvenlambi
+2353	Süväpiä
+2365	Lojad’jär’v
+2373	Полевское озеро
+2383	Керацкое озеро
+2384	St’opananjärvi
+2387	Pelajär’v
+2391	Iit’g’är’f
+2395	Kirvezg’ärvut
+2437	Denisd’är’f
+2448	Kaidag’är’f
+2484	Глазники
+2492	Sugang’är’v
+2498	Куначель
+2503	Маткозеро
+2571	Šoudar’v
+2572	Mel’n’icg’är’f
+2580	Harakkumäinjärvi
+2631	Sokolg’är’v
+2658	Pühittäjänlambi
+2698	S’epatg’är’f
+2715	Jalleinejär’v
+2720	Pitkäjärvi
+2722	Fedolambi
+2737	Mudačuppu
+2739	Lapajär’v
+2745	Levdolambi
+2750	Выласконское озеро
+2765	Ганозеро
+2766	Кемское озеро
+2769	D’oučenlambi
+2773	Ярбозеро
+2792	Habg’är’v pen’
+2822	Haagjär’v
+2823	L’ed’jär’v
+2830	Redujär’v
+2832	Sod’jär’vjär’v
+2856	Kiškin
+2886	Orehg’är’f
+2901	Šar’g’äg’är’v
+2915	Platan
+2920	Ändär’v’
+2931	Morg’är’f
+2966	Sidg’är’v
+3055	Римбозеро
+3105	Коткиламби
+3107	Jär’v
+3143	Sepänvuaranjärvi
+3155	Koverjärveet
+3181	Šakšanlammit
+3192	Outong’ärf
+3208	Ištumg’är’v
+3220	Pieni Čuurulambi
+3234	Sod’jär’v
+3244	Hüöhpil
+3252	Ukoijär’v
+3264	Vougedd’är’f
+3285	Ičemoijär’v
+3291	Ojalambi
+3318	Kezrag’är’f
+3345	Oz’orkad
+3356	Kodar’
+3387	Lidnag’är’v
+3399	Pužag’är’v
+3413	Štaingär’v
+3427	Каргач
+3447	Jokšar’v
+3450	Keitg’är’v
+3451	Hebojär’v
+3486	Kurikjär’v
+3518	Дальнее озеро
+3541	Šižlikd’ärvut pen’
+3546	Варежозеро
+3553	Sambajär’v
+3564	Heinädärvi
+3570	Koverič
+3592	Vaagedjär’v
+3616	Kur’bjär’v
+3621	Hebojär’v mučuin’e
+3632	Joosar’
+3638	Mätazg’är’f
+3647	D’uusarvi
+3661	Sar’järv
+3663	El’musd’ärvi
+3688	Jokšar’v
+3693	Kangas
+3716	Вареж
+3723	Natkg’är’v
+3734	Vaskg’är’v
+3745	Mučuin’e (pen’) ves’tjär’v
+3748	Šund’är’v mučuin’e
+3759	Pet’t’ar’v
+3764	Пельга
+3793	Kondusd’är’f
+3842	P’ädažg’är’v
+3860	Lood’jär’v
+3884	Gagar’jär’v
+3894	Vihkang’är’v
+3906	Hernohd’är’f
+3918	Jub’enijär’v
+3948	Čikjär’v
+3960	Pečoijär’v
+3994	Abuodärvi
+3997	Koivulammit
+4001	Vironlambi
+4012	Pal’miko
+4013	Selišg’är’f
+4042	Tihverinjärvi
+4194	Канчезеро
+4199	Клёпозеро
+4221	Нижнее Контозеро
+4641	Пилгозеро
+4642	Пивозеро
+4708	Контозеро
+4709	Коткиламба
+4771	Верхнозеро
+4775	Гахкозеро
+4793	Канчезеро
+4800	Клёпозеро
+4802	Гахкозеро
+4805	Глубокое озеро
+4817	Дегтьозеро
+4839	Кузнецкая Ламба
+4853	Зимнее озеро
+4871	Куйкозеро
+4915	Матвеево озеро
+4923	Маткозеро
+4931	Нижнее Канчозеро
+4936	Озёрко
+4971	Руйзеро
+5032	Корехозеро
+5037	Корехозеро
+5048	Хмельозеро
+5049	Хмельозеро
+5052	Корехозеро
+5084	Ругозеро
+5202	Палтегское озеро
+5227	Шидрозеро
+5234	Саврозеро
+5253	Абрамковское озеро
+5392	Шадрово озеро
+5408	Якорьлядинское озеро
+5505	Керакское озеро
+5559	Калозеро
+5628	Чёлозеро
+5638	Шумячая Ламба
+5719	Святуха
+5802	Белое озерко
+5832	Ковкозеро
+5861	Палозеро
+5867	Рябовские озера
+5883	Космозеро
+5972	Решетчатое озерко
+6010	Ламба
+6012	Глухое озеро
+6062	Палозеро
+6071	Решетово
+6162	Куйкозеро
+6242	Глухое
+6269	Сайдозеро
+6278	Сяргозеро
+6282	Hidniemendärvi
+6292	Syrdändärvi
+6293	Tuaškolandärvi
+6299	Kondiedärvi
+6394	Kividär’v
+6402	Kordär’v
+6435	Pajad’är’v
+6493	Ужельное озеро
+6509	Писецкое озеро
+6516	Среднее озеро
+6704	Hodod’ärv
+6718	Бездонное Озерко
+6782	Остречевское озерко
+6852	Белохинское озеро
+6906	L’ötyyd’ärv
+6932	Joučandärved
+6940	Röksär’därv
+7004	Lebdärv
+7121	Лебедевское Озерко
+7808	Вехкозеро
+7998	Карасозеро
+8016	Сянькозеро
+8021	Черкозеро
+8042	Сямникозеро
+8080	Койбозеро
+8094	Лодиозеро
+8096	Мижозеро
+8103	Нижнее озеро
+8124	Тютьозеро
+8210	Мунозеро Верхнее
+8211	Мунозеро Нижнее
+8232	Калозеро
+8237	Кальезеро
+8254	Мугариха
+8264	Салажье
+8265	Себозеро
+8269	Ситозеро
+8274	Судмозерки
+8285	Чёрная Ламба
+8315	Нижнее Мунозеро
+8335	Леликозеро
+8348	Ситозеро
+8356	Глухое
+8357	Загубское озеро
+8557	Глухое
+8558	Вожмозеро
+8855	Ближнее озеро
+8856	Бездонное
+9093	Ганьковское озеро
+9104	Залебежское озеро
+9190	Угольское озеро
+9287	D’ašar’v
+9396	D’är’v
+9397	D’är’v
+9418	Everkijand’arv
+9471	Hapšomd’är’v
+9487	Haumižd’är’v
+9562	Hutorand’är’v
+9606	Isakand’är’v
+9614	Ivnad’ärv
+9625	Iänin’e
+9626	Iän’in’e
+9637	Kaidad’är’v
+9764	Kodid’ar’v
+9768	Akandärvi
+9809	Ahvenlambi
+9816	Čigronlambi
+9821	D’ehremä
+9825	Heinälambi
+9833	Haugilambi
+9841	Häydärvi
+9852	Kirvezjärvi
+9853	Kivilambi
+9854	Krikund’arv
+9855	Kipänjärvi
+9861	Kiičolammit
+9875	Kalalambi
+9885	Činnarvi
+9886	Leiviskäjärvi
+9893	Löböri
+9898	Lummehlambi
+9906	Marjalambi
+9909	Madalalambi
+9925	Meččälambi
+9941	Pitkäjärvi
+9946	Hallalambi
+9952	Hännikaslambi
+9958	Kaidadärvi
+9959	Kaidadärvi
+9966	Kartičanlambi
+9987	Kuriklambi
+9999	Lokkalambi
+10005	Luobauz’
+10007	Maimazel
+10009	Maimarvi
+10018	Matfejanlambi
+10022	Assipanlambi
+10023	Alini Šuovanlambi
+10026	Aline Nuottalambi
+10027	Alini Negalma
+10033	Čuakinlambi
+10034	Čirčaslambi
+10039	Kaidalambi
+10041	Kuz’manlambi
+10042	Kaidalambi
+10045	Kuikkalambi
+10048	Kosmosd’ärvi
+10049	Kuadinlambi
+10053	Lužmavuaranlambi
+10054	Louhilambi
+10057	Lukkalambi
+10062	Marttinanlambi
+10063	Mudalambi
+10065	Möykynlambi
+10071	Purvaizlambi
+10073	Purhaislambi
+10074	Perälambi
+10077	Ruogovodka
+10079	Rastilambi
+10081	Riihilambi
+10085	Ruočinlambi
+10087	Sepänlambi
+10089	Sepänlambi
+10093	Suarilambi
+10095	Törtönlambi
+10097	Tunguonlambi
+10103	Vasseleinlambi
+10108	Ylini Nuottalambi
+10109	Yline Nigalmo
+10110	Akimanlammit
+10112	D’emozenpiänd’ärvi
+10116	D’ormuška
+10117	Danšanlambi
+10140	Hiižjärvi
+10144	Huabalambi
+10145	Hurinlambi
+10150	Mämdydärvi
+10156	Heinälambi
+10165	Kurjuzlambi
+10166	Kallilambi
+10168	Kuittilambi
+10171	Kokkolambi
+10184	Kez’ärvi
+10193	Morkonlambi
+10233	Möl’l’äkkö
+10241	Oššippalambi
+10244	Paikatulambi
+10245	Pashadalammid
+10249	Лебедевское озёрко
+10389	Pashoda
+10390	Paskoda
+10393	Piädärvi
+10396	Pohd’a
+10411	Puušinalambi
+10424	Rebolambi
+10429	Ruočindärvi
+10433	Ruogarvi
+10439	Ruogodärvi
+10452	Залебяжское озеро
+10463	Sianlambi
+10472	Sulalambi
+10480	Süvädärvi
+10517	Särgärvi
+10521	Šilmätomalambi
+10523	Šüvädärvi
+10525	Tarazmane
+10527	Taukonlambi
+10537	Valgielambi
+10538	Valgielambi
+10541	Viidajärvi
+10542	Vuaralammid
+10544	Ülädärvi
+10546	Никольское озеро
+10564	Посуло
+10699	Обозеро
+10782	Пиозеро
+10796	Вехозерки
+10800	Щетинка
+10801	Подщетиноватая Ламбина
+10804	Курошозеро
+10823	Лависгорские озера
+10845	Alane Miihkal’i
+10852	Čigronlambi
+10854	D’ottarvi
+10866	D’uurikkalambi
+10875	Hobielammit
+10878	Alimmaine Huahlarvi
+10880	Huiskulambi
+10882	Huumarlambi
+10883	Häränlambi
+10893	Jottarvi
+10894	Kaidalambi
+10899	Kazl’arvi
+10900	Kallivod’ärvi
+10913	Keskimmäined’ärvi
+10920	Kivikköd’ärvi
+10924	Kondielambi
+10939	Kynnäjänlambi
+10954	Laudakangahanlambi
+10957	Levonlambi
+10959	Levonlambi
+10962	Levonteinlambi
+10974	Luobašd’ärvi
+11006	Molčankka
+11011	Muštalambi
+11012	Muštalambi
+11020	Nimilambi
+11024	Ohtamarvi
+11033	Pečkanlambi
+11044	Perčönlambi
+11048	Perälambi
+11058	Pitkälambi
+11063	Pompinlambi
+11073	Razvalambi
+11082	Ruogošuonlammit
+11091	Sammallambi
+11094	Siigajärvi
+11102	Sulgamaislambi
+11105	Šuobarvet
+11114	Syvälambi
+11122	Tarkond’ärvi
+11153	Vatulma
+11156	Viikatehd’ärvi
+11160	Vuadalambi
+11165	Väijänlambi
+11171	Väijänlambi
+11173	Yline Miihkalind’ärvi
+11177	Ahvenlambi
+11181	Aline Kylynperttilambi
+11182	Aline Muazärvi
+11184	Aline Tahkolambi
+11185	Borissanlambi
+11188	Bolinlambi
+11189	Burkenlammit
+11190	Butinlambi
+11205	D’uurikkalambi
+11208	D’uurikkašuarilambi
+11215	Hangašlambi
+11218	Haugilambi
+11219	Hebolambi
+11221	Heinälambi
+11227	Juurikkalambi
+11228	Juurikkalambi
+11231	Kaidalambi
+11232	Kaizlambi
+11237	Kallivod’ärvi
+11243	Karilambi
+11246	Keskimatanlammit
+11250	Kevätyšlambi
+11253	Kodalambi
+11264	Kois’musd’ärvi
+11267	Koivušuonlambi
+11273	Korbid’ärvi
+11281	Kuittilambi
+11286	Kumšalambi
+11289	Kutilambi
+11290	Kylälammit
+11291	Kynälambi
+11299	Lepporlammit
+11300	Luogolambi
+11305	Matkalammit
+11306	Matkalambi
+11320	Muštalambi
+11321	Muštalambi
+11332	Pajulambi
+11335	Pieni Ahvenanlambi
+11337	Pieni Marjalambi
+11342	Pieni Šärgilambi
+11350	Pukšud’ärvi
+11351	Pukšaizd’ärvi
+11357	Rajalambi
+11359	Rauvunlambi
+11361	Riešanlambi
+11362	Riihilambi
+11368	Riijonlammit
+11375	Rumnušlambi
+11381	Ruogolambi
+11392	Šittalambi
+11398	Suavanlambi
+11401	Sulgulambi
+11405	Suolammit
+11407	Suuri Ahvenlambi
+11438	Suuri Marjalambi
+11442	Suuri Särgilambi
+11443	Syvälambi
+11449	Särgilambi
+11461	Säynyälambi
+11474	Kippärvi
+11482	Toini Pukšaizd’ärvi
+11491	Torad’ärvi
+11499	Umbilammit
+11503	Vatulmad’ärvi
+11505	Yline Kazlilambi
+11506	Yline Kylynperttilambi
+11507	Yline Tahkolambi
+11508	Muazärvi
+11511	Kuikkalambi
+11512	Kuiskärvi
+11514	Kuz’kärvi
+11524	Ahvenlammit
+11532	Löböri
+11538	Matkalambi
+11565	Ongimolambi
+11566	Onginlambi
+11586	Pitkälambi
+11604	Šägärvi
+11625	Suurensuonlambi
+11639	Talvizvuarand’ärvi
+11640	Toravuaranjärvi
+11738	Kuutilambi
+11745	Valgielambi
+11747	Pieni Pukšud’ärvi
+11750	Suarislambi
+11752	Riešanlambi
+11753	Suurenvuaranlambi
+11763	Syvälambi
+11767	Särgilambi
+11792	Heinälambi
+11799	Hil’ond’ärvi
+11828	Lanittalambi
+11833	Luobašlambi
+11836	Pieni Nimilambi
+11840	Pomppi
+11841	Pörčönlambi
+11857	Lehtolambi
+11860	Lehtovuaranlambi
+11894	Perolambi
+11938	Šuigärvi
+11946	Särkänlambi
+11952	Toralambi
+11957	Valgielambi
+12008	Ahvenlambi
+12013	Alarvi
+12015	Čirkkalambi
+12024	Hiizijärvi
+12025	Hiizilambi
+12029	Jurinlambi
+12033	Kallivojärvi
+12038	Kel’l’akka
+12049	Koveranlambi
+12055	Ležol’anjärvi
+12059	Luobaš
+12067	Nagrizlambi
+12078	Pet’enlambi
+12079	Pieni Koveralambi
+12160	Rauttuizjärvi
+12177	Siigajärvi
+12185	Suarilambi
+12192	T’eroizlambi
+12266	Кобылье озеро
+12309	Abajalambi
+12311	Ahvenlambi
+12320	Čirkanlammit
+12323	Čuuružd’ärvi
+12350	Karas’s’ulambi
+12355	Kivišärkänlambi
+12365	Kokkolambi
+12368	Korbilma
+12370	Kuikkalambi
+12371	Kukkamad’ärvi
+12373	Kuohuizd’ärvi
+12379	Lar’kenlambi
+12383	Luobušlambi
+12389	Löydylambi
+12392	Maidolambi
+12402	Moššorinlambi
+12404	Muud’ärvi
+12434	Вилозеро
+12435	Малое Вилозеро
+12436	Большое Вилозеро
+12473	Ongomod’ärvi
+12506	St’opananlambi
+12513	Symärvi
+12514	Särgilambi
+12517	Säynyäjärvi
+12518	Säynänlambi
+12523	Tarkoizd’ärvi
+12546	Voingind’ärvi
+12547	Vuaranlambi
+12549	Ylenidärvi
+12559	Малое Пертозеро
+12575	Нижнее Мягозеро
+12577	Верхнее Мягозеро
+12623	Ahvenlambi
+12629	Ala Kuužengi
+12630	Alimmaini Diälambi
+12631	Alini Perttijärvi
+12634	Diälambi
+12642	Ehätyslambi
+12662	Kangašlambi
+12674	Keskimmäini Perttijärvi
+12677	Kiibahaini
+12679	Kivilambi
+12687	Koiralambi
+12688	Koivuniemend’ärvi
+12695	Koveralambi
+12696	Kuikkalambi
+12698	Kuivad’ärvi
+12699	Kuohuizd’ärvi
+12712	Падмозеро
+12747	Белое озеро
+12749	Исаево озеро
+12750	Кислая ламба
+12758	Рябовские озёра
+12761	Хмельозеро
+12764	Чёрные озёра
+12781	Кондезеро
+12783	Корахозера
+12787	Кривое озеро
+12843	Тявзинское озеро
+12860	Labied’ärvi
+12861	Lahnad’ärvi
+12865	Lahnarvi
+12872	Madalalambi
+12873	Madalalambi
+12877	Markkizenvuarand’ärvi
+12878	Markkizenvuarankeški
+12890	Perttijärvi
+12891	Perälambi
+12903	Ruogovodkanlambi
+12909	Sammallambi
+12912	Savilambi
+12913	Pieni Savilambi
+12916	Sordalambi
+12922	Sydänlambi
+12924	Särgilambi
+12927	Säynyälambi
+12934	Timonlambi
+12935	Suuri Timonlambi
+12938	Tungutdärvi
+12946	Valgied’ärvi
+12953	Viirunjärvi
+12957	Ylimmäini Diälambi
+12958	Ylini Kuužengi
+12959	Ylini Perttijärvi
+12969	Heinälambi
+12971	Hoklalambi
+13146	Kazl’arvi
+13149	Загорское озеро
+13168	Koiniemend’ärvi
+13177	Koveralambi
+13181	Kuivalambi
+13207	Чёрное озёрко
+13234	Nigalmo
+13240	Pervoi Akanlammit
+13243	Puržulambi
+13244	Pieni Rastilambi
+13250	Širčaislambi
+13252	Spiireinlambi
+13255	Suavanlambi
+13258	Syvälambi
+13266	Tunguzjdärvi
+13268	Ylini Šuovanlambi
+13271	Глухое озеро
+13344	Болотное озеро
+13517	Леликозеро
+13530	Надозеро
+13614	Лодайозерко
+13658	Алексеевское озеро
+13672	Белое озеро
+13715	Варбозеро
+13716	Ламбина
+13734	Ванозеро
+13735	Большое Ваньгозеро
+13736	Васильюшкино озеро
+13737	Светлое Глухое озеро
+13760	Большая Восьмёрка
+13761	Большое Кривое озеро
+13779	Гусиная ламбина
+13781	Гуляво
+13784	Глухое озеро
+13800	Глухие озёра
+13802	Гавозеро
+13827	Дедовы озёра
+13870	Задворские озёра
+13871	Заруцкие озёра
+13891	Карасьи озёра
+13923	Кривозеро
+13946	Кошачье озеро
+13950	Кривые озёрки
+13954	Каламинские озёра
+13955	Коламинские озёра
+13983	Кимозеро
+14002	Лебяжье озеро
+14007	Малое Вирандозеро
+14013	Масельское озеро
+14018	Малое Остречье
+14019	Малое Кривое Озеро
+14020	Маленга
+14021	Малая Восьмёрка
+14049	Ylimmäine Huahlarvi
+14054	Koverolambi
+14148	Галгубское озеро
+14199	Напорточное озеро
+14203	Ямское озерко
+14214	Развильное озеро
+14247	Глухое озерко
+14259	Ладмозеро
+14302	Сарозеро
+14303	Островское озеро
+14305	Дедово озеро
+14307	Куйкозеро
+14385	Свихинское
+14387	Торох озерко
+14388	Худые озерки
+14409	Ванчозеро
+14437	Мягрозеро
+14462	Калозеро
+14468	Ко́смозеро
+14483	Ольховое озеро
+14928	Столовое озеро
+14944	Межозеро
+14952	Нижнее Мягрозеро
+14958	Папиковское озеро
+14969	Карнежозерко
+15041	Верхнее Пигмозеро
+15047	Нижнее Пигмозеро
+15067	Мунозеро Нижнее
+15111	Вехозёрки
+15209	Цыганское
+15210	Трясливое
+15211	Собачье озеро
+15236	Пертозеро
+15321	Турастамозеро
+15334	Угомозёрко
+15341	Сорочье озеро
+15344	Важмозеро
+15362	Малая Коньшупа
+15363	Большая Коньшупа
+15385	Вепсозеро
+15389	Ойба
+15443	Подъянское озеро
+15633	Малое Маезеро
+15634	Белое озеро
+15637	Kuivalambi
+15645	Муромозеро
+15646	Муромец
+15650	Малое Ванозеро
+15651	Малое Ваньгозеро
+15652	Маезеро
+15657	Малое Маезеро
+15665	Медвежье озеро
+15668	Малое Сеньгозеро
+15669	Малое Сельгозеро
+15712	Остречье
+15727	Песчаное озеро
+15740	Падунское озеро
+15743	Пилосозеро
+15744	Пилозеро
+15746	Повозёрко
+15761	Подруйженское озеро
+15774	Продушные озёра
+15777	Подгорные Зелёные озёра
+15780	Рабочее озеро
+15794	Пикозеро
+15811	Руйгозеро
+15812	Верхнее озеро
+15813	Среднее озеро
+15814	Нижнее озеро
+15833	Святое озёрко
+15854	Собачий озеро
+15855	Светлое Глухое озеро
+15857	Сеньгозеро
+15858	Скамейное озеро
+15859	Светлое озеро
+15864	Самоедское озеро
+15865	Сивозеро
+15883	Средние Маленги
+15889	Тонкое озеро
+15904	Уккозеро
+15926	Черничное озеро
+15927	Чёрнокрайне озеро
+15928	Чёрное Глухое озеро
+15932	Чёрная ламбина
+15933	Чёрная ляга
+15949	Чалозёра
+15952	Щучье озеро
+16005	Кривозеро
+16014	Мышье озеро
+16093	Виржозеро
+16097	Захарково озеро
+16101	Тонкое озеро
+16104	Pieni Danšanlambi
+16105	Pieni Dančunlambi
+16115	Toralambi
+16117	Talvizvuaranjärvi
+16118	Toravuaranjärvi
+16119	Perälambi
+16123	Särkanlambi
+16124	Morkonlambi
+16125	Kurjuzlambi
+16126	Alinelambi
+16295	Haugijärvi
+16296	Suarijärvi
+16303	Lečunlambi
+16305	Häygärvi
+16308	Lumbehlambi
+16313	Pipinlambi
+16314	Pienilambi
+16322	Pitkälambi
+16323	Pitkälambi
+16325	Riijonlambi
+16326	Rokonpiä
+16328	Sorzajärvi
+16332	Säynyälambi
+16333	Tomutjärvi
+16334	Tomutlambi
+16338	Ukonlambi
+16339	Valgielambi
+16340	Voijärvi
+16341	Vuaranlammit
+16346	Viäräjärvi
+16621	Худое озеро
+16784	Ажебнаволокское озеро
+16890	Бездонное озерко
+17112	Верхне
+17152	Нижне озеро
+17173	Путкозеро
+17179	Средне
+17221	Чёрное
+17222	Чернозеро
+17309	Йижезеро Большое
+17310	Йижезеро Малое
+17321	Кулаково
+17514	Пёртозеро
+17567	Лахновское озеро
+17611	Валгомозеро
+17644	Тельпозеро
+17774	Вилозеро
+17943	Па́дмозеро
+18073	Хашезеро
+18171	Загорское озерко
+18389	Верхнее Торозеро
+18391	Гахкозеро
+18399	Могильное озеро
+18401	Сдвиженское
+18402	Нижнее Торозеро
+18404	Полотенце
+18406	Черное озеро
+18411	Чужмозеро
+18469	Нижнее озеро
+18540	Коломозеро
+18551	Цилозеро
+18579	Ahvenlambi
+18582	Juakonlambi
+18588	Griidanlambi
+18592	Hökänlambi
+18593	Ehätyslambi
+18597	Hanhenlambi
+18601	Hil’onjärvi
+18602	Perttijärvi
+18611	Kallivolambi
+18612	Kondielambi
+18630	Kaidalambi
+18634	Koveralambi
+18635	Kippärvi
+18637	Kuiskojärvi
+18638	Lanittalambi
+18650	Midronlambi
+18657	Nuottalambi
+18658	Suolambi
+18663	Puksulambi
+18673	Pohjatoilambi
+18686	Uudanlambi
+18688	Vuaraizlambi
+18689	Vuarnaizlambi
+18694	Valgielambi
+18695	Uudanjärvi
+18699	Ahvenvuaranlambi
+18700	Pitkälambi
+18701	Čukkurilambi
+18706	Kedrilambi
+18707	Hangaslambi
+18716	Lehonjärvi
+18718	Madalalambi
+18722	Kurjuslambi
+18723	Alinelambi
+18726	Bagajevanlambi
+18727	D’ormuska
+18730	Keskilambi
+18731	Kallivolambi
+18734	Kil’bojärvi
+18736	Morkonlambi
+18737	Mustalambi
+18741	Nahkanlambi
+18742	Pitkälambi
+18747	Suurensuonlammit
+18751	Ylinelambi
+18759	Murdolambi
+18766	Šägäjärvi
+18778	Akimanlambi
+18779	Riihijärvi
+18782	Bolenlambi
+18788	Harakanlambi
+18790	Hodozenvuaranlambi
+18791	Iimelänlambi
+18799	Kokkolambi
+18802	Koveralambi
+18804	N’ougulambi
+18808	Ongimolambi
+18809	Onginlambi
+18810	Pyydilambi
+18811	Pyylambi
+18813	Salmilambi
+18816	Särgilambi
+18818	Valgielambi
+18825	Ahvenlambi
+18826	Hangaslambi
+18828	Karmanajärvi
+18834	Murdolambi
+18835	Pedrolambi
+18840	Pitkälambi
+18844	Voinki
+18852	Jogilambi
+18860	Luobašjärvi
+18861	Kiliz’mo
+18862	Aline Šuobajärvi
+18863	Keski Šuobajärvi
+18864	Yline Šuobajärvi
+18867	Sordolambi
+18885	Haugilambi
+18887	Šägäjärvi
+18888	Aline Matkajärvi
+18889	Yline Matkajärvi
+18892	Ongenlambi
+18893	Lahnajärvi
+18895	Pitkäjärvi
+18896	Kivijärvi
+18907	Kallivojärvi
+18917	Suuri Suovalambi
+18918	Pieni Suovalambi
+18920	But’anlambi
+18922	Perälambi
+18923	Pieni Ahvenlambi
+18925	Suuri Ahvenlambi
+18928	Kuittilambi
+18929	Hebolambi
+18930	Pieni Kuittilambi
+18932	Koukkulambi
+18933	Miinanlambi
+18934	Kivilambi
+18935	Tervolambi
+18936	Syvälambi
+18937	Uramolambi
+18938	Heinälambi
+18939	Särgilambi
+18942	Ylimmäinejärvi
+18943	Väijänlambi
+18944	Mustalambi
+18945	Siigajärvi
+18949	Kaivolambi
+18950	Säynyälambi
+18951	Rönttilambi
+18954	Yline Miihkalinjärvi
+18955	Aline Miihkalinjärvi
+18958	Alajärvenjärvi
+18961	Ahvenjärvi
+18962	Alajärvenlambi
+18963	Kelläkkä
+18964	Ahvenlambi
+18966	Burlonlammit
+18967	Jängärvi
+18969	Gaurozenlambi
+18972	Hiizijärvi
+18976	Hiizilambi
+18978	Hiizipohja
+18981	Haugilambi
+18982	Kivilambi
+18991	Kodalambi
+18997	Kokkolambi
+19005	Kivilambi
+19006	Kuivattulambi
+19009	Luhanlambi
+19010	Lukanlambi
+19014	Luobušlambi
+19015	Luobušjärvi
+19019	Lehtolambi
+19025	Mudalambi
+19026	Mosorinjärvi
+19027	Mosorinlambi
+19033	Ossipanlambi
+19035	Pyhä-Vellenlambi
+19070	Ravušlambi
+19071	Rävynlambi
+19072	Rövynlambi
+19073	Rautušjärvi
+19080	Šorgiojanlammit
+19083	Šarvožlambi
+19086	Säynyälambi
+19087	Svirinlambi
+19088	Säynyäjärvi
+19089	Särgijärvi
+19090	Stepananjärvi
+19092	Siegimä
+19102	Viččalambi
+19106	Vaškisilmänlambi
+19110	Yläjärvi
+19158	Hiekkalambi
+19166	Hanhilambi
+19167	Hiizilambi
+19168	Hiizijärvi
+19194	Keihäzenjärvi
+19200	Keskijärvi
+19204	Kangahanjärvi
+19212	Kondielambi
+19213	Kuikanlambi
+19217	Karangolambi
+19218	Kangazlambi
+19219	Kärzälambi
+19222	Kuarnizjärvi
+19223	Kodijärvi
+19232	Kulist’lambi
+19241	Pieni Keihäzenjärvi
+19242	Keihäzenlambi
+19271	Mustalambi
+19308	Piebojärvi
+19309	Pienijärvi
+19310	Omajärvi
+19311	Kylänlambi
+19349	Suurilambi
+19355	Šulkonlambi
+19356	Šulkonlambi
+19369	Suurijärvi
+19372	Sordolambi
+19381	Törözienlambi
+19383	Tanaškanlambi
+19386	Ala Äynyäjärvi
+19390	Viidajärvi
+19412	Venginlambi
+19413	Valgielambi
+19427	Ontonlambi
+19428	Sammallambi
+19429	Pedrajärvi
+19431	Levielambi
+19432	Viärälambi
+19437	Karmajärvi
+19448	Juhananlambi
+19449	Ahvenlambi
+19475	Haugilambi
+19616	Oulungalambi
+19641	Pyhäjärvi
+19891	Кальезеро
+20301	Белая ламбина
+20302	Белое озеро
+20304	Белая ламбина
+20305	Белая ламбина
+20306	Белое озеро
+20307	Бокш-ламбина
+20311	Большее озеро
+20318	Большее озеро
+20320	Большая Туесовка
+20321	Белая парза
+20323	Выебливо озеро
+20324	Вершиловское озеро
+20327	Васталамбина
+20328	Верхнее Лещёвое озеро
+20329	Воеполе
+20343	Волчья ламбина
+20344	Галус-Ёнгозеро
+20354	Грикуляка
+20355	Гагарья ламбина
+20357	Грязная ламбина
+20359	Горькое озеро
+20364	Дедово озеро
+20365	Долгое Мяндозеро
+20366	Длинное плёсо
+20370	Ельнозеро
+20371	Елеламбина
+20373	Ельники
+20377	Ёнгозеро
+20393	Колкозеро Белое
+20394	Колкозеро Чёрное
+20395	Кривая ламбина
+20396	Кобыльи ламбины
+20397	Карсикозера
+20398	Каменная ламбина
+20401	Кудозеро Нижнее
+20402	Кудозеро Верхнее
+20418	Кислые Островистые ламбины
+20428	Кивисельская солотина
+20430	Калугинская ламбина
+20431	Круглое Мяндозеро
+20432	Коловатая ламбина
+20440	Коньи ламбины
+20442	Колкозеро Большое
+20443	Колкозеро Малое
+20444	Коезеро
+20457	Люлезеро
+20458	Лебяжье
+20460	Лимозеро
+20462	Лавтозеро
+20463	Лемозеро
+20467	Ладозеро
+20468	Лаунозеро
+20473	Микулозеро
+20474	Молочное
+20476	Малдоламбина
+20483	Мелехова ламбина
+20485	Максомозеро
+20486	Малая Туесовка
+20488	Мегозерко
+20489	Мегозеро
+20504	Новое озеро
+20505	Нижнее Лещёвое озеро
+20514	Отсровистое озеро
+20515	Остречья ламбина
+20516	Палозеро мшенное
+20517	Панцозеро
+20520	Поповская ламбина
+20521	Плотичья ламбина
+20523	Пятивёрстная ламбина
+20528	Палозеро
+20529	Пертозёрское плёсо
+20530	Пертозеро
+20537	Порцезеро
+20540	Ригачные ламбины
+20543	Рабогорка
+20545	Соркозеро
+20546	Семьдезеро верхнее
+20548	Сойкозеро
+20549	Сюрежная ламбина
+20552	Среднее Лещёвое озеро
+20563	Святозеро
+20568	Семьдезеро Нижнее
+20570	Тонкое озеро
+20576	Тонкая ламбина
+20580	Тикшезеро
+20581	Темляки
+20583	Тиноватые ламбины
+20584	Тонкое озеро
+20597	Худое озеро
+20598	Чёрное озеро
+20600	Чёрные плеса
+20604	Чёрная Парза
+20607	Чёрная ламбина
+20609	Шаршаламбина
+20610	Шиттогорка
+20620	Берёзовая ламбина
+20624	Борхино озеро
+20625	Белая ламбина
+20627	Багвиловское озеро
+20628	Белое озеро
+20632	Белое озеро
+20634	Белая ламбина
+20642	Воловское озеро
+20648	Волчья ламбина
+20650	Ви́рмозеро
+20653	Вичкозеро
+20659	Васькозеро Нижнее
+20660	Васькозеро Верхнее
+20661	Ви́сламбы
+20663	Габозеро
+20664	Гордеевска ламбина
+20667	Гордеевские ламбины
+20668	Глазанозеро
+20674	Гнилое озеро
+20675	Глубокое озеро
+20679	Гусиные ламбины
+20684	Головастые озера
+20689	Дедово озеро
+20693	Жаболомба
+20699	Задворное озеро
+20702	Загорное озеро
+20707	Иванова ламбина
+20711	Кузгозеро
+20721	Керкозеро Нижнее
+20722	Керкозеро Верхнее
+20723	Клочьеватое озеро
+20725	Кеватозеро
+20726	Кедрозеро
+20729	Кривая ламбина
+20738	Карбасное озеро
+20739	Карлаварака
+20744	Курошозеро Дальнее
+20745	Курошозеро Ближнее
+20749	Ку́кколамбина
+20758	Кодоломба
+20760	Костромино
+20761	Кукколово
+20766	Лаккозеро
+20771	Малдозеро
+20773	Torazjärvi
+20779	Малгозеро
+20782	Медвежье озеро
+20783	Монастырский Омут
+20786	Михалёвские озёра
+20787	Матвеево озеро
+20790	Мостовое озеро
+20793	Монастырское Вирмозеро
+20794	Мелкое озеро
+20806	Митинская ламбина
+20839	Нёккозеро Верхнее
+20840	Нёккозеро Среднее
+20841	Нёккозеро Нижнее
+20862	Пустовское озеро
+20872	Пертозеро
+20874	Поповы ламбины
+20875	Поповьи ламбины
+20877	Пятивёрстное озеро
+20878	Петрушина ламбина Большая
+20880	Петру́шина ламбина Малая
+20891	Палозеро Коровье
+20893	Палозеро Дорожно
+20908	Пялозеро
+20912	Плеса
+20914	Рога
+20916	Ромбокозеро Круглое
+20917	Ромбокозеро Долгое
+20918	Ругозеро
+20927	Савинцева ламбина
+20931	Сармосозеро
+20932	Саломное озеро
+20933	Салозеро
+20934	Сысоевы ламбины
+20937	Соба́чья ла́мбина
+20939	Сельгозеро Большое
+20940	Сельгозеро Малое
+20943	Столовое озеро
+20944	Сорвозеро
+20948	Тарболамба
+20951	Ухтозеро
+20955	Филиппово озеро
+20962	Хамитова ламбина
+20964	Хлебное озеро
+20969	Чёрная ламбина
+20971	Чагозеро
+20972	Чёрное озеро
+20973	Чагозерское
+20975	Шестивёрстная ламбина
+20984	Щучье озеро
+20985	Щучье озеро
+20986	Щукозеро
+20995	Антошкина ламбина
+21001	Ближнее Ребозеро
+21005	Белая ламбина
+21006	Беловодная Oсипова ламбина
+21008	Большая Чёрная ламбина
+21016	Васькина ламбина
+21017	Волколамбины
+21018	Варбаламбина
+21019	Верхнее Пикозеро
+21021	Верхняя Чёрная ламбина
+21022	Виччезеро
+21026	Галбозеро
+21035	Голодайки
+21036	Глубокое озеро
+21038	Гуйтосламбина
+21042	Дальнее Ребозеро
+21043	Дальнее Маткозеро
+21046	Ёгозеро Мелкое
+21048	Ёгозеро Глубокое
+21049	Ёлчеламбина
+21052	Змеиная ламбина
+21057	Ильино озеро
+21067	Кудозеро
+21070	Корожневская ламбина
+21083	Круглое Маткозеро
+21084	Казачья ламбина
+21091	Кораблишко
+21092	Курганец
+21097	Кетькозеро
+21099	Каткилозеро
+21100	Каткилозёрские ламбины
+21105	Корбозеро
+21116	Лудозёра
+21117	Лудозеро Большое
+21118	Лудозеро Малое
+21123	Лебяжье озеро
+21127	Лимогуба
+21132	Лайдаламбина
+21133	Меччозеро
+21134	Меччозеро Худое
+21139	Межевая ламбина
+21141	Мардозеро
+21150	Малая Чёрная ламбина
+21151	Маткозеро
+21156	Нижнее Пикозеро
+21158	Нижняя Чёрная ламбина
+21164	Олихино Маткозеро
+21166	Осиповы ламбины
+21170	Порошковы ламбины
+21173	Питкозеро
+21175	Пенозеро Нижнее
+21177	Пенозеро Верхнее
+21185	Пурнозеро
+21189	Пенозерские ламбины
+21212	Родомежское озеро
+21215	Сухое озеро
+21219	Сайволамбина
+21221	Собачья ламбина
+21226	Свяцевуха
+21228	Семезерские ламбины
+21229	Семезеро Круглое
+21230	Семезеро Долгое
+21240	Собачья ламбина
+21242	Тарасозеро
+21244	Тумиштозеро Верхнее
+21245	Тумиштозеро Нижнее
+21261	Чихмарь
+21271	Мининское озеро
+21276	Больше озеро
+21279	Большая Собачья ламбина
+21280	Белая ламбина
+21285	Васькина ламбина
+21287	Вичьевата ламбина
+21304	Габозеро
+21310	Дальнопольские ламбины
+21326	Закортемошная ламбина
+21339	Красные Горы
+21341	Колежмозеро Нижнее
+21342	Колежмозеро Верхнее
+21344	Кобылина ламбина
+21346	Кривые ламбины
+21347	Кедрозеро
+21348	Колоколатые озёра
+21349	Камеозеро Большое
+21360	Кережна ламбина
+21383	Лягушатник
+21386	Лебяжье озеро
+21389	Лавнозеро
+21390	Лахкозеро
+21394	Лёвина ламбина
+21395	Ласкаламбина
+21396	Лунки
+21397	Ламбина
+21398	Лаврозеро
+21401	Маткозеро
+21409	Малая Закортемошная ламбина
+21422	Панозеро
+21423	Плотичье озеро Чёрное
+21424	Плотичье озеро Белое
+21425	Подкова
+21426	Подмасельга
+21432	Подконюховщина
+21436	По́ткозеро
+21441	Ригачные озёра
+21443	Рогозеро
+21448	Станок
+21449	Свинцовая ламбина
+21450	Сосновое озеро Малое
+21451	Сосновое озеро Большое
+21453	Сегозеро
+21459	Сумозеро
+21460	Святушна ламбина
+21465	Сенькина ламбина
+21467	Сенькина ламбина
+21470	Собачьи ламбины
+21489	Хашезеро
+21494	Химатозеро
+21495	Цепсозеро
+21503	Ченозеро
+21505	Чёрная ламбина
+21507	Шувалово озеро
+21514	Гришанова ламбина
+21515	Гагарья ламбина
+21519	Галболамбина
+21520	Галбозеро
+21523	Долгая ламбина
+21527	Ёлчеламбины
+21534	Кяргозеро
+21536	Кузозеро
+21544	Коккозеро
+21545	Кокколамбина
+21547	Колламбина
+21548	Колдоламбина
+21560	Лебяжье озеро
+21561	Лимозеро Верхнее
+21562	Лимозеро Нижнее
+21568	Маткаламбина
+21571	Маткаламбина
+21574	Нёлозеро
+21576	Нилозеро
+21589	Половинная ламбина
+21597	Среднее озеро
+21605	Тишина ламбина
+21607	Туккаламбины
+21615	Табойламбина
+21617	Чёрная ламбина
+21618	Чундозеро
+21620	Шайозеро
+21623	Эйнозеро
+22071	Копаницы
+22080	Нюхча
+22246	Большое Обозеро
+22280	Гаккозеро
+22599	Гангас
+23018	Юнозеро
+23075	Ламбица
+23248	Габозеро
+23355	Большекопытица
+23361	Ватмозерко
+23362	Ваугомозеро
+23366	Великое озеро
+23367	Верхнее Чапозеро
+23368	Верхнее Уничозеро
+23369	Верхнее Лавкозеро
+23370	Верхнее Тютьозеро
+23374	Гангозеро
+23382	Глухое озёрко
+23402	Кирвасозеро
+23404	Колкозеро
+23430	Майозеро
+23436	Меньшекопытица
+23438	Мижозеро
+23450	Немежа
+23453	Нижнее Лавкозеро
+23454	Нижнее Чапозеро
+23455	Нижнее Пигмозёрко
+23456	Нижнее Уничозеро
+23465	Орофозёрко
+23488	Ситозеро
+23491	Таглампи
+23497	Харьгозеро
+23498	Худое Летнее
+23499	Худое Зимнее
+23509	Щучье
+23510	Щучья Ламба
+23524	Палозеро
+23538	Галикозеро
+23567	Карское озерко
+23673	Soudarvi
+23678	Lomčärvi
+23680	Parulilambi
+23681	Venielambi
+23682	Pit’kälambi
+23683	Šäynäjärvi
+23684	Mölläkkö
+23686	Kurikallammed
+23687	Ruogolambi
+23689	Putind’ärvi
+23690	Vuaran’en’änlambi
+23692	Eningijärvi
+23733	St’okol’n’alambi
+23734	Simananlambi
+23737	Šammakkolambi
+23745	Šongoijärvi
+23746	Hiizjärvi
+23748	Račugalambi
+23750	Tuhkalambi
+23751	Yline Merarvi
+23752	Aline Merarvi
+23755	Pilvežlammid
+23757	Vuaralambi
+23759	Säpsängä
+23770	Barbalambi
+23786	Užmenniemenlambi
+23824	Šuovarvi
+23825	Bot’onlambi
+23827	Lemilambi
+23833	Šyjälambi
+23834	Hormarvi
+23839	Mapanlambi
+23840	Kohtalambi
+23870	Pertilambi
+23871	Rod’onlambi
+23872	Redulampi
+23873	Šärkäntaganalambi
+23874	Harjuzdärvi
+23876	Haugilambi
+23877	Koiralambi
+23924	Sellind’arvi
+23939	Lužmolambi
+23947	Hirvilambi
+23963	Šittalambi
+23978	Euružjärvi
+23980	Urazd’ärvi
+23997	Aline Kylmingi
+24020	Perttilambi
+24026	Rod’onlambi
+24035	Hiizd’arvi
+24081	Merdalampi
+24082	Ruočulambi
+24083	Säiväkäd
+24085	Ohreižend’ärvi
+24088	Koveralambi
+24089	Pörčämäenlambi
+24090	Kivilambi
+24091	Vepsälambi
+24092	Valgielambi
+24093	Rahalambi
+24094	D’essunlambi
+24095	Kolmašlambi
+24096	Valgielambi
+24097	Enžimäini lambi
+24145	Mečča-Dängärvi
+24151	Šyrkkälambi
+24163	Pieni Haugilambi
+24164	Suuri Haugilambi
+24165	Tedrilambi
+24170	Kiimalambi
+24175	Kodilambi
+24177	Lomčarvi
+24178	Haizuvalambi
+24179	Lahnalambi
+24185	Šärgärvi
+24186	Duakonlambi
+24195	Гангозеро
+24198	Кайдозеро
+24225	Kuukondärvi
+24287	Syvälambi
+24289	Kalatonlambi
+24294	Heinärvet
+24302	Tuššelit
+24304	Kalmungit
+24305	Kuivalambi
+24412	Tumbandärvi
+24480	Гарозеро Малое
+24534	Лебежье
+24554	Пихкозеро
+24579	Хабозерко
+24580	Хабозеро
+24581	Харагозеро
+24607	Кяозеро
+24616	Каскозеро
+24628	Елгозеро
+24630	Киличозеро
+24658	Белое
+24661	Korbarvend’arvi
+24695	Каськозеро
+24696	Карасозерко
+24706	Копытово
+24708	Корбозерко
+24723	Мельгозерко
+24752	Пугнатское
+24754	Равдозеро
+24757	Ригозеро
+24759	Рудное
+24761	Светлое
+24765	Скоморохи
+24778	Тетезеро
+24783	Турово
+24795	Ченизерко
+24798	Ширеево
+24820	Артово
+24829	Вирозеро Малое
+24847	Кальтозеро
+24876	Палангское
+24908	Юрачное
+24924	Бревново
+24928	Долгое
+24929	Змеиное
+24934	Карасово
+24935	Катило
+24950	Круглое
+24953	Кукасово
+24954	Курасовские Рога
+24966	Чертизерко
+24977	Озерные
+24988	Сарозеро
+24994	Сяргозеро
+25005	Щучье
+25010	Аникуево
+25015	Большое
+25020	Бучное
+25022	Вагнозеро
+25024	Ванжезеро
+25041	Гаргозеро
+25045	Глубокое
+25054	Долгое Боровое
+25056	Долгозеро
+25058	Дубово
+25059	Елимозеро
+25061	Желгозеро
+25076	Кандажозеро
+25077	Каскозеро
+25080	Кедрозеро
+25082	Кекозеро
+25087	Киозеро
+25103	Кучкозеро
+25104	Лапатозеро
+25105	Лапозеро
+25114	Либозеро
+25115	Ливозерко
+25120	Лыгозеро
+25124	Малое
+25125	Мильняг
+25140	Наглимозеро
+25164	Попово
+25167	Почурово
+25171	Пялозерко
+25173	Рагозеро
+25174	Редозеро
+25183	Сельгозеро
+25188	Скоморохово
+25189	Скоморошье
+25194	Спирино
+25207	Тетерко
+25209	Турасозерко
+25221	Хомино
+25222	Чавено
+25226	Чергозеро
+25236	Чувакозеро
+25237	Чумбасозеро
+25240	Шидрозеро
+25244	Шогмозеро
+25249	Явозеро
+25250	Явозеро Большое
+25251	Явозеро Среднее
+25256	Вехкозеро
+25272	Падозеро
+25276	Палозеро
+25300	Айтозеро Малое
+25327	Неугаозеро
+25330	Нярозеро
+25339	Оя
+25340	Пелькозеро
+25345	Светлое озеро
+25359	Черное озеро
+25363	Перзак
+25380	Ржаное озеро
+25381	Рябозеро
+25386	Амугозеро
+25391	Гагарка
+25393	Галикозеро
+25414	Вяликозеро
+25419	Чистое озеро
+25493	Tapparalambi
+25494	Terozenlambi
+25496	Eländälambi
+25497	Kos’kizenlambi
+25507	Lindalambi
+25508	Voorakeskilambi
+25519	Haugilambi
+25521	Heinälambi
+25525	Melenttie
+25527	Tervalambi
+25528	Pit’kä Tervalambi
+25529	Ahvenlambi
+25530	Ruogolambi
+25531	Särkänkulma
+25536	Tedrilambi
+25539	Dudkanlambi
+25558	Rumanniemenlambi
+25575	Бабье
+25607	Худое
+25612	Туржак
+25616	Семёново
+25621	Плавучее
+25627	Мнёво
+25639	Екимово
+25643	Гагарье
+25645	Быково
+25646	Боровое Долгое
+25671	Чоргозеро
+25673	Чоргозеро
+25742	Redud’är’v
+25746	Rehd’är’v
+25769	Regoz’erd’ärv
+25812	Sareid’är’v
+25823	Homselänjärvi
+25825	Lahnajärvi Tobie
+25831	Lahnajärvi Pieni
+25833	Mustalambi
+25835	Särgilambi
+25839	Tabaralambi
+25842	Madaralambi
+25845	Lobananlambi
+25847	Pitkälambi
+25850	Kaidalambi
+25851	Kokoilambi
+25853	Tedrilambi
+25855	Oškutjärvi
+25858	Pohjalambi
+25860	Sammallambi
+25861	Hallajärvi Yläine
+25863	Hallajärvi Alaine
+25864	Mustalambi
+25867	Lindoilambi Pieni
+25870	Vazaruzlambi
+25871	Lindoilambi Tobie
+25872	Hebolambi
+25875	Melliččälambi
+25878	Rahoilambi
+25879	Pitkälambi
+25882	Koveralambi
+25884	Suurijärvi
+25886	Viidalambi
+25890	Angajärvi
+25917	Himoilambi
+25918	Järvenagja
+25924	Lahoilambi
+25950	Selgälambi
+25965	Matkalambi
+25981	Särgilambi Pieni
+25995	Viiksijärvi
+26001	Timoilambi
+26010	Ristinjärvi
+26011	Alainejärvi
+26037	Kallivolambi
+26158	Madožlambi
+26166	Tobiejärvi
+26264	Perttijarvi
+26299	Ližmajärvi
+26307	Sordolambi
+26342	Maksimanlambi
+26357	Huabulambi
+26363	Redulambi
+26371	Kalatoinelambi
+26372	Särgilambi
+26373	Havukkalambi
+26377	Säynyäjärvi
+26387	Šäidämäjärvi
+26389	Särgilambi
+26399	Hämäglammit
+26407	Korbilambi
+26408	Redulambi Pieni
+26409	Redulambi Tobie
+26410	Lotoilambi
+26412	Ruizlambi
+26415	Pičoilambi
+26416	Ligolambi
+26417	Viidalambi
+26418	Utukanjärvi
+26482	Čoramjärvi
+26531	Kaškuojärvi
+26547	Landarvi
+26597	Markinlambine
+26658	Valgielambi
+26669	Viidalambi
+26671	Kondielambi
+26705	Akanlambi
+26706	Lötöilambi
+26707	Pyydyzjärvi Ala
+26708	Pyydyzjärvi Ylä
+26709	Lehmälammit
+26710	Mustalambi
+26711	Häkkilambi
+26712	Majailambi
+26713	Ristipyydyslambi Ala
+26714	Ristipyydyslambi Ylä
+26715	Pihkalambi Ala
+26716	Pihkalambi Ylä
+26717	Dan’ukka
+26718	Prokku Ala
+26719	Prokku Ylä
+26720	Ristimäenlambi
+26722	Pleššilammit
+26723	Kiehkeränlambi
+26727	Ližminjärvi
+26735	Haizujärvi
+26803	Kalatoinelambi *
+26904	Čärniemenlambi
+26909	Koveranlammit
+26910	Kožovn’anlambi
+26911	Särgijärvi
+26920	Lahenlambi
+26925	Sordolambi
+26929	Ulangolammit
+26930	Mustalambi
+26932	Birboilambi
+26935	Ylilambi
+26939	Ristinlambi
+26951	Čiirakkolammit
+26973	Törizielammit
+27022	Ёучеламба
+27023	Чёрная ламба
+27024	Ёлочная ламба
+27040	Карпозеро
+27087	Гимойламба
+27088	Имойламба
+27089	Тимойлампи
+27093	Воезеро Малое
+27095	Воезеро Большое
+27097	Маловороновская ламба
+27098	Суналамба
+27099	Ламба
+27106	Хавчозеро
+27296	Kenttijärvi
+27297	Кончезеро
+27350	Koveralambi
+27353	Глубокая ламба
+27407	Heinäine
+27410	Kangaslambine
+27414	Kr’uuklambi
+27455	Pikoilambine
+27456	Pollambi
+27516	Turuttajanlambi
+27681	Havukkalambi
+27743	Падозеро
+27744	Puadjärvi
+27809	Zaborjanlambi
+27872	Pirttiniemenjärvi
+27895	Korbilambi
+27898	Huodroilambi
+27904	Мелкое озеро
+27923	Kartlambi
+27981	Huabend’o
+27982	Huabajärvi
+28024	Typpehenlambi
+28035	Tobielambi
+28036	Pienilambi
+28046	Pirttijärvi
+28047	Пертозеро
+28060	Ламба
+28065	Безрыбная ламба
+28133	Pöššinlambi
+28134	Kondielambi
+28135	Diakonlambi
+28136	Syvälambi
+28137	Mat’anfabrikki
+28138	Siigalammit
+28139	Maidolambi
+28149	Valgielambi
+28150	Koveraine
+28151	Vuačinkonnunlambi
+28159	Valgiejärvi
+28161	Keidovalambi
+28180	Melliččäjärvi
+28189	Koveralambi
+28195	Luamatjärvi
+28201	Pitkälambi
+28237	Hongjärvi
+28263	Lumlambi
+28270	Mečuoniemendärv
+28293	Niilambi
+28316	Peitjärvi
+28317	Pertjärvi
+28337	Sambojärvi
+28349	Šožmanjärvi
+28350	Šožma
+28375	Ahvendärvi
+28384	Čabl’andärvi
+28444	Kiehranjärvi
+28449	Kirzamjärvi
+28496	Lupačkud’är’v
+28497	Lupand’ärved
+28511	Novikuund’är’v
+28565	Siuzd’är’v
+28566	Šormad’ärvi
+28568	Suod’är’vi
+28587	Šožmand’är’v
+28598	Vaugedd’är’v
+28641	Haižmand’ärvi
+28642	Hangad’är’v
+28643	Haudand’ärvi
+28661	Kiäbändär’v
+28667	Kor’d’är’v
+28671	Koverd’är’v
+28691	Melad’är’v
+28714	Mustand’är’v
+28721	Mägid’är’v
+28750	Peidold’är’v
+28757	Piäčid’är’v
+28804	Šivadd’är’v
+28839	Viheld
+28851	Yličind’är’v
+28854	Yličinpajad’är’v
+28885	Ruizjärvi
+28905	Sarsond’är’v
+28946	S’uv’ad’ar’v
+28955	S’yrd’and’är’v
+28982	Šimg’är’
+29033	T’edriid’är’v
+29175	Vird’amend’ärvut
+29202	Yližd’är’v
+29376	Hodudärvi
+29399	Kal’l’ižd’ärvensuo
+29409	Koivsel’gand’är’v
+29438	Meid’ed’ärvi
+29477	Pahad’är’v
+29488	Plotinand’är’v
+29496	Rihid’ärvi
+29502	Sagilanjärvi
+29538	Tuašland’är’v
+29540	Kostinand’är’v
+29556	Vehkd’är’v
+29565	Agvehend’är’v
+29596	D’oučuod’är’v
+29630	Kal’l’ehd’är’v
+29634	Kangazd’är’v
+29639	Ke’skkon’där’v
+29655	Kond’ärvi
+29656	Kondiand’är’v
+29671	Lapind’är’v
+29676	Madalajärvi
+29743	Suard’ärvi
+29746	Suod’är’v
+29771	Valgedd’är’v
+29844	N’iemend’är’v
+29847	N’iemenpajad’är’v
+29896	Pahad’är’v
+29901	Rist’t’är’v
+29969	Petd’är’v
+29988	Ped’d’ar’v
+30009	Pergad’är’v
+30013	Per’t’kär’
+30023	Perzad’är’v
+30114	Pˇäl’ižd’är’v
+30137	P’ouvazd’ärvut
+30158	Sojär’jär’v
+30286	Белое
+30332	Верхнее
+30394	Варгачное
+30396	Варгачное
+30416	Мягозеро Дорожнее
+30420	Заднее
+30430	Каскозеро
+30432	Кивозеро
+30442	Корбозеро
+30448	Лайозеро
+30451	Лесное
+30473	Койкозеро
+30496	Ламба
+30497	Ламбушка
+30519	Малое озеро
+30533	Нижнее озеро
+30585	Рымбозеро
+30609	Сухое
+30657	Худое
+30658	Чакшозеро
+30659	Чивсозеро
+30661	Листозеро
+30703	Гавдозеро
+30724	Чирозеро
+30726	Шаймозеро
+30792	Kuz’d’är’v
+30902	Mecantagiin’ed’ärv
+30905	Mecoisond’ärv
+30959	Mudadärv
+30967	Mustanbongandärv
+30968	Mustadärv
+31067	Onashkand’ärv
+31109	Нижняя ламба
+31135	Палдозеро
+31136	Верхняя ламба
+31277	Kanguud’är’v
+31279	Kat’t’il’d’är’v
+31320	S’oland’ärv
+31332	Haršuod’är’v
+31341	Pinkuod’är’v
+31343	Redud’är’v
+31349	Žuabd’är’v
+31373	Hiirid’ärvi
+31374	Hir’vd’är’v
+31381	Kaukold’ärv
+31408	Lambazd’ärvi
+31438	Paloniemend’är’v
+31527	D’ärviselg
+31714	Ahvuud’ar’v
+31744	D’ogensuund’ärv
+31755	D’uamd’ärv
+31773	Heinuud’är’v
+31781	Hubad’är’v
+31799	Kaidd’är’v
+31808	Karnižd’ärvi
+31853	Kortezd’är’v
+31854	Kosl’ed
+31862	Kostel’dˇär’v
+31863	Kujärvend’är’v
+31919	Mudad’är’v
+31960	Pahazd’är’v
+32012	Ristd’är’v
+32070	Umbilambi
+32072	Undusend’ärved
+32078	Ust’uud’är’v
+32131	Mägid’är’v
+32132	Mägränd’är’v
+32148	Rižnasend’är’v
+32160	Kujar’v
+32163	Pagastd’ärvi
+32186	Annukoid’är’v
+32190	Fominand’är’v
+32195	Kodijärvi
+32200	Karbold’är’v
+32215	Niemend’är’v
+32233	Syväd’är’v
+32236	Čoramd’ärvi
+32242	D’ovensund’ärvi
+32261	Karjaiženjärvi
+32293	Niemenjärvi
+32306	Čaunanjärvi
+32327	Yläined’ärv
+32328	Gutkoilambi
+32329	Joučenlambi
+32343	Järvi
+32367	Lambi
+32401	Suununjärvi
+32417	Uudjärvi
+32448	Kahtlambi
+32482	Madožlambi
+32485	Mustalambi
+32491	Nuamoilanjärvi
+32530	Pohjapiänlambi
+32561	Suurilahenjärvi
+32567	Suurilambi
+32572	Surmojanjärvi
+32589	Ukšjärvi
+32626	Alaižagjanjärvi
+32627	Puadjärvi Enzimäine
+32636	Joučenlambi
+32664	Kuivalambi
+32666	Laudalambi
+32684	Muglaslambi
+32692	Mustalambi
+32694	Mustalambi
+32695	Noroselgä
+32700	Pohjalambi
+32706	Ridalambi
+32730	Čeužanlambi
+32733	Valgielambi
+32738	Viijanjärvi
+32751	Puadjärvi Toine
+32755	Ahvenlambi
+32787	Dorogalambi
+32876	Noroselänlambi
+32889	Pol’ankoinalusta
+32929	Ahvenlambi
+32953	Kangaslambi
+32957	Kelilambi
+32960	Koivuojanlambi
+32964	Kovazjärvi
+32973	Majaglambi
+32991	Randajärvi
+32994	Riipuzjärvi
+32995	Riižnazjärvi
+33004	Suolambi
+33040	Vuažalammet
+33052	Korguolammen
+33065	Ahvenojanlambi
+33072	Kiimalambi
+33074	Kondielambi
+33079	Kyberälambi
+33086	Ongilambi
+33122	Melličänlambi*
+33123	Randajärvi*
+33145	Laholambi*
+33206	Kodalambi
+33214	Kondielambi
+33231	Lindulammit
+33304	Kuivazjärvi
+33320	N’olganjärvi
+33329	Padajärvi
+33345	Udzjärvi
+33376	Kuikkalambi
+33446	Pohjanlambi
+33460	Gauroilambi
+33461	Mitroiženlambi
+33467	Huabalambi
+33468	Utukanlambi
+33474	Redulambi
+33477	Viidalambi
+33485	Lambine
+33492	Ruizlambi
+33499	Sitolambi
+33500	Alanelambi
+33503	Ylänelambi
+33546	Rajalambi
+33553	Sittalambi
+33625	Papinlambi
+33646	Kaidalambi
+33650	Mustalambi
+33673	Pälläjärvenlambi
+33704	Kodalambi
+33705	Kuivulambi
+33706	Tuohtoilambi
+33714	Koivulambi
+33716	Haugilambi Pieni
+33717	Haugilambi Tobie
+33730	Huabalambi
+33731	Karukokoinlambi
+33732	Pitkälambi
+33733	Kandalehlambi
+33735	Viikšijärvi
+33736	Kuivajärvi
+33739	Kudžulambi
+33744	Jyralambi
+33747	Hokanlambi
+33749	Kalatoilambi
+33750	Kangazlambi
+33757	Myrys
+33759	Pahkalambi
+33761	Vihandlambi
+33785	Kirvezlammit
+33805	Heinälambi
+33807	Kivilambi
+33808	Koivuaranlambi
+33810	Kuittilambi
+33811	Kuz’moilambi
+33814	Laččulambi
+33816	Lemilambi
+33818	Loukinlambi
+33819	Marfanlambi
+33820	Palalambi
+33821	Purazlambi
+33822	Rod’ukanlambi
+33825	Suarijärvi
+33827	Sydänlambi
+33828	Syvälambi
+33829	Valgielambi
+33830	Vaskilambi
+33833	Huadžiilambi
+33838	Hebojärvi
+33846	Kaničanlambi
+33905	Joučenlambi
+33932	Tuohtoilambi
+34001	Perttilambi
+34006	Rokolambi
+34011	Suununjärvi
+34031	Heinälambi
+34039	Joučenlambi
+34064	Lohilambi
+34067	Mudalambi
+34098	Säynäglambi
+34100	Siäkslambi
+34192	Pälläjärvi
+34240	Ruogolambi
+34300	Viäččyjärvi
+34315	Lapinlambi
+34316	Kiviselänlambi
+34317	Tupiklambi
+34328	Kiviselänlambi
+34330	Naudjärvi
+34338	Čuksoilambi
+34340	Mustalambi
+34404	Reboilambi
+34405	Kuokkalambi
+34406	Kallivolambi
+34407	Miitreilambi
+34408	Riihilambi
+34409	Kivilambi
+34410	Lijalambi
+34411	Majalambi
+34412	Heinälambi
+34414	Pitkälambi
+34415	Lavolambi
+34418	Madolambi
+34424	Tedrilambi
+34440	Jänisjärvi
+34447	Kodalambi
+34451	Lahnalambi
+34452	Laskettavalambi
+34457	Lavasuonlambi
+34463	Mustalambi
+34464	Mustansuarenlambi
+34468	Pahalambi
+34469	Peldozenlambi
+34472	Puusuonlambi
+34474	Redulambi
+34490	Särgilambi
+34503	Hanhilambi
+34512	Arestanlambi
+34513	Okššanlambi
+34514	Tedroijärvi
+34515	Pol’voilambi
+34516	Tagalambi
+34517	Guikanlambi
+34538	Taiginlambi
+34563	Lužmalambi
+34579	Suosilmät
+34605	Virpoilambi
+34606	Koverlambi
+34607	Diehkuoilambi
+34696	Iušinlambi
+34697	Koverajärvi
+34698	Valgeilambi
+34699	Regilambi
+34700	Hošjärvi
+34701	Pienikovera
+34702	Šittalambi
+34703	Sordjärvi
+34704	Haudajärvi
+34711	Soržjärvi
+34751	Valgielambi
+34752	Mustalambi
+34754	Sigojanlambi
+34755	Laudalambi
+34775	Haugilambi
+34776	Rajalammit
+34796	Hiižjärvi
+34804	Mustapaskujärvi
+34805	Valgiepaskulambi
+34807	Suarijärvi
+34808	Kaidajärvi
+34810	Pyöryzlambi
+34831	Kristjananlambi
+34847	Himoilambi
+34851	Joučenlambi
+34876	Suununlambi
+34881	Voijärvi Pohjaine
+34882	Voijärvi Suvine
+34913	Kaidalambi
+34920	Keskilambi
+34926	Lambi
+34938	Pitkälambi
+34947	Sandalanjärvi
+34958	Ahvenlammit
+34989	Kločoinlambi
+35057	Stihoilammit
+35222	Vehkalambi
+35232	Порошозеро
+35288	Бездонное озеро
+35368	Tiirtonjärvi
+35430	Viäräjärvi
+35505	Niätäjärvi
+35509	Venehjärvi
+35540	Čokani
+35569	Sohromanjärvi
+35572	Karhujärvi
+35576	Köynäšjärvi
+35607	Pieni Ruokojärvi
+35639	Šuarijärvi
+35640	Palojärvi
+35648	Tirtonjärvi
+35666	Rauhkuajärvi
+35705	Livojärvi
+35736	Kormilanlampi
+35749	Šiikajärvi
+35755	Kurenjärvi
+35803	Ypänki
+35834	Petäjäjärvi
+35891	Kaunisjärvi
+35895	Pieni Viččajärvi
+35898	Janisjärvi
+35957	Čokkurinjärvi
+35977	Potkamo
+35981	Huajuajärvi
+35983	Šuurilahnajärvi
+35984	Pilojärvi
+35988	Miesjärvi
+35991	Venehjärvi
+35992	Šuurišuari
+35993	Pieni Lahnajärvi
+35994	Ylijärvi
+35995	Valtasenjärvi
+35996	Kyläjärvi
+35997	Maksimanjärvi
+36026	Kajvajärvi
+36046	Pyöriäšjärvi
+36053	Ilvešjärvi
+36054	Kivijärvi
+36055	Alini Töršämö
+36056	Ylini Töršämö
+36080	Lapukka
+36081	Alini náuvu
+36083	Ylini náuvu
+36084	N’auvut
+36094	Vasot
+36095	Kolhankijärvi
+36100	Pirtejärvi
+36121	Ylinijärvi=Kalmajärvi
+36125	Kivijärvi
+36141	Keltajärvi
+36180	Töršimöjärvi
+36186	Viijankijärvi
+36195	Niskajärvi
+36196	Kokkojärvi
+36199	Halčinjärvi
+36208	Čuppojärvi
+36209	Pirttijärvi
+36211	Leviejärvi
+36212	Hoikkajärvi
+36227	Viččajärvi
+36277	Limajärvi
+36286	Raukuajärvi
+36287	Ylimmaini Puakanjärvi
+36288	Alimmaini Puakanjärvi
+36290	Tohtorijärvet
+36291	Riinuojärvi
+36295	Ylimmäini Piešunkijärvi
+36296	Alimmaini Piešunkijärvi
+36328	Puakuajärvi
+36341	Iutalanjärvi
+36379	Latvajärvi
+36423	Pieni Il’vešjärvi
+36428	Pikkaraini Keltajärvi
+36430	Keltajärvi
+36453	Raukuajärvi
+36500	Karenjärvi
+36501	Šäynyäjärvi
+36533	Kolhankijärvi
+36545	Деревенская Ламба
+36640	Nivalambi
+36650	Kaidalambi
+36653	Kyzylambi
+36675	Mägrätjärvi
+36742	Korbijärvi
+36743	Mustujärvi
+36748	Joučenjärvi
+36750	Annukki
+36796	Valgeijärvi
+36801	Omajärvi
+36804	Suonjärvi
+36811	Rižnaksenjärvi
+36829	Laadoganjärvi
+36837	Ligolambi
+36840	Lautoilambi
+36846	Pitkyjärvi
+36848	Kaijanpiä
+36849	Vaarečkoinlambi
+36854	Ahvenlambi
+36868	Tervulambi
+36870	Suarijärvi
+37010	Keskojärvi
+37040	Piäjärvi
+37045	Mäintagaine
+37047	Vuoruzjärvi
+37049	Syväperze
+37052	Sorbolanjärvi
+37057	Kun’akku
+37096	Manasterinjärvi
+37097	Čikkerijärvi
+37156	Hangojaine
+37164	Čiučoijärvi
+37165	Bulli
+37184	Suujärvi
+37197	Suarmäenjärvi
+37209	Kovera
+37213	Rendžoi
+37214	Ärzärvi
+37242	Ojärvi
+37272	Priäžänjärvi
+37303	Loginanjärvi
+37308	Valgeilambi
+37309	Korbilambi
+37310	Bul’kunlambi
+37312	Valgeilambi
+37314	Mustulambi
+37316	Sammallambi
+37317	Rajavulambi
+37318	Hangamuslambi
+37322	Kalajärvi
+37324	Lepistölambi
+37328	Ongimusjärvi
+37370	Kanabrojärvi
+37374	Suarijärvi
+37388	Fadidärvi
+37400	Kad’järvi
+37402	Kedjärvi
+37407	Pertjärvi
+37432	Mukanlammit
+37466	Ahvenjärvi
+37511	Huozlambi
+37515	Rampekinlambi
+37517	Hebolambi
+37519	Kalijärvi
+37586	Kaugoijärvi
+37590	Pärzämyslambi
+37662	Kinjärvi
+37680	Nouzemjärvi
+37828	Korgeilambi
+37862	Pohjatoilambi
+38008	Dyrkylambi
+38166	Саргозеро
+38181	Мельняк
+38184	Ширяево
+38193	Лебяжье Малое
+38197	Ончуково
+38198	Кулгомозеро
+38215	Кижозеро
+38218	Юзеро
+38227	Чёрное
+38230	Волково Большое
+38231	Волково Малое
+38237	Долгое
+38243	Каменное
+38245	Чёрное
+38253	Ронгозеро
+38266	Колодозеро
+38278	Вирозеро Большое
+38283	Качкозеро
+38294	Долгозеро
+38295	Пялозеро
+38299	Погостское
+38301	Кривое Верхнее
+38302	Кривое Среднее
+38303	Кривое Нижнее
+38305	Ровдозеро
+38306	Сухое
+38308	Сазаново
+38309	Гарозеро Большое
+38310	Саргозеро
+38312	Грязное
+38313	Воя
+38315	Кобылино
+38316	Овинное
+38317	Костылево
+38321	Серебряное
+38324	Сяргозеро
+38325	Сяргозеро Малое
+38330	Кудозеро
+38346	Попово
+38349	Низовское
+38358	Белое
+38359	Черное
+38360	Лемчино
+38384	Гарозеро
+38387	Черчезерко
+38388	Айтозеро Большое
+38391	Варгачное Кинозерское
+38392	Мягозеро Подгорнее
+38393	Листозеро Малое
+38406	Кивозеро
+38416	Равдозеро
+38447	Пелусозеро
+38461	Райдозерко
+38462	Кривоногово
+38475	Ижозерко
+38500	Жилино
+38501	Курозеро
+38518	Изерко
+38530	Райдозеро
+38542	Торопово
+38543	Якимово
+38553	Карасозеро
+38555	Курасово
+38560	Вирозеро
+38574	Кеткозеро
+38578	Ливозеро
+38579	Малое Нигозеро
+38585	Пурмозеро
+38666	Кумбасозеро
+38676	Малоё
+38677	Матсарское
+38719	Ронжозеро
+38720	Роньжозеро
+38776	Волоцкое
+38785	Долгое
+38788	Зимничное
+38791	Кергозеро
+38792	Килезеро
+38822	Соколиное
+38828	Частёво
+38829	Частезеро
+38830	Чащево
+38841	Щучье
+38843	Ягодное
+38846	Большее
+38847	Меньшее
+38858	Гузеньозеро
+38868	Каренговатое
+38886	Палецозерко
+38887	Палозеро
+38894	Святозеро
+38900	Чёргозеро
+38941	Нигозеро
+38958	Чёпшозеро
+38971	Малое Святозеро
+39031	Голюшозеро
+39077	Большое
+39098	Кривые озерки
+39106	Малое
+39226	Лучевники
+39422	Белое
+39455	Илебисозеро
+39552	Ченежское
+39597	Ялгандское озеро
+39788	Сельгозерка
+39813	Ялгонда
+39838	Колтозеро
+39879	Ягольжина
+39953	Болтинка
+40113	Отовозеро
+40130	Рогозеро
+40193	Важнеозеро
+40195	Вамозеро
+40202	Габозеро
+40230	Кедозеро
+40243	Кудрозеро
+40246	Кусозеро
+40247	Ландозеро
+40248	Лейбозеро
+40261	Маймозеро
+40274	Нигозеро
+40285	Педозеро
+40291	Пихкозеро
+40313	Райозеро
+40335	Частозеро
+40344	Шадрозеро
+40349	Белоозеро
+40360	Кулгозеро
+40429	Большое
+40445	Гажье
+40510	Кулгозеро
+40514	Лейбушкозеро
+40515	Лейбозеро
+40536	Озёрко
+40560	Рогозеро
+40577	Середнее
+40716	Келкозеро
+40720	Кодозеро
+40726	Лайпа
+40738	Мовжозеро
+40743	Немозеро
+40752	Паезеро
+40789	Щучье
+40799	Лайпа
+40809	Ремизгово
+40817	Ближнее
+40827	Гагарьи
+40834	Дальнее
+40888	Таласозерко
+40891	Чёрное
+40933	Airanne
+40946	Большое
+40957	Ванино
+40970	Гаккозеро
+40971	Гакозеро
+40972	Гак
+40975	Hympölänjärvi
+40994	Лапотозеро
+41038	Гусиное
+41043	Ершово
+41071	Läppäjärvi
+41091	Karmalanjärvi
+41096	Maarilanlampi
+41123	Муромское
+41157	Пречистинское
+41171	Саньковские
+41249	Helmijärvi
+41305	Панезеро
+41310	Раньское
+41314	Самозеро
+41315	Саниковско
+41321	Чехозеро
+41323	Чолмосько
+41325	Эмозеро
+41351	Пертозеро
+41423	Гаужозеро
+41424	Голюшозеро Малое
+41425	Голюшозеро Большое
+41433	Лучебник
+41442	Лишкозеро
+41444	Новгудозеро
+41445	Жилое
+41485	Келкозеро
+41505	Вагмозеро
+41527	Ухтинжа
+41558	Вамозеро
+41562	Бревённое
+41569	Кагозерко
+41586	Круглое
+41600	Панское
+41605	Половинное
+41627	Чопшезеро
+41675	Кукшозеро
+41689	Моисеево
+41715	Сарозеро
+41734	Чёрное
+41738	Бездонное
+41740	Беседное
+41745	Бухановские
+41780	Вехкозеро
+41799	Ноугудозеро
+41800	Новгудозеро
+41815	Маленькое
+41818	Лишкозеро
+41821	Лешезеро
+41827	Лебежье
+41828	Лебяжье
+41843	Кукшезеро
+41846	Куйозеро
+41854	Котлинное
+41863	Колонжозеро
+41880	Круглое
+41892	Сергозеро Большое
+41893	Сергозеро Маленькое
+42011	Охтомозеро
+42012	Охтомозеро Верхнее
+42013	Охтомозеро Нижнее
+42083	Гагаркозеро
+42093	Долгое
+42146	Верхнее Маленькое
+42147	Верхнее Большое
+42150	Клещёво
+42152	Куликово
+42155	Сосновое
+42178	Кедозеро
+42225	Бабье
+42230	Большо
+42231	Большее Салмозеро
+42239	Важмозеро
+42246	Вирозеро
+42257	Гагарье
+42272	Гусинец Малый
+42273	Гусиное
+42303	Имакозеро
+42308	Камзольник
+42309	Кандажозеро
+42315	Кимзольник
+42344	Кукшезеро Меньшое
+42345	Кукшезеро Большее
+42365	Лычнозерко
+42368	Маймозеро
+42370	Малое
+42371	Малое Салмозеро
+42373	Маткозеро Меньшее
+42374	Маткозеро Большее
+42383	Меньшее Салмозеро
+42392	Мшаное
+42408	Пойгозеро
+42409	Позорно
+42425	Палозеро
+42426	Меньшее Палозеро
+42427	Большее Палозеро
+42443	Ржаное
+42455	Салмозеро
+42458	Сарозеро
+42460	Святое
+42473	Сяргозеро
+42478	Третьяково
+42479	Тугмозеро
+42496	Частозеро
+42501	Хергозеро
+42508	Тумозеро
+42580	Пихкозеро
+42594	Юнгозеро
+42711	Кондаковское
+42716	Лешезеро
+42719	Панезерское
+42727	Авдеевское
+42728	Азанозеро
+42733	Бабье
+42739	Ближнее
+42744	Большое Лембозеро
+42762	Верхнее
+42793	Енозеро
+42814	Коппалозеро
+42826	Кук(к)озеро
+42829	Лешозеро
+42830	Лещозеро
+42834	Малое Лембозеро
+42840	Панозеро
+42845	Рагнозеро
+42861	Салмозеро
+42864	Шальское
+42934	Большое Боровое
+42937	Малое Боровое
+43010	Боровое озерко
+43024	Ермаковы озёра
+43043	Марчишное
+43064	Боровое
+43119	Сайгозеро
+43139	Белое
+43141	Большое Чёрное
+43153	Высогорские озёрки
+43155	Габозеро
+43181	Ловозёрки
+43199	Рындозеро
+43211	Са́розеро
+43322	Белое
+43337	Большое
+43411	Горское
+43412	Горское
+43448	Долгое
+43451	Долгое
+43478	Карельское
+43483	Катозеро
+43505	Корчагинское
+43539	Укшозеро
+43541	Оленьих Ворот
+43550	Пильмасозеро
+43556	Лебяжье
+43557	Тавасозеро
+43591	Куккозерко
+43592	Куккозеро
+43594	Кулькозеро
+43599	Лебединое
+43600	Лебяжье
+43647	Малое
+43648	Малое
+43650	Мало озеро
+43669	Межное
+43672	Karjazjärvi
+43676	Särgijärvi
+43681	Čiikoilambi
+43683	Kukkarvi
+43684	Särgijärvi
+43686	Vazanlambi
+43689	Oravajärvi
+43703	Oravajärvi
+43770	Kakkoizlammit
+43772	Lehmoilambi
+43792	Koiroilambi
+43801	Nälmäjärvi
+43806	Kainazjärvi
+43811	Majaijärvi
+43819	Ukonlambi
+43820	Ojajärvi
+43832	Rougulambi
+43856	Turkanlambi
+43886	Laskettulambi
+43935	Korbilambi
+43937	Somadjärvi
+43940	Koivuzensel’l’änlambi
+44010	Nimetöilambi
+44024	Pitkälambi
+44025	Pyörzulambi
+44082	Suarilambi
+44084	Šaralambi
+44115	Valgeijärvi
+44116	Vieljärvi
+44128	Kinelahtenjärvi
+44145	Alalumbas
+44146	Ylälumbas
+44160	Puoroinjärvi
+44162	Valgeilambi
+44163	Kinejärvi
+44187	N’akoilambi
+44189	Nehpoinlambi
+44191	Pezoilambi Pieni
+44193	Pezoilambi Suuri
+44196	Skamarahko
+44200	Haugilambi Suuri
+44201	Haugilambi Pieni
+44204	Valgeilambi
+44214	Suoljärvi
+44215	Tyrämyzjärvi
+44241	Kuivattujärvi
+44254	Heinälambi
+44255	Heinälambi Valgei
+44265	Suarijärvi
+44266	Suojärvi
+44267	Valgiejärvi
+44269	Varoijärvi
+44272	Mustalambi Pieni
+44273	Mustalambi Suuri
+44274	Pamastanlambi
+44278	Kalmoilambi
+44279	Kol’kanlambizet
+44282	Mustajärvi
+44290	Kangazjärvi
+44294	Suosillanlambi
+44323	Pamazjärvi
+44364	Muižjärvi
+44365	Ahvenlambi
+44380	Ahvoilambi
+44411	Valgiejärvi
+44412	Pärpäčynlambi
+44414	Hebolambi
+44415	Muštalambi
+44416	Čuamulambi
+44417	Kahtetlammit
+44418	Anninlambi
+44420	Hannilambi
+44434	Pyöröilambi
+44438	Ladvalambi
+44477	Sammallambi
+44478	Valgielambi
+44482	Čougulammit
+44494	Šaraluhta
+44499	Mukanlambi
+44577	Livočinlambi
+44609	Tedrilambi
+44611	Salojärvi
+44613	Önttyri
+44614	Kaidžeri
+44627	Puavoinakka
+44660	Rajavanlambi
+44678	Särgilambi
+44681	Vaimučinjärvi
+44705	Hirvilambi
+44746	Onnitanlammit
+44758	Мурмозеро
+44760	Муромозеро
+44766	Настасьино
+44775	Нигижемское
+44795	Ulmoilambi
+44807	Пелтозеро
+44824	Varoilambi
+44825	Valgetlammit
+44838	Hiižjärvi
+44845	Happamuksenjärvi
+44860	Kormelistonlambi
+44861	Kuikoilambi
+44864	Lepistölambi
+44928	Ahvoilambi
+44933	Bokkizenjärvi
+44941	Haugilambi
+44944	Järvi
+44961	Kivijärvi
+44967	Пречистинское
+44973	Рандозеро
+45011	Сельгозеро
+45026	Тетеревиное
+45075	Корбозеро
+45076	Саниково
+45083	Карасьозеро
+45084	Карачозеро
+45107	Карельское
+45108	Корчагинское
+45153	Kortehlambi
+45156	Kaččila
+45158	Loginlambi
+45190	Kylänlambi
+45191	Alimmaine Bul’a
+45294	Suojenlampi
+45301	Vehkalampi
+45355	Hulkonlampi
+45359	Sisusjärvi
+45361	Tokolampi
+45386	Uolevilampi
+45404	Ketjelampi
+45415	Laatokka
+45431	Kirjavalampi
+45442	Sileälampi
+45443	Mierosuonlampi
+45460	Mustalampi
+45495	Ryökälampi
+45501	Riuttalampi
+45524	Lavanselkä
+45526	Dekunjärvi
+45527	Niinilambi
+45529	Syväjärvi
+45533	D’oučärvi
+45535	Kovero
+45536	Mit’anlambi
+45542	Katičču Ylimäine
+45543	Katičču Alimaine
+45546	Kaidulambi
+45548	Korbijärvi
+45550	Veškelyslambi
+45552	Perälambi
+45554	Soddärvi
+45555	Koverjärvi
+45556	Suuri Kiimjärvi
+45557	Pieni Kiimjärvi
+45561	Школьное
+45571	Čukoilambi
+45573	Pyöryžylambi
+45575	Alakaindärvi
+45578	Ahvenlambi
+45580	Potkuselländärvi
+45582	Taiginlambi
+45584	Meloilandärvi
+45585	Akenteindärvi
+45586	Tagalambi
+45587	Kaigaluksendärvi
+45591	Padniekanlambi
+45596	Maimulambi
+45613	Čikki
+45620	Hiizärvi
+45622	Lumbilandärvi
+45623	Kibroilandärvi
+45627	Rahalambi
+45629	Valgeidärvi
+45631	Bul’anlambi
+45632	Melličänlambi
+45633	Kivilambi
+45634	Tervulambi
+45635	Čujärvi
+45636	Mudajärvi
+45637	Časoundärvi
+45638	Parazjärvi
+45639	Pedäijärvi
+45640	Šalgu
+45642	Viktoralambi
+45645	Kualikkulambi
+45654	Närginjärvi
+45655	Borsanjärvi
+45659	Čölli
+45665	Kuuttilambi
+45667	Sumoilambi
+45672	Höstölambi
+45692	Mustulambi
+45698	Lukinlambi
+45703	Hekoinlambi
+45708	Talvišuaru
+45713	Suarikkolambi
+45727	Porrazjärvi
+45729	Nikkoilandärvi
+45731	Pieni Niinilambi
+45732	Plönkki
+45733	Čigan-akan lambi
+45734	Puahkoin-akan lambi
+45735	Kalmoilambi
+45736	Rajalambi
+45737	Pieni Rajalambi
+45738	Salmikko
+45739	Sordolambi
+45740	Ahvenlambi
+45741	Arkutlambi
+45743	Valgeilambi
+45746	Hiloinjärvi
+45747	Razvulambi
+45760	Padagdändärvi
+45761	Huatulambi
+45764	Kyyröilambi
+45787	Puhloilambi
+45789	Mikoilambi
+45830	Ahpoi-Mikindärvi
+45850	Ahtuz’jär’v
+45853	Alajoutanki
+45854	Alajärvi
+45858	Ahvenjärvi
+45859	Ahvenjärvi
+45860	Ahvenlampi
+45861	Ahvenanlampi
+45864	Akko
+45866	Allimmainen Uhutjärvi
+45875	Hautalampi
+45877	Heinäjärvi
+45878	Heinälampi
+45881	Hevoslampi
+45884	Hirvijärvi
+45889	Huasjärvi
+45893	Hurmus
+45896	Hämejärvi
+45898	Ihmisysjärvi
+45901	Issakkalanlampi
+45908	Joutankijärvet
+45911	Jäkäjärvi
+45913	Kainaloinen
+45920	Kattilalampi
+45923	Kelli
+45932	Keskiuhutjärvi
+45933	Keskijoutanki
+45937	Kiestinki
+45939	Kis-Kis-järvet
+45943	Kivilampi
+45945	Kivijärvi
+45947	Koivujärvi
+45951	Kontiejärvet
+45954	Korpanki
+45955	Korpijärvi
+45970	Kummu
+45973	Kuoputti
+45979	Lapinlampi
+45982	Lietalammit
+45985	Luostanki
+45987	Malviesjärvi
+45994	Mikkolänjärvi
+45995	Mikkolänjärvet
+45999	Muasjärvi
+46000	Mujehjärvi
+46003	Mustalampi
+46004	Musta Pirtojärvi
+46005	Musta Potkajärvi
+46006	Mustasiero
+46007	Mutalampi
+46009	Latvajärvi
+46011	Lapukanjärvi
+46012	Lammasjärvi
+46017	Niemijärvi
+46020	Nuolutti
+46024	Ohtajärvi
+46028	Ontolampi
+46030	Oulanka
+46031	Oululampi
+46032	Pajulampi
+46036	Partolanlampi
+46041	Pieni Keskimäjärvi
+46042	Pieni Pirtojärvi
+46046	Pistojärvi
+46048	Porvijärvi
+46049	Potkajärvi
+46050	Puala
+46052	Puutinlampi
+46053	Päiväjärvi
+46054	Pälkäjärvi
+46062	Reuhonjärvi
+46064	Ritalaksa
+46065	Rohhelampi
+46066	Ruotahanjärvi
+46069	Ylimmäinen Uhutjärvi
+46073	Sappijärvi
+46076	Yli Joutanki
+46080	Slinkinlampi
+46083	Sonkuonlampi
+46086	Suarilampi
+46088	Suotermänlambi
+46089	Suuri järvi
+46090	Suuri Keskimäjärvi
+46091	Suuri Piirtojärvi
+46092	Syväjärvi
+46095	Takkajärvi
+46099	Toppisenlampi
+46100	Torasjärvi
+46102	Čikšanjärvi
+46107	Uhutjärvet
+46109	Valkiesiero
+46110	Valkielampi
+46111	Valkie Pirtojärvi
+46112	Valkie Pistojärvi
+46113	Valkie Potkajärvi
+46115	Varojärvi
+46117	Vasajärvi
+46118	Vasalampi
+46121	Vehkalampi
+46127	Ypänki
+46128	Kivijärvi
+46129	Hajoutangi
+46135	Rautajärvi
+46136	čirkijärvi
+46137	Suuri Pahtajärvi
+46139	Julko-Kumpu
+46140	Tahto
+46141	Volina
+46142	Purna
+46143	Pježino
+46144	Šuola
+46145	Jumaštam
+46146	Šuuri Hohla
+46147	Hatnajärvi
+46148	Iivananjärvi
+46149	Afrikajärvi
+46150	Keškema
+46152	Topkijärvi
+46153	Perkijärvi
+46154	Ala Kallivojärvi
+46155	Komočjärvi
+46156	Šuuri Pertti
+46157	Pieni Pertti
+46159	Regojärvi
+46160	Koptijärvi
+46174	Röhönjärvi
+46194	Tihtojärvi
+46205	Riihuojärvi
+46222	Luomajärvi
+46224	Likolampi
+46228	Köynäsjärvi
+46238	KeškiKuitti
+46239	Karvalampi
+46241	Joutsenlampi
+46246	Ala Kuitti
+46252	Kalinlampi
+46259	Hämehenjärvi
+46260	Valkie Patkajärvi
+46261	Musta Pistojärvi
+46262	Kohtiejärvi
+46275	Perälampi
+46350	Леппорская Ламба
+46388	Сельмозеро
+46481	Griišoinlampi
+46495	Hanhiselän lampi
+46505	Haukilampi
+46506	Haukilampi
+46508	Heinälampi
+46510	Heinäpannu
+46512	Hapolampi
+46514	Hepolampi
+46530	Hilipänlampi
+46541	Hovatanlampi
+46552	Huskasenlampi
+46645	Kanabrojärvi
+46659	Karhulampi
+46664	Karkunlampi
+46687	Kauralampi
+46788	Kurjenjärvi
+46814	Käsnäsenjärvi
+46819	Laatokka
+46833	Lautalampi
+46834	Lehmälampi
+46852	Likolampi
+46853	Likolampi
+46854	Likolampi
+46855	Likolampi
+46857	Lohilampi
+46869	Luhoilammet
+46893	Löytölampi
+46899	Maitolampi
+46906	Mantsinsaari
+46908	Marjasenlampi
+46913	Matolampi
+46918	Mellitsälampi
+46926	Merijärvi
+46933	Miihkailinlampi
+46950	Muljana
+46953	Murronjärvi
+46958	Mustalampi
+46959	Mustalampi
+46965	Mutalampi
+46974	Myllylampi
+46981	Mäkrämäenlampi
+47004	Nuottalampi
+47025	Onninlampi
+47026	Onninlampi
+47034	Oudoskenlampi
+47049	Pannulampi
+47072	Peiposenlampi
+47084	Petralampi
+47096	Pienikuikkalampi
+47098	Pienikääppäjärvi
+47100	Pienilampi
+47101	Pienilampi
+47102	Pienimaitolampi
+47104	Pienimatolampi
+47105	Pienimuljana
+47108	Pienipannu
+47110	Pieniretsu
+47125	Pirttilampi
+47130	Pitkäjärvi
+47136	Pohjatonlampi
+47138	Polvilampi
+47139	Ponkkolan järvi
+47157	Päällysjärvi
+47190	Riihilampi
+47208	Riuttasienjärvi
+47217	Rotinlampi
+47245	Rötsönlampi
+47249	Saarijärvi
+47305	Sokkosen lammit
+47314	Sulalampi
+47316	Suolammit
+47324	Sutimusjärvi
+47325	Sutimusjärvi
+47337	Suurikuikkaalampi
+47340	Suuri- Kääppäjärvi
+47344	Suuripannu
+47346	Suuriretsu
+47359	Syrjänlampi
+47366	Särkilampi
+47379	Tenhunjärvi
+47384	Tervalambi
+47445	Vaaretskoinlampi
+47495	Valkealampi
+47496	Vaimutsjärvi
+47540	Koisellänjärvi
+47552	Kormelistonjärvi
+47556	Lahnarvi
+47560	Lepistölambi
+47592	Mustujärvi
+47597	Niepičanjärvi
+47606	Ongimusjärvi
+47612	Otjärvi
+47614	Palalahtenjärvi
+47619	Pertjärvenjärvi
+47624	Pitkjärvi
+47633	Pul’čoinjärvi
+47640	Ad’arvi
+47643	Kaidujärvi
+47646	Kaidujärvi
+47649	Čomalambi
+47658	Šogarvi
+47664	Mikkelin järvi
+47708	Nuožarvi
+47720	Särgijärvi
+47747	Uratjärvi
+47748	Vaimučču
+47754	Viuhtojärvi
+47791	Hapamuksenjärvi
+47799	Hiiz’järvi
+47811	Верхнее
+47906	Ламба
+47914	Čiedžymyjärvi
+47918	Säräččyjärvi
+47920	Kirikköjärvi
+47921	Kovero
+47922	Mit’anlambi
+47923	Hernehlambi
+47931	Jurikkulambi
+47933	Matkajärvi
+47935	Korblambi
+47937	Makkoilanjärvi
+47939	Melliččylambi
+47946	Pšulambi
+47948	Suuri Bartienjärvi
+47949	Pieni Bartienlambi
+47950	Kodajärvi
+47951	Nelärvi
+47952	Juplanjärvi
+47955	Kingurusjärvi
+47958	Pitkälambi
+47960	Lokkalambi
+47965	Lauttulambi
+47967	Konriddärvi?
+47975	Kiimärvi
+47978	Kaidulambi
+47979	Syvähaudujärvi (?)
+47999	Čikki
+48006	Hiizärvi
+48008	Lumbilandärvi
+48009	Kibroilandärvi
+48013	Rahalambi
+48015	Valgeidärvi
+48017	Bul’anlambi
+48018	Melličänlambi
+48019	Kivilambi
+48020	Tervulambi
+48021	Čujärvi
+48022	Mudajärvi
+48023	Časoundärvi
+48024	Parazjärvi
+48025	Pedäijärvi
+48026	Šalgu
+48040	Närginjärvi
+48041	Borsanjärvi
+48048	Padalambi
+48052	Pröšöilambi
+48055	Haugilambi
+48057	Tagalambi
+48083	Perätagalambi
+48094	Talvišuaru
+48099	Suarikkolambi
+48114	Perälambi
+48116	Koiranlambi
+48120	Puahkoin-akan lambi
+48121	Kalmoilambi
+48122	Rajalambi
+48123	Pieni Rajalambi
+48124	Salmikko
+48125	Sordolambi
+48126	Ahvenlambi
+48128	Mustulammit
+48130	Pieni Valgeilambi
+48131	Pieni Maimulambi
+48134	Pieni Razvulambi
+48135	Pinolambi
+48173	Puhloilambi
+48174	Kuominlambi
+48176	Guikkulambi
+48191	Kudžoiniemenlambi
+48216	Ahpoi-Mikindärvi
+48231	Lambi
+48280	Lintujärvi
+48308	Tohtazjärvi
+48309	Peizjärvi
+48311	Kimusellänjärvi
+48312	Mustulambi
+48313	Valgeijärvi
+48314	Pyhäjärvi
+48315	Sändämä
+48316	Manasterin Songoijärvi
+48317	Mudain
+48318	Kalijärvi
+48319	Kylänjärvi
+48327	Soarimäenjärvi
+48345	Ked’järvi
+48366	Kinjärvi
+48382	Uuradjärvi
+48423	Hongad
+48429	Kanambrojärvi
+48430	Pert’järvi
+48431	Oruzjärvi
+48436	Ongimusjärvi
+48438	Hižjärvi
+48439	Vaimučči
+48440	Happamuzjärvi
+48441	Särgilambi
+48442	Lambisellänlambi
+48444	Sammallambi
+48447	Raivallambi
+48448	Kal’järvi
+48461	Korbilambi
+48462	Pyöröilambi
+48463	Valgeilambi
+48464	Bul’kkolambi
+48478	Lahtazjärvi
+48479	Palojärvi
+48483	Puoroinjärvi
+48484	Sändämänjärvi
+48485	Mudajärvi
+48486	Särgijärvi
+48514	Niisellänjärvi
+48516	Ärzjärvi
+48518	Ridjärvi
+48519	Aketinlambi
+48521	Havvatsellänjärvi
+48522	Puskusellänjärvi
+48523	Somedjärvi
+48524	Ižjärvi
+48526	Uutjärvi
+48527	Jelkenlambi
+48528	Villalanjärvi
+48541	Lambi
+48542	Kinalahtenjärvi
+48558	Lummazjärvi
+48561	Nouzemanjärvi
+48565	Ahvenjärvi
+48589	Корчагинское
+48606	Мурмозеро
+48608	Муромское
+48610	Нигижемское
+48627	Пречистой озеро
+48667	Белое
+48673	Долгое
+48677	Никитинское
+48762	Болтинка
+48791	Карачозеро
+48859	Ягольжина
+48861	Белое
+48873	Долгое
+48895	Малоозеро
+48916	Чёрное
+48927	Белое
+48989	Бадбозеро
+49008	Гусельное
+49009	Дальнее озеро
+49012	Долгое озеро
+49015	Кайдалампи
+49019	Ханкалампи
+49020	Кангасъярви
+49021	Питкяярви
+49022	Кайталампи
+49023	Чухмари
+49024	Питкалампи
+49026	Питкая
+49028	Питкулампи
+49029	Коверлампи
+49030	Куриклампи
+49031	Кальсонлампи
+49032	Кайдалампи
+49068	Енозеро
+49091	Купецкое
+49093	Тягозеро
+49095	Беляевское
+49125	Робозеро
+49132	Пёртозеро
+49143	Колмы-Кокка
+49144	Колмекоккане
+49145	Малое Куриклампи
+49146	Кайдаярви
+49147	Кайдалампи
+49148	Кайдалампи
+49149	Питкеламби
+49150	Узкое
+49151	Узкое
+49152	Коверозеро
+49153	Кукозеро
+49154	Кривозеро
+49155	Долгая ламбина
+49156	Долгое
+49157	Пюёрялампи
+49158	Ханкалампи
+49159	Полвилампи
+49160	Кангаслампи
+49161	Кайталампи
+49162	Кайталампи
+49163	Ковероярви
+49164	Каттилалампи
+49166	Колмы-Кокка
+49167	Колмекоккане
+49168	Малое Куриклампи
+49169	Кайдаярви
+49170	Кайдалампи
+49171	Кайдалампи
+49172	Питкеламби
+49173	Узкое
+49174	Узкое
+49175	Коверозеро
+49176	Кукозеро
+49177	Кривозеро
+49178	Долгая ламбина
+49179	Долгое
+49180	Пюёрялампи
+49181	Ханкалампи
+49182	Полвилампи
+49183	Кангаслампи
+49184	Кайталампи
+49185	Кайталампи
+49186	Ковероярви
+49187	Каттилалампи
+49189	Колмы-Кокка
+49190	Колмекоккане
+49191	Малое Куриклампи
+49192	Кайдаярви
+49193	Кайдалампи
+49194	Кайдалампи
+49195	Питкеламби
+49196	Узкое
+49197	Узкое
+49198	Коверозеро
+49199	Кукозеро
+49200	Кривозеро
+49201	Долгая ламбина
+49202	Долгое
+49203	Пюёрялампи
+49204	Ханкалампи
+49205	Полвилампи
+49206	Кангаслампи
+49207	Кайталампи
+49208	Кайталампи
+49209	Ковероярви
+49210	Каттилалампи
+49212	Колмы-Кокка
+49213	Колмекоккане
+49214	Малое Куриклампи
+49215	Кайдаярви
+49216	Кайдалампи
+49217	Кайдалампи
+49218	Питкеламби
+49219	Узкое
+49220	Узкое
+49221	Коверозеро
+49222	Кукозеро
+49223	Кривозеро
+49224	Долгая ламбина
+49225	Долгое
+49226	Пюёрялампи
+49227	Ханкалампи
+49228	Полвилампи
+49229	Кангаслампи
+49230	Кайталампи
+49231	Кайталампи
+49232	Ковероярви
+49233	Каттилалампи
+49242	Колмы-Кокка
+49243	Колмекоккане
+49244	Малое Куриклампи
+49245	Кайдаярви
+49246	Кайдалампи
+49247	Кайдалампи
+49248	Питкеламби
+49249	Узкое
+49250	Узкое
+49251	Коверозеро
+49252	Кукозеро
+49253	Кривозеро
+49254	Долгая ламбина
+49255	Долгое
+49256	Пюёрялампи
+49257	Ханкалампи
+49258	Полвилампи
+49259	Кангаслампи
+49260	Кайталампи
+49261	Кайталампи
+49262	Ковероярви
+49263	Каттилалампи
+49267	Ламба
+49268	Ламба
+49285	Сяйгозеро
+49309	Бездонное
+49329	Падун
+49337	Колмы-Кокка
+49338	Колмекоккане
+49339	Малое Куриклампи
+49340	Кайдаярви
+49341	Кайдалампи
+49342	Кайдалампи
+49343	Питкеламби
+49344	Узкое
+49345	Узкое
+49346	Коверозеро
+49347	Кукозеро
+49348	Кривозеро
+49349	Долгая ламбина
+49350	Долгое
+49351	Пюёрялампи
+49352	Ханкалампи
+49353	Полвилампи
+49354	Кангаслампи
+49355	Кайталампи
+49356	Кайталампи
+49357	Ковероярви
+49358	Каттилалампи
+49360	Колмы-Кокка
+49361	Колмекоккане
+49362	Малое Куриклампи
+49363	Кайдаярви
+49364	Кайдалампи
+49365	Кайдалампи
+49366	Питкеламби
+49367	Узкое
+49368	Узкое
+49369	Коверозеро
+49370	Кукозеро
+49371	Кривозеро
+49372	Долгая ламбина
+49373	Долгое
+49374	Пюёрялампи
+49375	Ханкалампи
+49376	Полвилампи
+49377	Кангаслампи
+49378	Кайталампи
+49379	Кайталампи
+49380	Ковероярви
+49381	Каттилалампи
+49383	Колмы-Кокка
+49384	Колмекоккане
+49385	Малое Куриклампи
+49386	Кайдаярви
+49387	Кайдалампи
+49388	Кайдалампи
+49389	Питкеламби
+49390	Узкое
+49391	Узкое
+49392	Коверозеро
+49393	Кукозеро
+49394	Кривозеро
+49395	Долгая ламбина
+49396	Долгое
+49397	Пюёрялампи
+49398	Ханкалампи
+49399	Полвилампи
+49400	Кангаслампи
+49401	Кайталампи
+49402	Кайталампи
+49403	Ковероярви
+49404	Каттилалампи
+49406	Колмы-Кокка
+49407	Колмекоккане
+49408	Малое Куриклампи
+49409	Кайдаярви
+49410	Кайдалампи
+49411	Кайдалампи
+49412	Питкеламби
+49413	Узкое
+49414	Узкое
+49415	Коверозеро
+49416	Кукозеро
+49417	Кривозеро
+49418	Долгая ламбина
+49419	Долгое
+49420	Пюёрялампи
+49421	Ханкалампи
+49422	Полвилампи
+49423	Кангаслампи
+49424	Кайталампи
+49425	Кайталампи
+49426	Ковероярви
+49427	Каттилалампи
+49429	Колмы-Кокка
+49430	Колмекоккане
+49431	Малое Куриклампи
+49432	Кайдаярви
+49433	Кайдалампи
+49434	Кайдалампи
+49435	Питкеламби
+49436	Узкое
+49437	Узкое
+49438	Коверозеро
+49439	Кукозеро
+49440	Кривозеро
+49441	Долгая ламбина
+49442	Долгое
+49443	Пюёрялампи
+49444	Ханкалампи
+49445	Полвилампи
+49446	Кангаслампи
+49447	Кайталампи
+49448	Кайталампи
+49449	Ковероярви
+49450	Каттилалампи
+49452	Колмы-Кокка
+49453	Колмекоккане
+49454	Малое Куриклампи
+49455	Кайдаярви
+49456	Кайдалампи
+49457	Кайдалампи
+49458	Питкеламби
+49459	Узкое
+49460	Узкое
+49461	Коверозеро
+49462	Кукозеро
+49463	Кривозеро
+49464	Долгая ламбина
+49465	Долгое
+49466	Пюёрялампи
+49467	Ханкалампи
+49468	Полвилампи
+49469	Кангаслампи
+49470	Кайталампи
+49471	Кайталампи
+49472	Ковероярви
+49473	Каттилалампи
+49542	Kaarilampi
+49557	Sutimusjärvi
+49564	Murronjärvi
+49577	Mollitsälampi
+49590	Huabulambi
+49591	Pyydöilambi
+49592	Särnärvi
+49612	Rodinjärvi
+49634	Ровкозеро Малое
+49767	Повежа
+49864	Конье
+49881	Ровкозеро
+49908	Ламба
+49922	Рымбозеро
+49934	Мурмозеро
+49935	Нурмозеро
+50008	Lintujärvi
+50036	Tohtazjärvi
+50037	Peizjärvi
+50039	Kimusellänjärvi
+50040	Mustulambi
+50041	Valgeijärvi
+50042	Pyhäjärvi
+50043	Sändämä
+50044	Manasterin Songoijärvi
+50045	Mudain
+50046	Kalijärvi
+50047	Kylänjärvi
+50055	Soarimäenjärvi
+50073	Ked’järvi
+50094	Kinjärvi
+50110	Uuradjärvi
+50151	Hongad
+50157	Kanambrojärvi
+50158	Pert’järvi
+50159	Oruzjärvi
+50164	Ongimusjärvi
+50166	Hižjärvi
+50167	Vaimučči
+50168	Happamuzjärvi
+50169	Särgilambi
+50170	Lambisellänlambi
+50172	Sammallambi
+50175	Raivallambi
+50176	Kal’järvi
+50189	Korbilambi
+50190	Pyöröilambi
+50191	Valgeilambi
+50192	Bul’kkolambi
+50206	Lahtazjärvi
+50207	Palojärvi
+50211	Puoroinjärvi
+50212	Sändämänjärvi
+50213	Mudajärvi
+50214	Särgijärvi
+50242	Niisellänjärvi
+50244	Ärzjärvi
+50246	Ridjärvi
+50247	Aketinlambi
+50249	Havvatsellänjärvi
+50250	Puskusellänjärvi
+50251	Somedjärvi
+50252	Ižjärvi
+50254	Uutjärvi
+50255	Jelkenlambi
+50256	Villalanjärvi
+50269	Lambi
+50270	Kinalahtenjärvi
+50286	Lummazjärvi
+50289	Nouzemanjärvi
+50293	Агвинярви
+50317	Корчагинское
+50334	Мурмозеро
+50336	Муромское
+50338	Нигижемское
+50355	Пречистой озеро
+50395	Белое
+50401	Долгое
+50405	Никитинское
+50490	Болтинка
+50519	Карачозеро
+50587	Ягольжина
+50589	Белое
+50601	Долгое
+50623	Малоозеро
+50644	Чёрное
+50655	Белое
+50680	Большедворское
+50681	Глухое
+50682	Маленькое
+50695	Карась
+50712	Телькозеро
+50720	Кривое
+50742	Пахмозеро
+50743	Ленёво
+50744	Ченчезеро
+50746	Тоозеро
+50748	Пискозеро
+50749	Паозерко
+50750	Савкино
+50751	Глухое
+50780	Лисье
+50786	Карасозеро
+50787	Мыстинское
+50788	Харютино
+50792	Пашмозеро
+50807	А́ндозеро
+50808	Лисье
+50809	Сывозеро
+50819	Онечье
+50836	Карасье
+50837	Щучье
+50839	Соренка
+50840	Валгум
+50841	Пустыня
+50843	Копач
+50844	Лапач
+50845	Капач
+50846	Филинка
+50847	Солмас
+50852	Куфтейка
+50865	Белое
+50866	Карасье
+50867	Маленькое
+50877	Кутузовское
+50878	Мироновское
+50879	Кутузовское Малое
+50886	Волчье
+50889	Яргодское
+50897	Конецкое
+50898	Ганютинское Большое
+50899	Ганютинское Маленькое
+50949	Дмитровское
+50950	Круглое
+50951	Глубокое
+50952	Сярмозеро
+50960	Ближнее
+50970	Колдомское
+51033	Ивановское
+51034	Среднее
+51113	Щучье
+51114	Кутузовские озера
+51127	Бездонка
+51128	Полновко
+51129	Дмитриевское
+51138	Чёрное
+51151	Круглое
+51152	Долгое
+51156	Лебяжье
+51157	Большое Сярмозеро
+51158	Устьинское
+51178	Карасья Лужа
+51179	Бездонка
+51185	Остафурово
+51266	Бекреневское
+51272	Устебское Сармозеро
+51273	Сармозеро
+51316	Жабья Лужа
+51392	Коярские озера
+51437	Ухтомьярское
+51442	Келгозеро
+51483	Таборы
+51492	Большое
+51493	Маленькое
+51505	Лухтозеро
+51506	Сухое
+51507	Малое Сухое
+51538	Первое
+51539	Переднее
+51540	Среднее
+51541	Заднее
+51634	Веретинское озерко
+51636	Лухта Большая
+51637	Лухта Маленькая
+51647	Белое
+51650	Никитинское
+51664	Чёрное
+51672	Карасье
+51745	Suojenlampi
+51752	Vehkalampi
+51806	Hulkonlampi
+51810	Sisusjärvi
+51812	Tokolampi
+51837	Uolevilampi
+51855	Ketjelampi
+51866	Laatokka
+51882	Kirjavalampi
+51893	Sileälampi
+51894	Mierosuonlampi
+51911	Mustalampi
+51946	Ryökälampi
+51952	Riuttalampi
+52035	Ожниваярви
+52045	Pohjalampi
+52046	Maitolampi
+52058	Puanalajärvi
+52069	Hiizijärvi
+52108	Valkieisjärvi
+52112	Lehmälambi
+52147	Hietalambi
+52148	Tiitanlambi
+52161	Lahnalambi
+52178	Heralambi
+52194	Karangolambi
+52202	Ortšoušjärvi
+52204	Viluturkki
+52218	Kuivausjärvi
+52226	Ruoppamojärvi
+52230	Niskajärvi
+52237	Ristijärvet
+52238	Norva
+52239	Matkat
+52240	Suarijärvi
+52241	Rijonjärvi
+52243	Mustalambi
+52258	Paukkoljajärvi
+52264	Kuorajärvi
+52267	Lukanjärvi
+52270	Kangaslambi
+52275	Пост-ламбина
+52277	Подкова-ламбина
+52282	Papinlambi
+52283	Pappilalambi
+52285	Бочка-ламбина
+52289	Верхнее Širkko
+52291	Нижнее Širkko
+52292	Сосновая ламбина
+52293	Лебединая ламбина
+52294	Norvajärvi
+52299	Matkajärvet
+52300	Верхняя Матка
+52301	Средняя Матка
+52302	Лебединое озеро
+52303	Нижняя Матка
+52304	Шаль
+52306	Сягозеро
+52307	Kuikkalambi
+52308	Плотвиная ламбина
+52309	Архипова ламбина
+52310	Глубокая ламбина
+52311	Тростниковая ламбина
+52312	Лещевое озеро
+52313	Язёвое озеро
+52314	Ahvenlambi
+52315	Мальва
+52316	Mualijärvi
+52350	Pahkalambi
+52361	Pohjalambi
+52377	Vermazjärvi
+52379	Kuuvenviršanlambi
+52394	Valkieizjärvi
+52476	Ožnivajärvi
+52523	Куйваш
+52524	Чуруж
+52526	Онче
+52528	Воингозеро
+52529	Шавля
+52530	Степаново
+52531	Плотвица
+52532	Дянги
+52533	Окунь
+52534	Свиринлампи
+52535	Майбалампи
+52537	Муезеро
+52540	Хангозеро
+52541	Малое Хангозеро
+52542	Плавучее
+52543	Таркозеро
+52544	Каменистое
+52545	Длинное
+52546	Верхнее Михайловское
+52547	Нижнее Михайловское
+52548	Среднее
+52549	Еттозеро
+52550	Кевятозеро
+52552	Водалампи
+52553	Лобаш
+52554	Анкама
+52555	Куккомозеро
+52556	Сумоярви
+52557	Вермас
+52558	Сигозеро
+52559	Карма
+52561	Большая Кейга
+52562	Малая Кейга
+52564	Воронье
+52565	Пебозеро
+52566	Корнизозеро
+52567	Ганзанлампи
+52568	Келляк
+52569	Большой Лобуш
+52570	Лежево
+52571	Поросозеро
+52572	Маслозеро
+52573	Каливоярви
+52574	Рокково
+52575	Лесное
+52576	Большое Кривое
+52577	Топорное
+52578	Алозеро
+52579	Юляозеро
+52580	Мусорное
+52581	Юзмозеро
+52582	Хизозеро
+52583	Сегеми
+52584	Островное
+52598	Pitkälambi
+52620	Koškilambi
+52621	Tagalambi
+52646	Vihtolambi
+52650	Keskilambi
+52653	Čukkurilammit
+52654	Šuarisjärvi
+52655	Hangaizdärvi
+52671	Karinlambi
+52673	Kortehlambi
+52684	Kevätyšlambi
+52736	Šärgilambi
+52796	Кузо́зеро
+52800	Войноозеро
+52802	Слю́динские ламбины
+52803	Че́рная ламбина
+52804	Гуси́ная ламбина
+52805	Све́тлая ламбина
+52806	Окуне́ва ламбина
+52807	Кру́глая ламбина
+52809	Кетькозеро
+52963	Гага́рье озерко
+53227	Žil’čoinjärvi
+53228	Lindujärvi
+53232	Riidulambi
+53234	Lumaddärvi
+53235	Лумбозеро
+53236	Ридламби
+53237	Ченжекескозеро
+53238	Čond’žoijärvi
+53241	Кескозеро
+53246	Евсиламби
+53247	Jeusinlambi
+53252	Kaugoidärvi
+53255	Валгиламби
+53258	Ладва
+53259	Ladvujärvi
+53276	Емельяново
+53277	Афанасьево
+53280	Урядламби
+53285	Палоламби
+53286	Palolambi
+53287	Сювя-Кайдламби
+53288	Кургиламби
+53289	Мадауламби
+53290	Регамойламби
+53294	Uradlambi
+53295	Niittülambi
+53296	Нииттуламби
+53297	Коргойярви
+53298	Пехкуламби
+53299	Pehkolambi
+53300	Валейламби
+53307	Хейнуламби
+53308	Heinülambi
+53309	Торосозеро
+53310	Torasjärvi
+53314	Мусталамби
+53315	Mustulambi
+53316	Вехтозеро
+53317	Vehtozero
+53318	Пололамби
+53319	Palolambi
+53320	Суярви
+53324	Lambi
+53329	Белое
+53331	Valgeijärvi
+53342	Коветламби
+53376	Куаделамби
+53381	Koverlambi
+53384	Оярви
+53386	Ojärvi
+53387	Екколамби
+53388	Эйнуламби
+53425	Ковер
+53426	Koveranlambi
+53427	Райго
+53467	Виллалское
+53468	Villalanjärvi
+53469	Коткозеро
+53470	Kotkatjärvi
+53471	Утозеро
+53472	Uutjärvi
+53494	Палаламби
+53500	Kuadeilambi
+53518	Ur’atlambi
+53519	Omel’l’anlambi
+53520	*Syvä Kaidulambi
+53525	Kurgilambi
+53529	Madallambi
+53530	Suojärvi
+53614	Гойламби
+53615	Hoilambi
+53691	Фодила-Кайдуламби
+53692	Алагайнаярви
+53693	Маяйламби
+53694	Majalambi
+53695	Суариярви
+53696	Suarijärvi
+53702	Суаламби
+53703	Белое
+53704	Valgeijärvi
+53720	Тедерламби
+53721	Tedrilambi
+53725	Локоламби
+53726	Lohkolambi
+53731	Калатайярви
+53732	Kalatoijärvi
+53734	Ковламби
+53735	Кайдуламби
+53736	Kaidulambi
+53758	Мегрозеро
+53759	Mägräddärvi
+53768	Лебяжье
+53818	Valgeilambi
+53819	Чилмозеро
+53820	Čil’mitjärvi
+53877	Хеболамби
+53878	Hebolambi
+53879	Евченламби
+53880	Joučenlambi
+53883	Fadilan Kaidulambi
+53887	Heinülambi
+53968	Туомиярви
+53969	Tuomijärvi
+53970	Валгеярве
+53971	Valgeijärvi
+54001	Сорбала
+54002	Sorbolandärvi
+54021	Векколаярви
+54024	Мустламби
+54025	Кимусельгское
+54026	Kiimusellänjärvi
+54027	Пюгяярви
+54028	Pyhäjärvi
+54034	Коллярви
+54035	Kalijärvi
+54047	Нинисельгское
+54048	Niisellänjärvi
+54054	Сометярви
+54055	Sometinjärvi
+54058	Тулосозеро
+54059	Tuulosjärvi
+54060	Пускуярви
+54061	Puskujärvi
+54065	Ирзиярви
+54066	Arzijärvi
+54069	Пейзиярви
+54070	Peizjärvi
+54073	Суярви
+54074	Suojärvi
+54075	Мудоярви
+54076	Mudajärvi
+54079	Ахвейламби
+54080	Ahvoilambi
+54083	Сонгое
+54084	Soŋgoijärvi
+54087	Ламбера
+54088	Lambero
+54094	Кохтинское
+54095	Kohtjärvi
+54096	Вельгоярви
+54134	Кинор
+54135	Линдоя
+54136	Lindudärvet
+54143	Лимбиярви
+54153	Кюлюярви
+54154	Külüjärvi
+54155	Сяндебское
+54156	Sändämänjärvi
+54161	Сарьмяги
+54164	Тенгусельга
+54165	Tenhunjärvi
+54166	Конгозъярви
+54167	Kaŋgasjärvi
+54168	Пялизъярви
+54171	Лемозеро
+54172	Lemijärvi
+54176	Пигаярви
+54177	Pühäjärvi
+54178	Рыбное
+54179	Kalajärvi
+54182	Новинское
+54183	Žilčoinjärvi
+54186	Сяргиярви
+54187	Särgijärvi
+54188	Питкоярви
+54189	Pitküjärvi
+54204	Новоземское
+54231	Кябозеро
+54232	Долгое
+54234	Мегрозеро
+54236	Хангозеро
+54241	Каменное
+54243	Лебозеро
+54246	Плоское
+54247	Каллеярви
+54249	Сарозеро
+54250	Согинское
+54252	Лоянское
+54254	Вехкозеро
+54264	Ташкенское
+54306	Корбаозеро
+54307	Келкозеро
+54309	Уннуксат
+54311	Аннук
+54312	Нагаярви
+54313	Сурь-Кортесламба
+54321	Пень-Кортесламба
+54393	Умбаламба
+54394	Ковашламба
+54396	Мутное
+54401	Паяозеро
+54406	Карниж
+54407	Karnižjärvi
+54410	Мудаламба
+54475	Лахоитламби
+54476	Лебяжье
+54478	Белое
+54498	Линдоярви
+54542	Ки́слое
+54562	Лебя́жье
+54571	Великое
+54572	Пулозеро
+54630	Черное
+54683	Undusend’ärved
+54684	Корбозеро
+54709	Солёно Озерко
+54718	Рыбное
+54719	Лебяжье
+54722	Ригачные
+54723	Поземские
+54724	Пиземские
+54758	Гридинско
+54759	Хамово
+54812	Черный озерки
+54817	Шоромлужское
+54940	Кяткозеро
+54951	Чёрные Озерки
+54970	Кисло
+54971	Бабье море
+54972	Лисье
+54986	Щучьи Озёра
+54988	Мельничное
+54990	Пойдомское
+54991	Рыбные Озера
+54992	Смольно
+54999	Неверово
+55000	Пойземское
+55001	Поземское Малое
+55011	Самойлино
+55012	Лабасный Круглыш
+55014	Рогозеро
+55017	Щучье
+55020	Гнездова Ламбина
+55022	Мурашево
+55025	Узко Виловата
+55066	Мала Яголамбина
+55067	Больша Яголамбина
+55081	Сонруцко
+55092	Сухогубское
+55107	Попово
+55202	Домашнее
+55206	Сигарецкие
+55219	Пиндозеро
+55250	Кадаярви
+55251	Сури-Латвоярви
+55252	Кескимяйнен
+55253	Марьясенлампи
+55254	Пейттолампи
+55259	Сювелампи
+55264	Кавадъярви
+55265	Kavadjärvi
+55267	Оярви
+55268	Мудоярви
+55269	Ивкожское
+55271	Каллиолампи
+55272	Сури-Ретсуярви
+55274	Сойкулами
+55276	Пиени-Ретсуярви
+55279	Лепеярви
+55280	Ламбушки
+55283	Михкалинлампи
+55287	Калаярви
+55288	Латвалампи
+55290	Кивилампи
+55291	Онгилампи
+55292	Чугунлампи
+55297	Паллелампи
+55298	Талккуналампи
+55299	Пиени-Талккуналампи
+55300	Ягъярви
+55307	Ахвенъярви
+55309	Калатуслампи
+55310	Кайтоярви
+55311	Ораваярви
+55312	Борисалампи
+55313	Киндасово
+55315	Кариярви
+55319	Маккозенъярви
+55322	Сяргилампи
+55324	Куйтонлампи
+55335	Чигойлампи
+55340	Болбалампи
+55343	Кодаярви
+55344	Каливлампи
+55345	Левойлампи
+55346	Терваскандо
+55348	Суолампи
+55352	Мемейлампи
+55354	Пюйге
+55360	Кодалампи
+55361	Чутолампи
+55366	Суонъярви
+55367	Сярьгъярви
+55370	Тулмозеро
+55371	Хирваслампи
+55376	Сельгемюслампи
+55377	Пульчелла
+55379	Кангаслампи
+55392	Дросуллампи
+55393	Пялозеро
+55395	Укколампи
+55396	Емолампи
+55402	Кинеярви
+55416	Rugonlambi
+55417	Han’kašlambi
+55419	Vuaranlammit
+55431	Madalajärvi
+55432	Vaččidärvi
+55433	Polvijärvi
+55434	Ipatinjärvi
+55435	Kodilambi
+55437	Serafimanlambi
+55438	Kel’l’alambi
+55447	Čappahaini
+55448	Ahvenjärvi
+55452	Hallalambi
+55456	Синемукса
+55466	Валгейлампи
+55467	Лумбаское
+55472	Туомиярви
+55474	Петозеро
+55477	Гижозеро
+55479	Солъярви
+55481	Лумбас
+55482	Кодаламби
+55483	Сювайламби
+55485	Пехус
+55486	Пехус
+55487	Pehuslambi
+55488	Варлойлан-Чийракко
+55489	Лю-Ляярви
+55499	Туутун-Чийракко
+55500	Ахвойламби
+55501	Кайдуламби
+55502	Ридъярви
+55503	Палоламби
+55505	Кулмачуппу
+55508	Пуоройнъярви
+55510	Галват-Селлянъярви
+55512	Левдоламби
+55513	Левдоламби
+55514	Ояламби
+55515	Суоламби
+55516	Питкяламби
+55517	Суури-Чууруламби
+55520	Пиони-Чуруламби
+55521	Ояярви
+55522	Сяппявааранъярви
+55523	Курчаламби
+55524	Тигверинъярви
+55525	Степананъярви
+55526	Ивкиярви
+55536	Кяснясенъярви
+55537	Оннинлампи
+55541	Хеполампи
+55542	Кескимяярви
+55552	Койвусенъярви
+55557	Леполампи
+55560	Лахтолампи
+55565	Питкеярви
+55567	Мульяна
+55569	Капитонлампи
+55571	Хаукилампи
+55572	Дорогалампи
+55573	Ручлампи
+55574	Касармилампи
+55578	Пиени-Валкеалампи
+55584	Пиенилампи
+55588	Палоярви
+55594	Рихилампи
+55631	Tulomdjärvi
+55637	Евченъярви
+55642	Лангиярви
+55649	Хаугиярви
+55650	Адъярви
+55652	Няпичьярви
+55653	Сярвиярви
+55657	Кивиярви
+55658	Гаппамус
+55659	Валгилампи
+55663	Сяргиярви
+55664	Гижозеро
+55669	Койвуярви
+55670	Кук
+55672	Ваймач
+55673	Онгимус
+55674	Нялмозеро
+55678	Чайкойламби
+55681	Сяргиярви
+55682	Куккозеро
+55686	Турколампи
+55689	Вялдсяренъярви
+55692	Соматъярви
+55695	Оравуярви
+55697	Оялампи
+55708	Ведлозеро
+55709	Vieljärvi
+55711	Вихтанъярви
+55724	Урадъярви
+55727	Вилгиярви
+55728	Пелтери
+55729	Хлебное
+55733	Таройламби
+55734	Сариламби
+55735	Мудаламби
+55736	Тетламби
+55737	Пасламби
+55739	Вохтозеро
+55740	Сувдинламби
+55741	Поройламби
+55742	Карьязъярви
+55743	Валгейярви
+55744	Мустуярви
+55745	Габозеро
+55749	Оникеламби
+55750	Сориколамби
+55751	Укокламби
+55752	Сольярви
+55753	Юрмеколамби
+55754	Кахтенламби
+55755	Харитан
+55758	Щеккила
+55759	Турумюсъярви
+55762	Витяри
+55763	Агвейярви
+55764	Кайджари
+55769	Каскозеро
+55770	Пюреярви
+55773	Белое
+55774	Энтюри
+55775	Павуаку
+55833	Озерко
+55982	Ланитозеро
+55983	Ahvenlambi
+56053	Лувозеро
+56054	Vadasalmi
+56056	Летнее озеро
+56067	Kežärvi
+56113	Средняя Ку́прияновка
+56114	Нижняя Ку́прияновка
+56187	Карпозерко
+56210	Ка́скозеро
+56212	Малое Габозеро
+56213	Вели́кое озеро
+56215	Большое Га́бозеро
+56216	Си́тозеро
+56217	Верхнее Ча́позеро
+56218	Нижнее Ча́позеро
+56220	Ви́длозеро
+56250	Летневарнишно Озеро
+56485	Ukonlampi
+56497	Tuoppajärvi
+56498	Топозеро
+56508	Худа́я ламба
+56509	Ла́вкозеро
+56510	Га́нгозеро
+56519	Ahvenlampi
+56521	Tokinlammit
+56557	Керкозеро
+56589	Лешозеро
+56597	Малдозеро
+56643	Mustulambi
+56648	Majalampi

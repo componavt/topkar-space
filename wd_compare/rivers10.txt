@@ -1,0 +1,1840 @@
+6	Jogi
+6	Koop’jogi
+36	Речка
+36	Усть-Яндомская речка
+36	Янда
+76	Базега
+94	Нурица
+140	Лимозерка
+220	Ключиха
+220	Макаровица
+639	Natka
+639	Natkain’e
+651	Slabadliin’ed’ogi
+696	Боровой ручей
+696	Кибручей
+768	Ручей под Косельгой
+768	Ручей у Половины
+768	Садамгубский ручей
+776	Vaagedoja
+812	Загубска речка
+812	Калеручей
+812	Мельничная река
+812	Пижейручей
+939	Межозерская речка
+971	Межозерье
+974	Загубский ручей
+974	Пижейручей
+1058	Septein’e
+1407	Кьяма
+1473	Нулица
+1570	Лельречка
+1731	Тигверинеги
+1944	Курьериха
+1944	Курьилов ручей
+1944	руч. Кургилов (ТК)
+1989	Sajam Лидь
+2001	Ключи
+2001	Макаровица
+2069	Ивода
+2081	Jogi
+2098	N’us
+2181	Ropal’
+2181	Ropal’jogi Ропля
+2288	Salg’ogi Шола
+2440	Kurb Курба
+2585	Londud’ogi
+2585	Salg’ogi
+2585	Шола
+2726	Ивода
+2896	Большая Сенатка
+2900	G’ogi Шола
+3129	Krupen’jogi Крупень
+3297	Kop’
+3297	Kop’jogi
+3615	Боровой ручей
+3615	Задняя река
+3615	Кибручей
+3676	Ковручей
+3803	Лелика
+3803	Лельречка
+4091	Антоновка
+4091	Антоновщина
+4091	Пергубская речка
+4091	Судомска речка
+4092	Антоновка
+4092	Антоновска речка
+4092	Антоновщина
+4092	Судомска речка
+4093	Антоновка
+4093	Антоновска речка
+4093	Антоновщина
+4093	Пергубска речка
+4751	Верхняя река
+4751	Путкозерка
+4752	Верхотинка
+4752	Путка
+4752	Путкозерка
+4874	Кузнецка река
+4874	Кузнецкая речка
+4874	Кузнецкий ручей
+5029	Верхняя
+5029	Путкозерка
+5138	Устрицкая речка
+5159	Палтегская река
+5159	Путкозерка
+5160	Глубокая речка
+5160	Палтегская река
+5198	Путкозерка
+5298	Падма
+5298	Падьма-река
+5298	Юлмацка река
+5313	Падма
+5313	Падьма
+5313	Падьма-река
+6300	Kondniemend’ogi
+6559	Kir’ga
+6708	And’žug
+6708	An’džikand’ogi
+6715	Царевка
+6807	Андриановская Речка
+6807	Царевска речка
+6941	Röks
+6941	Рокса
+6942	Pohd’dogi
+6942	Pohd’uud’ogi
+6942	Pohtand’ogi
+6942	Пахтя
+6942	Похта
+7105	Царевка
+7154	Царевка
+7157	Саража
+7795	Калейручей
+7799	Калейручей
+8177	Муна
+8234	Каларека
+8234	Теплая река
+8281	Калорека
+8281	Теплая река
+8281	Теплый ручей
+8282	Холодный ручей
+8290	Калорека
+8290	Теплый ручей
+8290	Ужная река
+8316	Мунарека
+8333	Лелека
+8333	Лельречка
+8334	Лейрека
+8334	Лельречка
+8555	Вожмариха
+8556	Глухая
+9197	Калейручей
+9517	hoz’n’eoja
+9935	Oulangad’ogi
+10014	Silmätöijogi
+10014	река Безглазая (карта)
+10161	Kežäd’ogi
+10520	Markindogi
+10520	река Безглазая (карта)
+10898	Yläd’ogi (ЗВЕ 1938)
+10898	рус.: Козледеги
+10919	Kivid’ogi
+10919	рус.: р. Лобаш
+11494	Tungutd’ogi
+11494	рус.: р. Тунгуда
+11617	Suijund’ogi
+11617	рус. Шуя
+11831	Luobašd’ogi (МРА 1928)
+12182	Siänd’ogi
+12322	Ču(u)ruksensuara (ЛЛД 1931)
+12322	Čuuruš (АВМ 1930)
+12322	рус.: Чуруж
+12471	рус.: Одава
+12545	Von’gind’ogi (ВВК 1935)
+12545	рус.: р. Воинга
+12548	Ylenärvensuara
+12672	Keski Kuužengi
+12672	рус.: Средняя Куженга
+12830	Падьма
+12858	Kuužangid’ogi
+12863	Lahnalamminoja
+12887	Šuarend’ogi (БИГ 1925)
+12918	Perttid’ogi (ГГИ 1947)
+12918	Šuarend’ogi
+13038	Путкозерка
+13070	Спировка.
+13070	Спировский ручей
+13145	Великая Грязь
+13145	Енарская река
+13299	Лельрека
+13299	Лельручей
+13675	Больша Река
+13721	Верхня Руйга
+14038	Мала река
+14662	Верхний Чижрецкий ручей
+14949	Мягрека
+15046	Пигмозерка
+15049	Сараручей
+15049	Сарый ручей
+15051	Пигмозерка
+15304	Тересская речка
+15324	Угма
+15324	Угоморечка
+15947	Чижирека
+17360	Чугмукса
+17938	Падмозерка
+17938	Падмозерская
+17938	Падмозёрка
+17938	Падмская
+17941	Падма
+17941	Падмозерка
+17941	Падмозерская
+17941	Падмская
+17945	Падма
+17945	Падмозерка
+17945	Падмозерская
+17945	Падмозёрка
+17946	Падма
+17946	Падмозерка
+17946	Падмозёрка
+17946	Падмская
+18182	Деригузовка
+18182	Мельницкая речка
+18216	Валгомозерка
+18216	Деригузовская речка
+18685	Uudad’ogi
+18685	Uudand’ogi
+18732	Kil’bod’ogi
+18797	Kezäd’ogi
+18845	Voingad’ogi
+18886	Šuobad’ogi
+18886	Šuopašjogi
+18995	Kebäd’ogi
+18999	Kevätd’ogi
+19048	Padunad’ogi
+19048	Siegimäd’ogi
+19076	Riihid’ogi
+19091	Padunad’ogi
+19091	Siegimänoja
+19098	Tagad’ogi
+19124	Akanšalmi
+19124	Kaijat
+19132	Yläd’ogi
+19244	Alad’ogi
+19245	Ohand’ogi
+19248	Keškid’ogi
+19257	Lambid’ogi
+19424	Äynäd’ogi
+19447	Kežäoja
+19567	Leiviskö
+19593	Mägrie
+19593	Mägrienoja
+19618	Ohta
+19621	Uramojogi
+19685	Paha Leiviskä
+19685	Uuranoja
+19722	Kurjušoja
+20010	Угольский ручей
+20033	Загорьска
+20070	Подкряжная
+20070	Покрешная
+20071	Подкрестная
+20071	Подкрешная
+20378	Ёнгорека
+20378	Енга
+20455	Кевот
+20455	Люлезерка
+20455	Люля
+20464	Ялмица
+20564	Сара
+20617	Ялмосрека
+20765	Кевот [ТК]
+20869	Верхняя река
+20950	Чекшарека
+20974	Пяла [ТК]
+21193	Пиккорека
+21200	Родоменжа
+21203	Родомежский ручей
+21203	Родоменжа
+21497	Цепса
+21577	Нела
+21577	Ниларека
+22125	Лисья река
+22150	Гарницкая река
+23028	Листига
+23372	Листига
+23375	Гарбия
+23375	Гарвица
+23421	Вистига
+23496	УНичрека
+23496	Уница
+23496	Унича
+23693	Puorusta
+23693	Puoruššand’ogi
+23693	Поруста (ТК)
+23731	Kivoja
+23732	Шуавадёги (ТК)
+23841	Шапшенга (ТК)
+23875	Kuivassalmend’ogi
+23875	Kuivatsalmi
+24018	Šammakkooja
+24400	Sellind’ogi
+24532	р. Хабанзя
+24578	Хабаньзя
+24578	Хабонзя
+24655	Sellid’ogi
+24655	Vidilä
+24933	Конданьзя Верхняя
+25030	Виксиньга
+25075	Конданьзя Нижняя
+25078	Кедра
+25225	Чорга
+25233	Черга
+25317	Пай
+25518	Pylvähänd’ogi
+25900	Čalnad’ogi
+25900	Чална
+25906	Lipčagai
+25906	Липчага
+25909	Truudnančauna
+26031	Kohaidaja
+26031	Särgilambinjogi
+26034	Madožlambind’ogi
+26036	Angand’ogi
+26036	Anganoja
+26036	Anged’ogi
+26058	Tabaroja
+26058	Tabaruoja
+26069	Sporn’ad’ogi
+26069	Spuornanoja
+26069	Spuorn’e
+26069	Спорни
+26114	Piäld’ogi
+26114	Пяла-речка
+26131	Kohadaid’ogi
+26131	Kohaidai
+26131	Särgilambinoja
+26349	Porožd’ogi
+26349	Порошречка
+26390	Šäidämäd’ogi
+26391	Jalgamad’ogi. Ялгомка
+26395	Ližmand’ogi
+26395	Лижма.
+26627	Randoz’orkand’ogi
+26627	Randärvend’ogi
+26627	Рандозерка
+26660	Vuažn’and’ogi
+26660	Важинка
+26664	Сярь
+26672	Верхняя Лижма
+26778	Lidžminoja
+27019	Суна Малая
+27052	Сандал
+27467	Zavodand’ogi
+27467	Викшарека
+27520	Šäynägguband’ogi
+27579	Zavodand’ogi
+27611	Melličad’ogi
+27660	Pit’källambind’ogi
+27741	Padazand’ogi
+27741	Puad’niemend’ogi
+27741	Падана
+27745	Puad’därvend’ogi
+27745	Puad’d’ogi
+27746	Puad’därvend’ogi
+27746	Puad’d’ogi
+27746	Падас
+27826	Čupund’ogi
+27826	Пурос
+27826	Речка
+27826	Чупский ручей
+27827	Čupund’ogi
+27827	Речка
+27828	Čupund’ogi
+27828	Пурос
+27901	Pitkällambind’ogi
+27918	Melličand’ogi
+27977	Huabd’ärvend’ogi
+27977	Huabend’o
+27977	Huabend’ond’ogi
+27978	Huabd’ärvend’ogi
+27978	Huabend’ond’ogi
+28281	Mužaland’ogi
+28324	Pyhäd’ogi
+28324	Святуха
+28329	Riipuzd’ogi
+28371	Вожа
+28383	Čabl’ad’ogi
+28383	Čabl’asd’ogi
+28383	Чабляручей
+28383	Чабляс
+28440	Karnižd’ogi
+28440	Карниж
+28902	Šoutar’v’end’ogi
+28990	Šokšund’ögi
+29071	Toin’ed’ögi
+29071	Toižegind’ögi
+29166	Vil’d’ögi
+29167	Vil’d’us
+29300	And’džukand’ogi
+29300	And’žukd’ogi
+29300	An’d’žug
+29301	An ’d’žug
+29301	And’žuk
+29301	And’žukd’ogi
+29490	Усланка
+29552	Uslankuud’ogi
+29552	Усланка
+29649	Kondijand’ogi
+29649	Kon’d’d’ogi
+29649	Медвежий
+29650	Медвежийб Kond’ogi
+29937	Pagastoja
+29937	Toižegind’ögi
+29937	Рыбрека
+29938	Pagastd’ögi
+29938	Рыбрека
+29971	Петлюкса
+30097	Put’kijoja
+30162	Mel’n’icd’ögi
+30165	Сельская
+30374	Дунай
+30616	Тёреская река
+30754	Тёрая
+30787	Kussal’ojeine
+30787	Kussel’
+30915	Sel’gand’ogi
+30939	Nila
+30939	Nilai
+30939	Nilaioja
+30939	Nilajanoja
+30939	Niloja
+30939	Нила
+30960	Mundusd’ogi
+30965	Муромля
+30970	Черная река
+30970	Шокша
+31000	Няра
+31743	Кирьга
+32224	S’oland’ogi
+32224	Кирьга
+32225	Шожма
+32227	Болотная
+32266	Kard’aiženčauna
+32278	Koskenčauna
+32322	D’ogi
+32400	Suunund’ogi
+32408	Čauna
+32408	Čaunand’ogi
+32613	Kosalmend’ogi
+32613	Kossalmend’ogi
+32696	Puadend’ogi
+32696	Puadnend’ogi
+32696	Паданоя
+32720	Tagad’ogi
+32720	Задняя
+32728	Čeudžanoja
+32728	Čeud’žand’ogi
+32728	Čeud’žed’ogi Чевжа
+32728	Čeužand’ogi
+32729	Čeužinoja
+32729	čeud’žunoja
+32729	Мал. Чевжа
+32741	Vilgand’ogi
+32832	Koskend’ogi
+32870	Nastoinuito
+32893	Puad’d’ärvend’ogi
+32931	Bratand’ogi
+32996	Riižnazd’ogi
+32996	Рижна
+33013	Tedrid’ogi
+33013	Tedrijoki
+33126	Каранга
+33143	Рандо Еж
+33424	D’ogi
+33445	Päläd’ogi
+33480	?Huabajovenjogi
+33480	Huabend’ond’ogi
+33495	Ruozmed’ogi
+33603	Pohd’ained’ogi
+34193	Päld’ogi
+34193	Pällä
+34226	Viäčynd’ogi
+34226	Viäččyd’ogi
+34226	Вятчель
+34318	Kudžand’ogi
+34318	Kučanoja
+34318	Кужарека
+34584	Soudd’ogi
+34584	Совда
+34672	Pyhäd’ogi
+34875	Piend’ogi
+34885	Sandaland’ogi
+34885	Сандалка
+34897	Čuud’ogi
+34897	Чувручей
+34917	Kard’ad’ogi
+34917	Гариус
+36606	Kirgad’ogi
+36606	S’oland’ogi
+36630	Tuošland’ogi
+36630	Tuošlanki
+36630	Tuošlankind’ogi
+36630	Tuošlankud’ogi
+36644	Vašoind’ogi
+36867	Kovašinjogi
+36878	Mägriänjogi
+36878	Мегрега
+36996	Änäd’ogi
+37235	Kuurond’ogi
+37266	Олонка
+37304	Soudand’oki
+37362	Jovensuunjogi
+37447	Vanhad’ogi
+37555	Ylid’ogi
+37560	Alanouzem
+37610	Suurid’ogi
+37610	Viidelend’ogi
+37612	Suurid’ogi
+37612	Viidelend’ogi
+37645	Kukkahanjogi
+37841	Ojanjogi
+37843	Taroinjogi
+37906	Ylid’ogi
+37906	Ylänouzem
+37909	Yližiänjogi
+37913	Šuunianjogi
+37915	Jogisildu
+37951	Nouzemand’ogi
+37951	Novzemand’ogi
+38080	Bullov’eh’henjogi
+38667	Кумбуса
+38834	Черча
+39178	Охтома
+39179	Охтама
+39230	Новгуда
+40824	Пильмаса
+40943	Река
+40944	Большая
+41017	Гакугса
+41021	Гакугса
+41098	Хелюлянйоки
+41197	Сормарека
+41208	Сорма
+41258	Тохмайоки
+41420	Варешручей
+41420	Вармишручей
+41436	Ноугуда
+41722	Сомбама
+41789	Варежа
+41789	Варешручей
+41790	Вареша
+41790	Варешручей
+41826	Ламуда
+41916	Чепша
+42176	Кедарека
+43364	Виксинда
+43365	Виксенда
+43692	Pamastanoja
+43692	Pamastu
+43810	Vuohtanoja
+43874	Nälmy
+43874	Nälmänd’ogi
+43874	Nälmänoja
+44002	Näkmy
+44002	Nälmänd’ogi
+44002	Nälmänjogi
+44028	Pamastanjogi
+44123	Kuronjogi
+44179	Videlend’ogi
+44182	Nouzemu
+44465	Kuuroijogi
+44480	Kohtand’ogi
+44480	Kuuroijogi
+44480	Kuurond’ogi
+44481	Kohtand’ogi
+44481	Kuuroijogi
+45308	Куореоя
+45399	Савайнйоки
+45652	Lahnojaine
+45907	Joutangijoki
+45941	Kiiskiejoki
+46101	čiksajoki
+47600	Nouzemanjogi
+47894	Филиппа
+47896	Филипречка
+48038	Lahnojaine
+48233	Nouzemand’ogi
+48233	Tykkyländ’ogi
+48233	Tykkylänjogi
+48234	Nousemanjoki
+48234	Tykkyländ’ogi
+48234	Tykkylänjogi
+48255	Tuuloksend’ogi
+48310	Mel’l’iččud’ogi
+48310	Гушкалка
+48320	Koskid’ogi
+48320	Гушкалка
+48323	Sändämänd’ogi
+48323	Čupund’ogi
+48323	Сяндебская
+48335	Tuuloksend’ogi
+48335	Tuulosd’ogi
+48335	Tuulosjogi
+48376	Kuurond’ogi
+48386	Lumbahand’ogi
+48386	Lummazd’ogi
+48414	Lumbahand’ogi
+48414	Lummazd’ogi
+48445	Änäd’ogi
+48446	Tulemand’ogi
+48480	Huškaland’ogi
+48481	Sorbaland’ogi
+48529	Pekind’ogi
+48531	Sändämänd’ogi
+48531	Čupund’ogi
+48531	Čupunjogi
+49961	Nouzemand’ogi
+49961	Tykkyländ’ogi
+49961	Tykkylänjogi
+49962	Nousemanjoki
+49962	Tykkyländ’ogi
+49962	Tykkylänjogi
+49983	Tuuloksend’ogi
+50038	Mel’l’iččud’ogi
+50038	Гушкалка
+50048	Koskid’ogi
+50048	Гушкалка
+50051	Sändämänd’ogi
+50051	Čupund’ogi
+50051	Сяндебская
+50063	Tuuloksend’ogi
+50063	Tuulosd’ogi
+50063	Tuulosjogi
+50104	Kuurond’ogi
+50114	Lumbahand’ogi
+50114	Lummazd’ogi
+50142	Lumbahand’ogi
+50142	Lummazd’ogi
+50173	Änäd’ogi
+50174	Tulemand’ogi
+50208	Huškaland’ogi
+50209	Sorbaland’ogi
+50257	Pekind’ogi
+50259	Sändämänd’ogi
+50259	Čupund’ogi
+50259	Čupunjogi
+50757	Лупкорга
+50972	Речка
+51438	Маттера
+51759	Куореоя
+51850	Савайнйоки
+53260	Ladvoja
+53260	Ladvujogi
+53261	Ladvoja
+53261	Ладвозерка
+53274	Боераноя
+53275	Bogranoja
+53278	Kanzoi(n)jogi
+53278	Канзозерка
+53281	Juva
+53281	Juvanjogi
+53281	Juvanoja
+53281	Юга
+53282	Juga
+53282	Juva
+53282	Juvanjogi
+53282	Juvanoja
+53283	Palo-oja
+53284	Палооя
+53303	A(u)nuksenjogi
+53303	Olonkanjogi
+53304	Olonkanjogi
+53304	Олонка
+53352	Papinoja
+53353	Папиноя
+53434	Pienijogi
+53496	Pitkoja
+53497	Питку
+53511	Kirvesjogi
+53515	Топорная
+53609	Малая Олонка
+53609	Пекки
+53613	Buolahanoja, Buoloveh
+53613	Болос Ручей
+53623	Ulvananjogi, Ulva(n)d’ogi, Ulvanjogi
+53629	Ulva(n)d’ogi, Ulvanjogi
+53629	Улванка
+53687	Kumboja, Kumboioja, Kumboine, Kumboi
+53688	Kumboioja, Kumboine, Kumboi
+53688	Кумбуоя
+53689	Os’kanoja, Os’kampellonoja
+53689	Осьнино; Должно быть Оськаноя
+53690	Os’kampellonoja
+53690	Осьнино
+53697	Čil’mitjogi, Čil’minjogi, Čil’miijogi, Čil’moz’orkanjogi
+53698	Čil’minjogi, Čil’miijogi, Čil’moz’orkanjogi
+53698	Чилмозерка
+53699	Majaoja
+53700	Majalla
+53700	Маяйоя
+53723	Tedrioja, Tedroja
+53724	Tedroja
+53724	Тедероя
+53727	Suojogi
+53728	Болотная
+53760	Mägriänjogi, Mägriänd’ogi
+53761	Mägriänd’ogi
+53761	Мегрега
+53762	Päč(č)oja, Päččioja
+53763	Päč(č)oja
+53763	Печная
+53770	Sammatuksenjogi, Sammatuksenoja, Sammatuzjogi, Sammatuzoja
+53773	Sammatuksenoja, Sammatuzjogi, Sammatuzoja
+53773	Самбатукса
+53881	Joučenoja
+53882	Евчен
+53973	Lappoja
+53974	Лаппоя
+53977	Puoroijogi
+53978	Порый
+53983	Pert’oja
+53984	Пертоя
+53985	Tuomoja
+53986	Туомиоя
+53987	Lumbazd’ogi, Lummasjogi, Lumbahand’ogi, Lummazd’ogi
+53988	Lumbazd’ogi, Lumbahand’ogi, Lummazd’ogi
+53988	Лумбас
+53989	Videlend’ogi
+53990	Видлица
+53993	Ülid’ogi
+53994	Юлиеги
+53995	Tu(u)losjogi, Tu(u)losd’ogi, Tu(u)lasjärenjogi, Tu(u)loksend’ogi, Tu(u)loksenjogi, Tulosskoijogi, Tu(u)losreka
+53996	Tu(u)losd’ogi, Tu(u)lasjärenjogi, Tu(u)loksend’ogi, Tu(u)loksenjogi, Tulosskoijogi, Tu(u)losreka
+53996	Тулокса
+53999	Ruižoja
+54000	Руйзоя
+54005	Aŋgasoja
+54006	Huškalanjogi
+54007	Гушкалка
+54008	Ганказоя
+54016	Kukšoja
+54017	Кукшаоя
+54032	Kal(l)oja
+54033	Kaloja
+54033	Каллоя
+54038	Puoroijogi
+54039	Puoroja
+54039	Пуоройоя
+54040	Anningasoja
+54041	Аннингазоя
+54042	Tihverinjogi
+54045	Tu(u)losjogi, Tu(u)lasjärenjogi
+54046	Тулосъярвенеги
+54063	Puskuoja
+54064	Пускуоя
+54067	Huškalanjogi, Huškalku
+54068	Гушкала
+54081	Kokoijogi
+54082	Кокаеги
+54089	Imahanoja
+54090	Ихоман
+54123	Kukasjogi
+54124	Кукас
+54137	Sändämänjogi
+54138	Сяньдебка
+54169	Tuksenjogi, Tuksajogi, Tuksand’ogi, Tuksenskoijogi
+54170	Tuksajogi, Tuksand’ogi, Tuksenskoijogi
+54170	Тукса
+54175	Sargoja, Sargoi, Sargoijogi
+54193	Pitkoja, Pitkoi, Pit’koioja, Pitkoiručei
+54193	Долгий ручей
+54194	Pitkoi, Pit’koioja, Pitkoiručei
+54194	Пидкруч, Долгий ручей
+54205	Nouzemand’ogi, Novzemand’ogi, Nouzemanjogi
+54216	Maioja, Majoja
+54233	Karnižjogi, Karnižd’ogi
+54239	D’ogensuund’ogi
+54242	Pohd’dogi, Pohd’uud’ogi, Pohtand’ogi, Pohd’ogi
+54242	Пахтя
+54245	Kondijand’ogi, Kon’d’d’ogi, Kond’ogi
+54253	Uslankuud’ogi, Uslankuund’ogi
+54255	Suod’ogi
+54258	Kovažjogi
+54259	Коваш
+54260	Mustujogi
+54261	Черная
+54268	Änäd’ogi
+54486	An’d’žuk
+54487	Анчега
+54634	Поземска
+54989	Позема
+55023	Мурашевская
+55164	Куньжаручей
+55248	Loimolanjoki
+55248	Лоймоланйоки
+55249	Лоймож
+55333	Большая Калаярви
+55337	Колласйоки
+55504	Вилуоя
+55636	Евчемоя
+55700	Кейда
+55748	Вухтанёги
+56055	Черная речка
+56153	Шяйдямка
+56517	Ylijoki
+56518	Kepajoki
+6	Koop’
+36	Яндома
+76	Baz’egg’ögi
+94	Нулица
+140	Лимбозерка
+220	Ключи
+241	Juustoišuara
+393	Melliččumäinrandu
+434	Toižens’eptang’ögi
+639	Natk
+651	Slabadd’ögi
+696	Боровая река
+712	S’eptang’ögi
+745	Jovenšuarat
+768	Половина
+776	N’uš
+812	Загубский ручей
+819	Portomoja
+939	Межозерье
+940	Oja
+971	Межозерская речка
+974	Мельничная река
+980	Pondolang’ögi
+1058	Septain’e
+1333	Natkain’eg’ögi
+1407	K’ämg’ögi
+1408	Янсора
+1448	Maldo
+1450	Kurb
+1473	Нурица
+1570	Виговская река
+1731	Tihverinjogi
+1767	Sepatk sur’
+1772	Lemi
+1794	Sepatk pen’
+1869	Sept
+1944	Курилиха
+1989	Šajämjogi
+1991	Saražk
+2001	Ключиха
+2026	Пороги
+2069	Ivad(g’ögi)
+2081	L’id
+2098	Vaagedoja
+2181	Ropl’a
+2288	G’ögi
+2366	Pondag’ögi
+2440	Kurba
+2545	Ярбозерка
+2585	Londug’ögi
+2726	Ivat
+2740	Корбозерская речка
+2896	Sur’ septein’e
+2900	Šalg’ögi
+2938	Коснуха
+3122	Черный ручей
+3129	Krupen’
+3146	Jogi
+3154	Малая Тамбица
+3167	Задняя река
+3297	Jogi
+3437	Lahtjogi
+3476	Ponda(l)g’ögi
+3612	Kivikolo
+3615	Боровушка
+3676	Колгубска река
+3760	Pen’ekain’e S’eptein’e
+3803	Лейрека
+3807	Velikii(g’ögut)
+3873	Саража
+3958	Mišukanoja
+4033	Litik
+4091	Антоновска речка
+4092	Пергубская речка
+4093	Судомска речка
+4324	Судма
+4392	Маткозерка
+4751	Верхотинка
+4752	Верхняя река
+4806	Глухая речка
+4874	Кузнецкая река
+5029	Пу́тка
+5138	Устьрека
+5159	Глубо́кая ре́чка
+5160	Путкозерка
+5175	Камешек
+5198	Палтегская река
+5298	Падьма
+5313	Юлмацка река
+6039	Букин Порог
+6194	Черная река
+6235	Челозерка
+6300	Kondied’ogi
+6559	S’oland’ogi
+6708	An’d’žukand’ogi
+6715	Андриановская Речка
+6807	Царевка
+6941	Roksand’ogi
+6942	Pohd’ogi
+7105	Зарецкая Речка
+7154	Романовская Речка
+7157	Саранжа
+7795	Подкрежная река
+7799	Дальняя река
+8177	Мунорека
+8234	Калорека
+8281	Ужная река
+8282	Холодная река
+8290	Тёплая река
+8316	Муна
+8333	Лейрека
+8334	Лелека
+8555	Глухая
+8556	Вожмариха
+8938	Кузнецкая Ручейка
+9197	Широкопольская река
+9295	D’äšar’vd’ogi
+9373	D’ogi
+9374	D’ogi
+9395	D’änišanrova
+9405	D’äšar’vd’ögi
+9410	D’ogi
+9411	D’ögi
+9413	D’ögi
+9517	Hoz’n’egd’ögi
+9537	Hamand’ogi
+9607	Isakd’ogi
+9644	Kalag’d’ögi
+9735	Kiviioja
+9935	Oulangajogi
+9944	Guumarizizend’ogi
+9986	Koverad’ogi
+10014	Markind’ogi
+10131	Miinad’ogi
+10161	Kezäd’ogi
+10520	Šilmätöijogi
+10839	Alad’ogi
+10898	Kaizl’ad’ogi
+10919	Luobašd’ogi
+11494	Tunguond’ogi
+11617	Šuijunjogi
+11831	Kivid’ogi
+12149	Вонторы
+12182	Siänjogi
+12322	Čuuružd’ogi
+12395	Melliččäd’ogi
+12467	Niškad’ogi
+12471	Odavad’ogi
+12545	Voingind’ogi
+12548	Ylenidärvensuara
+12672	Keskimmäini Kuužengi
+12827	Падьма
+12830	Падун
+12831	Песочная
+12858	Kuužengid’ogi
+12863	Lahnad’ogi
+12887	Perttid’ogi
+12905	Ruvad’ogi
+12918	Suarend’ogi
+12964	Bohtajogi
+13038	Путка
+13070	Вьюнка
+13125	Усть-Матка
+13145	Генарская река
+13176	Лихотинка
+13299	Лельречка
+13343	Берёзовка
+13587	Тёплая река
+13594	Умпажская речка
+13675	Большая река
+13721	Верхняя Руйга
+13765	Вяга
+13856	Заячка
+13988	Лёвушка
+14038	Малая река
+14173	Кефтенецкое русло
+14441	Черная речка
+14525	Есинское русло
+14579	Кажемка
+14662	Чижрека
+14749	Кузрека
+14949	Мягра
+15026	Подымарева речка
+15046	Пигма
+15049	Сароручей
+15051	Смонуха
+15133	Верхняя река
+15135	Нижняя река
+15156	Пятницкий ручей
+15283	Муна
+15288	Красная речка
+15304	Тережская река
+15324	Угома
+15679	Нюхча
+15694	Нёрмуша
+15901	Ухта
+15903	Ухтица
+15947	Чижрека
+15977	Кряжова река
+16050	Чесца
+17092	Путка
+17360	Гормельница
+17625	Пирека
+17938	Падма
+17941	Падмозёрка
+17945	Падмская
+17946	Падмозерская
+18182	Деригузовская речка
+18216	Мельницкая речка
+18289	Гиждевица
+18527	Переусь
+18569	Тунатрека
+18685	Uudanjogi
+18732	Kil’bojogi
+18797	Kezäjogi
+18845	Voingi
+18886	Šuobajogi
+18946	Votulma
+18995	Kebajogi
+18999	Kevätjogi
+19034	Odava
+19048	Padunajogi
+19076	Riihijogi
+19091	Siegimäjogi
+19098	Tagajogi
+19124	Akansalmenjogi
+19132	Yläjogi
+19244	Alajogi
+19245	Ohta
+19248	Keskijogi
+19257	Lambijogi
+19424	Äynyäjogi
+19425	Viidaoja
+19447	Kezäjogi
+19509	Kemi
+19567	Leiviskä
+19593	Mägriejogi
+19615	Oulunga
+19618	Outtuo
+19621	Paha Leiviskä
+19685	Uramojogi
+19722	Kurjusjogi
+20010	Угольская
+20033	Загорская
+20070	Подкрестная
+20071	Подкряжная
+20178	Орловский Ручей
+20378	Ёнгарека
+20400	Кузрека
+20455	Люляречка
+20459	Лебяжья
+20464	Лавнорека
+20547	Сойкорека
+20564	Сараречка
+20569	Соркозёрка
+20574	Тонкозёрка
+20601	Чёрная речка
+20616	Ялмица
+20617	Ялмасрека
+20765	Кеватречка
+20859	Педроречка
+20869	Пялорека Верхняя
+20925	Салорека
+20950	Тикшарека
+20952	Ухтица
+20974	Чагорека
+20999	Боевушка
+21059	Колежмарека
+21094	Курганец
+21106	Каткилозёрка
+21120	Лударека
+21174	Пенега
+21193	Пикорека
+21200	Ромежречка
+21203	Родоменьжа
+21216	Сумарека
+21247	Таларека
+21264	Чёрная речка
+21270	Габаречка
+21497	Цепца
+21510	Волга
+21533	Кяргозёрка
+21543	Коросрека
+21577	Нёлозёрка
+21619	Шайречка
+22125	Гарницкая река
+22150	Лисья река
+23028	Листега
+23043	Викша
+23121	Юнозерка
+23189	Кяйрека
+23324	Речка
+23372	Вистига
+23375	Гарвия
+23378	Гарвица
+23421	Листига
+23452	Нижняя Пигмозерка
+23467	Пигма
+23496	Уницрека
+23500	Чапа
+23505	Чобинка
+23638	Пайрека
+23693	Puoruštojogi
+23731	Kivioja
+23732	Šuavand’ogi
+23761	Jängärvenjogi
+23830	Ristišuonoja
+23841	Raudamoonoja
+23869	Venginoja
+23875	Kuivatšalmend’ogi
+23965	Kaššešoja
+23979	Palod’ogi
+23982	Muštaoja
+24001	Koilinoja
+24018	Pohd’oižoja
+24171	Šongond’ogi
+24214	Ивинка
+24228	Tumba
+24400	Vidilä
+24402	Sellind’ogi
+24490	Semčund’ogi
+24532	Лахта
+24578	Хабанзя
+24605	Кяйрека
+24631	Киндас
+24655	Präkkiländ’ogi
+24875	Паланга
+24933	Канданзя Верхняя
+25030	Виксеньга
+25039	Воя
+25070	Калма
+25075	Канданзя Нижняя
+25078	Кёдра
+25093	Колода
+25101	Кулгома
+25129	Мышьи Черёва
+25176	Самара
+25216	Хабанзя Верхняя
+25225	Черга
+25228	Чёрная
+25233	Чорга
+25261	Ендрека
+25315	Малая Кяйрека
+25317	Пайрека
+25326	Няра
+25360	Черная речка
+25364	Печеняра
+25518	Pylväizd’ogi
+25520	Heinäoja
+25900	Čauna
+25906	Lipčaganjogi
+25909	Trudn’a
+26012	Hokaine
+26031	Särgilamminoja
+26034	Madožlamminjogi
+26036	Angajogi
+26058	Tabaraoja
+26069	Spuorn’ajogi
+26114	Piäljogi
+26131	Kohaidaja
+26349	Porozjogi
+26390	Šäidämäjogi
+26391	Jalgamajogi
+26395	Ližmanjogi
+26483	Čoramoja
+26530	Kaškananjogi
+26627	Randajärvenjogi
+26660	Vuažn’anjogi
+26664	Särgijogi
+26672	Ližmajogi
+26778	Ližminoja
+27019	Малая речка
+27052	Сандалка
+27467	Zavodanjogi
+27520	Säynyägubanjogi
+27579	Викшарека
+27611	Melličanjogi
+27660	Pitänlamminjogi
+27741	Puadniemenjogi
+27745	Падас
+27746	Puadjogi
+27826	Čupunjogi
+27827	Пурос
+27828	Речка
+27901	Pitkänlamminjogi
+27918	Melličänjogi
+27977	Huabajärvenjogi
+27978	Huabend’o
+28281	Mužalanjogi
+28324	Pyhäjogi
+28329	Riipusjogi
+28371	Vuažoja
+28383	Čäbländ’ogi
+28440	Karnižjogi
+28902	Sareid’är’vend’ogi
+28990	Šokšand’ögi
+29071	Toižed’ogi
+29166	Vil’d’us
+29167	Vil’d’ogi
+29300	And’žuk
+29301	And’žukanjogi
+29490	Plotind’ogi
+29552	Uslankuund’ogi
+29649	Kond’ogi
+29650	Kond’ijand’ogi
+29937	Pagastd’ögi
+29938	Pagastoja
+29971	P’etl’usoja
+30097	Put’kiioja
+30144	Posadand’ögi
+30162	Sel’gand’ogi
+30163	Sel’gand’ögioja
+30165	Sel’glain’ed’ogi
+30173	Plotind’ögi
+30306	Анга
+30374	Дунайрека
+30440	Корба Верхняя
+30441	Корба Нижняя
+30539	Нижнеозёрская река
+30566	Повяш
+30616	Тёрая
+30639	Шидрая
+30754	Тёреская река
+30769	Kukagd’and’ogi
+30787	Kushl’and’ogi
+30915	Mel’nicd’ogi
+30939	Nilaja
+30960	Mundus
+30965	Muroml’
+30970	Mustd’ogi
+30976	Mustoja
+31000	N’araoja
+31743	D’ogensuund’ogi
+32216	Pahad’ögi
+32224	S’olanjogi
+32225	Šožmand’ogi
+32227	Suod’ogi
+32266	Karjaiženčauna
+32278	Kozenčauna
+32322	Jogi
+32387	Sagarvajogi
+32392	Seruuha
+32400	Suununjogi
+32408	Čaunanjogi
+32613	Koskisalmenjogi
+32696	Puadnenjogi
+32720	Tagajogi
+32728	Čeužanjogi
+32729	Čeužanoja
+32741	Vilganjogi
+32832	Kosenjogi
+32870	Nastoinjogi
+32893	Puadjärvenjogi
+32931	Bratanjogi
+32996	Riižnazjogi
+33013	Tedrijogi
+33058	Гирвик
+33126	Karango*
+33143	Randajogi*
+33424	Jogi
+33445	Päläjogi
+33480	Huabend’onjogi
+33495	Ruozmejogi
+33603	Pohjainejogi
+33689	Paloja
+33740	Niva
+34193	Pälläjogi
+34226	Viäččyjogi
+34318	Kudžanjogi
+34584	Soudijogi
+34672	Pyhäjogi
+34875	Pienijogi
+34885	Sandalanjogi
+34897	Čuujogi
+34917	Karjajogi
+35302	Kyyrölänjoki
+35310	Puakanjoki
+35352	Livonjoki
+35362	Rapeikko
+35428	Papeikko
+35506	Niätäjoki
+35523	Ukonoja=Venehjoki
+35543	Vuokinjoki
+35573	Karhujoki
+35594	Huutijoki
+35641	Pieni Jokunjoki
+35694	Ruašanjoki
+35695	Tuohijoki
+35725	Piilojoki
+35754	Kurenjoki
+35761	Penšosenjoki
+35806	Tuomijoki
+35818	Nihvošuujoki
+35819	Kivijoki
+35820	Mattišuujoki
+35856	Joki
+35866	Ypänkijoki
+35890	Kapojoki
+35937	Ahkivojoki
+36006	Jokunjoki
+36059	Lantajoki
+36077	Niva
+36096	Kaunehenjoki
+36098	Kolhankijoki
+36102	Kapajoki
+36103	Latvajoki
+36131	Viitajoki
+36140	Jumalajoki
+36198	Heinäjoki
+36200	Kivijoki
+36213	Muhtajoki
+36215	Venehheitonjoki
+36216	Ripajoki
+36220	Kirkelänjoki
+36226	Viččajoki
+36285	Raukuajoki
+36289	Tohtorijoki
+36293	Riinuojoki
+36294	Piešunkijoki
+36347	Kylypirttinjoki
+36348	Hetteenjoki
+36381	Huarajanjoki
+36384	Myllyjoki
+36424	Riihijoki
+36425	Il’vešjoki
+36426	Keltajoki
+36452	Raukuajoki
+36508	Pošajoki
+36532	Kolhankijoki
+36541	Холодная река
+36542	Дальняя река
+36546	Малая река
+36606	Kir’gajogi
+36630	Tuošlanjogi
+36644	Vašoinjogi
+36700	Suojogi
+36764	Enäjogi
+36767	Mustujogi
+36827	Miinalanjogi
+36851	Päččoja
+36867	Kovazijogi
+36878	Mägrätjärvenjogi
+36996	Änäjogi
+37022	L’uuba
+37235	Kuuronjogi
+37266	Suurijogi
+37267	Pienijogi
+37304	Soudanjoki
+37362	D’ogensuund’ogi
+37447	Vanhajogi
+37555	Ylänouzem
+37560	Alanouzema
+37610	Viidelenjogi
+37612	Suurijogi
+37617	Nyvä
+37906	Ylijogi
+37951	Nouzemanjogi
+38523	Кулгома
+38538	Тихая
+38576	Лива
+38616	Вама
+38622	Во́дла
+38667	Кумбаса
+38679	Матсара
+38685	Нётома
+38688	Нига
+38718	Ронжа
+38774	Винела
+38777	Волошова
+38784	Гузеньга
+38796	Корза
+38818	Режма
+38834	Черга
+38861	Ендрика
+38957	Чёпша
+38960	Черёва
+39030	Голюжа
+39153	Гаужа
+39161	Илекса
+39178	Охтама
+39179	Охтома
+39230	Ноугуда
+39248	Тонда
+39252	Чиргама
+39256	Шошта
+39430	Велмукса
+39951	Старая речка
+40039	Бомба
+40112	Отовжа
+40114	Оять
+40124	По́ршта
+40148	Сомба
+40156	Сума
+40158	Сюзик
+40171	Юнга
+40194	Вама
+40226	Ильма
+40249	Лейбушка
+40270	Нига
+40342	Чопча
+40512	Лейбушка
+40581	Сума
+40715	Келка
+40812	Чикша
+40824	Верхняя
+40920	Суя
+40943	Большая
+40944	Река
+40974	Гакугса
+41017	Гакугская
+41021	Гакугшанка
+41062	Куевская
+41069	Vakkojoki
+41098	Helylänjoki
+41108	Малая
+41121	Муромка
+41146	Погрека
+41172	Сара
+41197	Сорма
+41208	Сормарека
+41221	Суя
+41228	Трёхвёрстка
+41258	Tohmajoki
+41280	Дальняя речка
+41313	Самина речка
+41322	Чёлмужа
+41361	Суя
+41420	Вареша
+41436	Новгуда
+41484	Келка
+41489	Ковда
+41528	Ухтинжа
+41532	Ильвама
+41718	Рымбаса
+41722	Сомбома
+41771	Гаужа
+41789	Вареша
+41790	Варежа
+41801	Новгуда
+41808	Навалахта
+41826	Ламбуда
+41857	Корелка
+41864	Колонжа
+41865	Колонжа Нижняя
+41915	Чопша Нижняя
+41916	Чопша Верхняя
+41955	Пильма
+41961	Пая
+42176	Кеда
+42289	Ендрека
+42310	Канданзя
+42329	Корба
+42355	Лейбушка
+42395	Нига
+42418	Пизьма
+42456	Салма
+42470	Сомба
+42481	Энрека
+42494	Черёва
+42577	Отовожа
+42585	Сарожа
+42593	Юнга
+42705	Журавка
+42759	Велмукса
+42823	Рембушка
+42839	Панеба
+42846	Рагнукса
+43060	Юга
+43145	Ваверека
+43198	Рында
+43213	Шундукса
+43364	Виксенда
+43365	Виксинда
+43554	Кижим
+43692	Pamastanjogi
+43810	Vuohtanjogi
+43874	Nälmänjogi
+44002	Nälmänoja
+44028	Pamastanoja
+44123	Kuuronjogi
+44143	Lumbasjogi
+44179	Videlenjogi
+44182	Nouzema
+44208	Raudoja
+44465	Alajogi
+44480	Kohtanjogi
+44481	Kuuronjogi
+44653	Novzem
+44677	Änäjogi
+44865	Lepistönjogi
+44987	Руданка
+45015	Сорма
+45016	Сустрежа
+45018	Суя
+45056	Черная
+45065	Юга
+45308	Kuoreoja
+45399	Saavainjoki
+45590	N’uokanmelličänoja
+45628	Laudojaine
+45652	Lahnoja
+45656	Kivioja
+45674	Höstöoja
+45675	Töröinoja
+45765	Merdojanoja
+45767	Pedriniemenoja
+45856	Alasenjoki
+45880	Hemminkijovet
+45883	Hirvijoki
+45907	Joutankijoki
+45929	Kerkkiešjoki
+45941	Kis-kisjoki
+45944	Kivi-joki
+45950	Kokkajoki
+45963	Kotioja
+46045	Pistojoki
+46061	Reuhonjoki
+46101	Čikšanjoki
+46103	čirppajoki
+46106	Uhutjoki
+46193	Tollonjoki
+46215	Nuoluttijoki
+46236	Kerkiešjoki
+46273	Vornamoisjoki
+46362	Ганга
+46403	Мельничная
+46708	Kirkkojoki
+46937	Miinalanjoki
+47054	Pappilanjoki
+47077	Pensaanjoki
+47434	Uuksunjoki
+47446	Änäjoki
+47462	Vipuoja
+47463	Vino-oja
+47600	Nouzemand’ogi
+47740	Tulemanjogi
+47751	Videlenjogi
+47863	Пяльма
+47894	Филипречка
+47896	Филиппа
+47927	Säräččyoja
+48014	Laudojaine
+48038	Lahnoja
+48042	Kivioja
+48077	Paivoja
+48079	Melličänoja
+48166	Koskilamminoja
+48233	Nouzemanjogi
+48234	Tykkylänjoki
+48255	Tuulosjogi
+48310	Mel’l’iččujogi
+48320	Koskijogi
+48323	Čupunjogi
+48335	Tuuloksenjogi
+48376	Kuuronjogi
+48386	Lummazjogi
+48414	Lumbahanjogi
+48435	Ongimusjogi
+48445	Änäjogi
+48446	Tulemanjogi
+48480	Huškalanjogi
+48481	Sorbalanjogi
+48529	Pekinjogi
+48530	Anuzjogi
+48531	Sändämänjogi
+48657	Чёрная
+48758	Сустрежа
+48909	Сустрежа
+49036	Сенная
+49514	Бобровая речка
+49516	Шогарка
+49656	Силдажская
+49763	Горойская речка
+49768	Анга
+49769	Сяунёга
+49824	Melliččujogi
+49961	Nouzemanjogi
+49962	Tykkylänjoki
+49983	Tuulosjogi
+50038	Mel’l’iččujogi
+50048	Koskijogi
+50051	Čupunjogi
+50063	Tuuloksenjogi
+50104	Kuuronjogi
+50114	Lummazjogi
+50142	Lumbahanjogi
+50163	Ongimusjogi
+50173	Änäjogi
+50174	Tulemanjogi
+50208	Huškalanjogi
+50209	Sorbalanjogi
+50257	Pekinjogi
+50258	Anuzjogi
+50259	Sändämänjogi
+50385	Чёрная
+50486	Сустрежа
+50637	Сустрежа
+50688	Сенная
+50704	Солмаская Речка
+50707	Сотенная
+50708	Соренка
+50715	Речка
+50757	Луппорга
+50764	Дальняя река
+50790	Быча
+50806	Ухтома
+50835	Илекса
+50895	Сора
+50966	Ваятка
+50972	Колдомка
+51118	Засеря
+51159	Сярмозерка
+51160	Глушица
+51189	Молменка
+51204	Ричка
+51221	Речка
+51235	Речка
+51362	Карповская река
+51438	Маттерка
+51521	Иштома
+51528	Казара
+51567	Немгорка
+51649	Сенькинская
+51759	Kuoreoja
+51850	Saavainjoki
+52068	Vanhajoki
+52256	Kepajoki
+52401	Šombajoki
+52402	Alajoki
+52525	Чуруж
+52527	Воинга
+52536	Охта
+52539	Одава
+52560	Средняя Охта
+52563	Сянда
+52794	У́да
+53260	Ладвозерка
+53261	Ladvujogi
+53274	Bogranoja
+53275	Боераноя
+53278	Kanzozerka
+53281	Juga
+53282	Юга
+53283	Палооя
+53284	Palo-oja
+53303	Олонка
+53304	A(u)nuksenjogi
+53352	Папиноя
+53353	Papinoja
+53434	Пекки
+53496	Питку
+53497	Pitkoja
+53511	Топорная
+53515	Kirvesjogi
+53609	Pienijogi
+53613	Buolehjogi
+53623	Улванка
+53629	Ulvananjogi
+53680	Одинокий
+53687	Кумбуоя
+53688	Kumboja
+53689	Осьнино
+53690	Os’kanoja
+53697	Чилмозерка
+53698	Čil’mitjogi
+53699	Маяйоя
+53700	Majaoja
+53701	Кескус
+53722	Непонос
+53723	Тедероя
+53724	Tedrioja
+53727	Болотная
+53728	Suojogi
+53733	Калатай
+53760	Мегрега
+53761	Mägriänjogi
+53762	Печная
+53763	Päččioja
+53769	Мегрозерка
+53770	Самбатукса
+53773	Sammatuksenjogi
+53857	Терга
+53881	Евчен
+53882	Joučenoja
+53884	Кадой
+53885	Кеопа
+53973	Лаппоя
+53974	Lappoja
+53977	Порый
+53978	Puoroijogi
+53983	Пертоя
+53984	Pert’oja
+53985	Туомиоя
+53986	Tuomoja
+53987	Лумбас
+53988	Lummasjogi
+53989	Видлица
+53990	Videlend’ogi
+53993	Юлиеги
+53994	Ülid’ogi
+53995	Тулокса
+53996	Tu(u)losjogi
+53999	Руйзоя
+54000	Ruižoja
+54005	Ганказоя
+54006	Гушкалка
+54007	Huškalanjogi
+54008	Aŋgasoja
+54016	Кукшаоя
+54017	Kukšoja
+54018	Кукшаярви
+54031	Кейдоя
+54032	Каллоя
+54033	Kalloja
+54038	Пуоройоя
+54039	Puoroijogi
+54040	Аннингазоя
+54041	Anningasoja
+54042	Тигверинеги
+54045	Тулосъярвенеги
+54046	Tulasjärenjogi
+54063	Пускуоя
+54064	Puskuoja
+54067	Гушкала
+54068	Huškalku
+54081	Кокаеги
+54082	Kokoijogi
+54089	Ихоман
+54090	Imahanoja
+54113	Инема
+54123	Кукас
+54124	Kukasjogi
+54137	Сяньдебка
+54138	Sändämänjogi
+54169	Тукса
+54170	Tuksenjogi
+54175	Сыргоя
+54193	Пидкруч
+54194	Pitkoja
+54205	Новзема
+54216	Майоя
+54233	Карниж
+54239	Кирьга
+54242	Похта
+54245	Медвежий
+54253	Усланка
+54255	Болотная
+54258	Коваш
+54259	Kovažjogi
+54260	Черная
+54261	Mustujogi
+54268	Эняйоки
+54302	Суглоя
+54304	Койнося
+54308	Авгуй
+54442	Кайсуоя
+54486	Анчега
+54487	An’d’žuk
+54495	Ангеоя
+54561	Кя́тка
+54632	Сельгарека
+54634	Гридинка
+54761	Мельнична
+54791	Мала
+54792	Больша
+54814	Поземска
+54974	Сигрека
+54989	Гридинска
+55023	Мурашевска
+55084	Мала Сухогубска
+55085	Больша Сухогубска
+55112	Зашеек
+55164	Кумжа
+55248	Лоймож
+55249	Loimolanjoki
+55261	Кивийоки
+55296	Малая Калаярви
+55303	Большая Калаярви
+55306	Янгоя
+55314	Куйтооя
+55320	Ораваоя
+55327	Колос
+55330	Сона
+55333	Большая Калаоя
+55334	Кимиловка
+55337	Колланйоки
+55338	Виртиноя
+55347	Ремиоя
+55349	Кангус
+55350	Наровож
+55351	Олуоя
+55353	Янгоя
+55356	Сораноя
+55357	Кайноважа
+55359	Питкоя
+55364	Кавожа
+55372	Кескиоя
+55375	Лепоя
+55378	Кура
+55399	Сармоя
+55426	Рыгоя
+55427	Раяоя
+55458	Лумбас
+55480	Рыгачоя
+55484	Пехус
+55504	Валуоя
+55506	Пергиевоя
+55519	Шогоноя
+55534	Кивиоя
+55543	Тулемайоки
+55551	Кескимяйсеноя
+55554	Сепяноя
+55558	Койвусеноя
+55559	Чариоя
+55562	Лахтоламменоя
+55570	Мульянаоя
+55575	Хаукиоя
+55580	Эняйоки
+55581	Касармиоя
+55589	Исо-Кивиоя
+55604	Кетмусы
+55635	Хейнюоя
+55636	Евченоя
+55648	Кермойноя
+55651	Сюряоя
+55654	Метчоя
+55655	Кивиоя
+55656	Леписта
+55660	Хенгоя
+55662	Гаппамус
+55671	Кармелиста
+55675	Нялма
+55685	Турканоя
+55687	Райоя
+55688	Хабаоя
+55693	Сювяноя
+55694	Сомат
+55700	Кейдо
+55703	Лидма
+55710	Сюряоя
+55748	Вухтанеги
+55765	Мужезерка
+55886	Ма́лая речка
+55988	Е́лгамка
+56055	Чёрная речка
+56068	Kežäd’oki
+56097	Muštaoja
+56098	Pedraoja
+56143	Выг
+56153	Шайдомка
+56457	Верховский ручей
+56517	Kepajoki
+56518	Ylijoki
+56578	Кумина речка
