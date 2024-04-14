@@ -1,0 +1,96 @@
+island	islandLabel
+http://www.wikidata.org/entity/Q4302146	Монтоссаари
+http://www.wikidata.org/entity/Q4309971	Мюкериккю
+http://www.wikidata.org/entity/Q4309972	Мюкримюксенсаари
+http://www.wikidata.org/entity/Q1672020	Путсаари
+http://www.wikidata.org/entity/Q2126361	Кильпола
+http://www.wikidata.org/entity/Q4205415	Ихамиеленсаари
+http://www.wikidata.org/entity/Q4212426	Канзанаволок
+http://www.wikidata.org/entity/Q4217578	Каувонсаари
+http://www.wikidata.org/entity/Q4220606	Кильписаарет
+http://www.wikidata.org/entity/Q4227202	Койонсаари
+http://www.wikidata.org/entity/Q4230532	Кондостров
+http://www.wikidata.org/entity/Q4234186	Корписари
+http://www.wikidata.org/entity/Q4235925	Котатсаари
+http://www.wikidata.org/entity/Q4249822	Кухка
+http://www.wikidata.org/entity/Q4251207	Кюльвяянсари
+http://www.wikidata.org/entity/Q4251238	Кюнсаари
+http://www.wikidata.org/entity/Q4251349	Кярпясенсаари
+http://www.wikidata.org/entity/Q4251355	Кяряйтсаари
+http://www.wikidata.org/entity/Q4255109	Лауватсаари
+http://www.wikidata.org/entity/Q4259162	Лепостров
+http://www.wikidata.org/entity/Q4092676	Большой Климецкий
+http://www.wikidata.org/entity/Q4102692	Валаам
+http://www.wikidata.org/entity/Q4161275	Дивный остров
+http://www.wikidata.org/entity/Q4269499	Лункулансаари
+http://www.wikidata.org/entity/Q4280665	Мантсинсаари
+http://www.wikidata.org/entity/Q4292033	Метчишари
+http://www.wikidata.org/entity/Q4329664	Оборонный
+http://www.wikidata.org/entity/Q16685302	Пеллотсари
+http://www.wikidata.org/entity/Q18400050	Крестовый
+http://www.wikidata.org/entity/Q18400052	Крестовый
+http://www.wikidata.org/entity/Q18400762	Скитский остров
+http://www.wikidata.org/entity/Q18662955	Святой остров
+http://www.wikidata.org/entity/Q19909173	Южный Олений остров
+http://www.wikidata.org/entity/Q37909684	Кишкин
+http://www.wikidata.org/entity/Q37914405	Остров Пежостров
+http://www.wikidata.org/entity/Q55657205	Байонной
+http://www.wikidata.org/entity/Q97764038	Остров Иоанна Кронштадтского
+http://www.wikidata.org/entity/Q111234725	Polovinnyye Ludy
+http://www.wikidata.org/entity/Q111235016	Popov
+http://www.wikidata.org/entity/Q111235967	Peschanka
+http://www.wikidata.org/entity/Q4107865	Верккосаари
+http://www.wikidata.org/entity/Q4126339	Воссинансаари
+http://www.wikidata.org/entity/Q4244295	Кугрисаари
+http://www.wikidata.org/entity/Q4275313	Макаринсаари
+http://www.wikidata.org/entity/Q4277326	Малая Сеннуха
+http://www.wikidata.org/entity/Q4497120	Хейнясенмаа
+http://www.wikidata.org/entity/Q4527392	Шуйостров
+http://www.wikidata.org/entity/Q7218266	Паяринсаари
+http://www.wikidata.org/entity/Q11881786	Мунатсулуото
+http://www.wikidata.org/entity/Q37914401	Остров Пежостров
+http://www.wikidata.org/entity/Q115162016	Kalmasaari, Vuokkijärvi
+http://www.wikidata.org/entity/Q205244	Кижи
+http://www.wikidata.org/entity/Q109437159	Лычный
+http://www.wikidata.org/entity/Q4335636	Орайтсаари
+http://www.wikidata.org/entity/Q4342761	Палосаарет
+http://www.wikidata.org/entity/Q4356965	Ханхипаси
+http://www.wikidata.org/entity/Q4359584	Перя-Кильписаарет
+http://www.wikidata.org/entity/Q4361617	Петросаари
+http://www.wikidata.org/entity/Q4394504	Риеккалансаари
+http://www.wikidata.org/entity/Q4400165	Руокосалонсаари
+http://www.wikidata.org/entity/Q4404053	Сависалонсаари
+http://www.wikidata.org/entity/Q4405923	Сало (остров)
+http://www.wikidata.org/entity/Q4419020	Свиной
+http://www.wikidata.org/entity/Q4421166	Ситтулуото
+http://www.wikidata.org/entity/Q4429301	Соролансаари
+http://www.wikidata.org/entity/Q4457538	Тимонсаари
+http://www.wikidata.org/entity/Q4496383	Харьюсаари
+http://www.wikidata.org/entity/Q4497269	Хепасалонсаари
+http://www.wikidata.org/entity/Q4497276	Хепосаари
+http://www.wikidata.org/entity/Q4534264	Юкансаари
+http://www.wikidata.org/entity/Q4537402	Ялаянсаари
+http://www.wikidata.org/entity/Q7213604	Рахмансаари
+http://www.wikidata.org/entity/Q16654892	Ивановский остров
+http://www.wikidata.org/entity/Q16701500	Средний
+http://www.wikidata.org/entity/Q17749131	Карпансаари
+http://www.wikidata.org/entity/Q17749222	Каннансаари
+http://www.wikidata.org/entity/Q18405201	Хамарансари
+http://www.wikidata.org/entity/Q19908207	Хонкасало
+http://www.wikidata.org/entity/Q24526702	Vuohisaari
+http://www.wikidata.org/entity/Q24930970	Ряпой
+http://www.wikidata.org/entity/Q37906401	Брусно
+http://www.wikidata.org/entity/Q37912816	Мягостров
+http://www.wikidata.org/entity/Q37913993	Пакатинсари
+http://www.wikidata.org/entity/Q37914573	Остров Плоский Горелый
+http://www.wikidata.org/entity/Q37916139	Остров Сенуха
+http://www.wikidata.org/entity/Q37916200	Остров Серебрянка
+http://www.wikidata.org/entity/Q37916939	Остров Сковородный
+http://www.wikidata.org/entity/Q18405933	Никольский остров
+http://www.wikidata.org/entity/Q117661594	Предтеченский остров
+http://www.wikidata.org/entity/Q117661621	Лембос
+http://www.wikidata.org/entity/Q117661644	Авраамиевский остров
+http://www.wikidata.org/entity/Q117661715	Светлый остров
+http://www.wikidata.org/entity/Q114423967	Выгостров
+http://www.wikidata.org/entity/Q114650450	Малый Колгостров
+http://www.wikidata.org/entity/Q4413988	Селькямарьянсаари
