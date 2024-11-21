@@ -1,1 +1,18 @@
 Named-entity recognition models and algorithms
+
+https://www.google.com/search?q=colab+%22Named+Entity+Recognition%22+Russian&newwindow=1&client=ubuntu-sn&hs=ht4&sca_esv=c64f92f75d6f9f24&channel=fs&sxsrf=ADLYWIIVn1_aPfydE9by-U4_-XNqi8SZHA%3A1732168964322&ei=BM0-Z-CwE9-qwPAPuN_BqAY&ved=0ahUKEwjgwrye4OyJAxVfFRAIHbhvEGUQ4dUDCA8&uact=5&oq=colab+%22Named+Entity+Recognition%22+Russian&gs_lp=Egxnd3Mtd2l6LXNlcnAiKGNvbGFiICJOYW1lZCBFbnRpdHkgUmVjb2duaXRpb24iIFJ1c3NpYW4yBRAhGKABSJc8UJENWMc6cAJ4AZABAJgBc6AB5AmqAQQxMS40uAEDyAEA-AEB-AECmAIRoAKBC8ICChAAGLADGNYEGEfCAgUQABiABMICBhAAGBYYHsICBBAjGCfCAgsQABiABBiRAhiKBcICCBAAGIAEGMsBwgILEAAYgAQYhgMYigXCAggQABiABBiiBMICBRAhGJ8FwgIHECEYoAEYCpgDAIgGAZAGCJIHBDEzLjSgB9hP&sclient=gws-wiz-serp | colab "Named Entity Recognition" Russian - Google Search
+https://www.google.com/search?q=Bert+NER+russian+colab&newwindow=1&sca_esv=c64f92f75d6f9f24&hl=en&sxsrf=ADLYWIIDRmZj7RoGmNTjJZ3rmlMLAIL_YA%3A1732172543372&source=hp&ei=_9o-Z-rKFPLBwPAP8cOh2A4&iflsig=AL9hbdgAAAAAZz7pD9AR1H2U5CwOp2ZPIiuWVVeizih-&ved=0ahUKEwiqxorJ7eyJAxXyIBAIHfFhCOsQ4dUDCBY&uact=5&oq=Bert+NER+russian+colab&gs_lp=Egdnd3Mtd2l6IhZCZXJ0IE5FUiBydXNzaWFuIGNvbGFiMgUQIRigATIFECEYoAFI3EpQzwZYtklwA3gAkAEAmAFkoAHnCqoBBDE4LjG4AQPIAQD4AQL4AQGYAhagAoYMqAIKwgIHECMYJxjqAsICCBAAGIAEGKIEwgIGEC4YChgewgIFEAAYgATCAgsQABiABBiRAhiKBcICCBAAGIAEGMsBwgIGECEYChgqwgIFECEYnwXCAgYQABgWGB7CAggQABgWGAoYHsICCxAAGIAEGIYDGIoFwgIEECEYFZgDFpIHBDIxLjGgB6pO&sclient=gws-wiz | Bert NER russian colab - Google Search
+https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT_only_first_wordpiece.ipynb | Custom Named Entity Recognition with BERT.ipynb - Colab
+https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT.ipynb | Custom Named Entity Recognition with BERT.ipynb - Colab
+https://habr.com/ru/articles/562064/ | Маленький и быстрый BERT для русского языка / Хабр
+https://habr.com/ru/articles/571950/ | NER для русского языка в Spacy 3: удобно и легко / Хабр
+https://github.com/huggingface/notebooks/blob/main/examples/token_classification.ipynb | notebooks/examples/token_classification.ipynb at main · huggingface/notebooks
+https://habr.com/ru/articles/502366/ | Сравниваем работу open source Python — библиотек для распознавания именованных сущностей / Хабр
+https://docs.deeppavlov.ai/en/master/features/models/NER.html | Named Entity Recognition (NER) — DeepPavlov 1.7.0 documentation
+https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_RAAI_Summer_School.ipynb#scrollTo=NoMy9y2vF8GO | Tutorial_RAAI Summer School.ipynb - Colab
+https://sparknlp.org/2022/05/09/bert_ner_rubertconv_toxic_editor_ru_3_0.html | Russian Named Entity Recognition (from IlyaGusev) | bert_ner_rubertconv_toxic_editor | Spark NLP 3.4.2
+https://colab.research.google.com/drive/1NUSO1QGlDgD-IWXa2SpeND089eVxrCJW | rubertconv_toxic_editor demo.ipynb - Colab
+https://github.com/tomaarsen/SpanMarkerNER | tomaarsen/SpanMarkerNER: SpanMarker for Named Entity Recognition
+https://colab.research.google.com/github/littlecolumns/ds4j-notebooks/blob/master/text-analysis/notebooks/Named%20Entity%20Recognition.ipynb#scrollTo=VYwOMt6uUOwL | Named Entity Recognition.ipynb - Colab
+https://spacy.io/usage/linguistic-features#named-entities | Linguistic Features · spaCy Usage Documentation
+https://stackoverflow.com/questions/76608364/how-to-initialize-and-train-an-bert-model-for-ner-in-collab-using-data-that-i-ta | google colaboratory - How to initialize and train an BERT model for NER in collab using data that I tagged manually - Stack Overflow
