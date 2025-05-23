@@ -1,4 +1,15 @@
+# ParaNames
+Многоязычный параллельный ресурс имен использующий Wikidata как источник. <br >
+Словарь имеет следующие стобцы: <br >
+wikidata_id - id в ресурсе wikidata <br >
+eng - написание именованной сущности на английском <br >
+label - написание именованной сущности на языке указанном в столбце language <br >
+language - язык написания название топонима <br >
+type - тип именованной сущности (PER/LOC/ORG)<br >
+(https://github.com/bltlab/paranames/releases/download/v2024.05.07.0/paranames.tsv.gz) <br >
 # paranames_fi.csv
-paranames_fi.csv - файл представляет собой структурированный набор именованных сущностей написанных на русском языке, автоматически извлечённых из словаря ParaNames с использованием скрипта, реализованного в topkar-space/src/ner/paranames_pars.ipynb.<br >
+paranames_fi.csv - файл представляет собой структурированный набор именованных сущностей содержащих "fi" - финский в столбце language и "LOC" - локация в столбце type , автоматически извлечённых из словаря ParaNames с использованием скрипта, реализованного в topkar-space/src/ner/paranames_pars.ipynb.<br >
 # paranames_ru.csv
-paranames_ru.csv - файл представляет собой структурированный набор именованных сущностей написанных на финском языке, автоматически извлечённых из словаря ParaNames с использованием скрипта, реализованного в topkar-space/src/ner/paranames_pars.ipynb.
+paranames_ru.csv - файл представляет собой структурированный набор именованных сущностей содержащих "ru" - русский в столбце language и "LOC" - локация в столбце type , автоматически извлечённых из словаря ParaNames с использованием скрипта, реализованного в topkar-space/src/ner/paranames_pars.ipynb.
+# References
+[ParaNames 1.0: Creating an Entity Name Corpus for 400+ Languages using Wikidata](https://arxiv.org/abs/2405.09496)
