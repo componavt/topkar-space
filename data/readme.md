@@ -1,5 +1,5 @@
-## ParaNames
-#paranames.tsv.gz
+# ParaNames
+## paranames.tsv.gz
 Многоязычный параллельный ресурс имен использующий Wikidata как источник. <br >
 Словарь имеет следующие стобцы: <br >
 - wikidata_id - id в ресурсе wikidata <br >
