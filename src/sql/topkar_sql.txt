@@ -1,0 +1,1 @@
+SELECT id, name, name_for_search, main_info INTO OUTFILE 'C:/file_name.txt' FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n' FROM toponyms WHERE name IS NOT NULL AND name != '' AND name_for_search IS NOT NULL  AND name_for_search != '' AND main_info IS NOT NULL AND main_info != '';
