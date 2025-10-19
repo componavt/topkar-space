@@ -5,5 +5,5 @@ Research and analysis of [TopKar](http://topkar.krc.karelia.ru/) dictionary (Top
 * [nltk-ru-ner.ipynb](https://colab.research.google.com/github/componavt/topkar-space/blob/main/src/ner/nltk-ru-ner.ipynb)
 
 # Поиск NER в файле через stanza
-* [stanza.ipynb](https://colab.research.google.com/github/componavt/topkar-space/blob/main/src/ner/stanza2.ipynb)
+* [stanza2.ipynb](https://colab.research.google.com/github/componavt/topkar-space/blob/main/src/ner/stanza2.ipynb)
 
