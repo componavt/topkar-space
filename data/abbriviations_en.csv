@@ -1,0 +1,128 @@
+id;name;name_en;abbreviation
+1;участок;plot, section;уч-к, уч.
+2;пожога;burnt clearing;пож.
+3;село;rural locality;с.
+4;луда;luda;луд.
+5;омут;deep pool;омут
+6;полуостров;peninsula;п-ов, полуост.
+7;камень;stone;кам., к.
+8;родник;spring, wellspring;род.
+9;колхоз;collective farm;клх., колх.
+10;канава;ditch;кан.
+11;порог;rapid, threshold;порог, пор.
+12;пастбище;pasture;пастб., паст.
+13;нива;arable land;нива
+14;смолокурня;tar kiln;смолок.
+15;мост;bridge;м., мост
+16;берег;shore;бер., берег, б-г
+17;прогон;cattle drive, pasture trail;прог.
+18;яма;pit;ям.
+19;пролив;strait;прол., пр.
+20;мель;shoal;мель
+21;деревня;village;д., дер.
+22;мыс;cape;м., мыс
+23;ручей;stream, brook;р., руч.
+24;покос;hayfield;пок.
+25;озеро;lake;оз., о.
+26;река;river;р., рек.
+27;поле;field;пол.
+28;бор;pinewood;бор
+29;дом;house;д., дом
+30;овраг;ravine, gully;овр., ов.
+31;лес;forest;л., лес
+32;колодец;well;колод., клд., кол.
+33;губа;inlet;губ., гб.
+34;ламба;lamba;лам.
+35;дорога;road;дор.
+36;пруд;pond;пруд, прд.
+37;часовня;chapel;час.
+38;угодье;land, hunting ground;уг.
+39;крест;cross;кр.
+40;хутор;hamlet;х., хут.
+41;рига;drying barn;рига
+42;болото;swamp;бол., бл.
+43;кузница;smithy;куз.
+44;скала;cliff, rock;ск.
+45;церковь;church;церк.
+46;залив;bay;зал., з.
+47;урочище;tract;уроч.
+48;тоня;fishery;тон.
+49;мельница;mill;мел.
+50;место;place;м.
+51;остров;island;о., о-в, остр.
+52;кладбище;cemetery;клдб., кл.
+53;гора;mountain;г., гор.
+54;пристань;pier, wharf;прист., пр.
+55;поляна;glade, clearing;пол.
+56;шахта;mine;шах.
+57;маяк;lighthouse;м., маяк
+59;часть реки;part of a river;ч. р.
+60;часть озера;part of a lake;ч. оз.
+62;улица;street;ул., у.
+63;поселение;inhabited place;пос.
+64;протока;channel;прот.
+65;плёс;stretch of river, reach;плс.
+66;дерево;tree;дер.
+67;плотина;dam;плотин., плт.
+68;монастырь;monastery;мон.
+69;территория;territory;тер.
+70;море;sea;м., мор.
+71;гумно;threshing floor;гум.
+72;отмель;sandbank, shoal;отм.
+73;перевоз;ferry crossing;пер.
+74;волок;portage;волок, влк.
+75;закол;fish weir;зак.
+76;ток;lek;ток
+77;часть деревни;part of a village;ч. д.
+78;местность;locality, terrain;местн.
+79;низина;lowland;низ.
+80;перешеек;isthmus;переш.
+81;межа;division;межа
+82;поворот;turn, bend;пов.
+83;устье;river mouth;уст., у.
+84;часть мыса;part of a cape;ч. м.
+85;выгон;commons;выг.
+86;фамилия;surname;фам.
+87;постройка;building, structure;постр.
+88;водопад;waterfall;водоп., вдп.
+89;изба;hut;изб.
+90;тропа;trail, path;тр.
+91;поселок;town;пос., п.
+92;перекресток;crossroads;перекрест., пер.
+93;город;city;г., гор.
+94;бочага;pit with water;боч.
+95;заводь;creek;заводь
+96;лесопункт;lumber camp;лесоп.
+97;зимник;ice road;зим.
+98;просека;clearing, cut-line;прос.
+99;мостки;footbridge;мостки
+100;станция;station;ст., стн.
+101;местечко;mestechko;м-ко
+102;посёлок городского типа;urban-type settlement;пгт
+103;разъезд;siding;рзд.
+104;пудас;fish trap;пуд.
+105;бухта;bay, cove;бух., б.
+106;карьер;quarry;кар.
+107;выселок;small settlement;высел., в-лок
+108;часть поселения;part of a settlement;ч. пос.
+109;барак;barrack;бар.
+110;колонизационный поселок;colonization settlement;кол. пос.
+111;лесная изба;forest hut;лес. изб.
+112;гидрометеорологическая станция;hydrometeorological station;гмс
+113;казарма;barracks;казар., каз.
+114;развалины;ruins;разв.
+116;склон;slope;скл.
+117;изгородь;fence;изг.
+118;лужа;puddle;луж.
+119;расщелина;crevice, fissure;расщ.
+120;лабиринт;labyrinth, maze;лаб.
+121;ущелье;gorge, canyon;ущ.
+122;рыбный забор;fish trap, weir;рыб. заб.
+123;лесозавод;timber mill;лесоз-д, лзд.
+124;варница;saltworks;варн.
+125;лесоучасток;forest plot;лесоуч.
+126;населённый пункт;settlement;н. п.
+127;фарватер;;фарв.
+128;прорубь;ice hole;прор.
+129;роща;lehto;рощ.
+130;часть моря;;ч. м.
